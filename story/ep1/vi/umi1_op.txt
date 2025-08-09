@@ -600,7 +600,7 @@
 `{n}Sau đó, cô hướng dẫn viên quay lại, vừa nhìn danh sách hành khách vừa nói.`
 `"Bắt đầu lên máy bay.`
 ` Tôi sẽ gọi tên lần lượt theo danh sách hành khách,`
-` xin quý vị vui lòng ngồi theo thứ tự, bắt đầu từ hàng ghế đầu bên phải, ngồi từ phải sang trái, rồi đến hàng tiếp theo.`
+` xin quý khách vui lòng ngồi theo thứ tự, bắt đầu từ hàng ghế đầu bên phải, ngồi từ phải sang trái, rồi đến hàng tiếp theo.`
 ` Bây giờ tôi sẽ bắt đầu đọc danh sách hành khách.`
 ` Ông Ushiromiya Hideyoshi!"`
 `"Ồ, tôi đầu tiên à!`
