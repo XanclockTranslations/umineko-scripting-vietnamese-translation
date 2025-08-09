@@ -34,7 +34,7 @@
 `...And then, I'll stick parasol chocolates into her eyes and tell her to never do it again.`
 `In the direction that the noise had come from, ......it was not only dim, but shrouded in complete darkness.`
 `However, ......I could sense something in that darkness.`
-`.........There were two emerald‐green glints, ......probably cat eyes.`
+`.........There were two emerald-green glints, ......probably cat eyes.`
 ` The eyes of a black cat that blended well into the darkness.`
 `"Are you the one who called me here...?`
 ` .........Or......are you just the messenger...? ..............."`
@@ -82,7 +82,7 @@
 `......What's with this cat?`
 ` ......Is it just an illusion...?`
 `"........................!"`
-`When I looked at its food bowl, ......it was piled up with what appeared to be blood‐drenched raw meat.`
+`When I looked at its food bowl, ......it was piled up with what appeared to be blood-drenched raw meat.`
 `......It was as though someone had torn apart living flesh on the spot...`
 `...and piled it into there.`
 `".........Come on, what's with the creepy reception?"`
@@ -94,7 +94,7 @@
 `".........That was you.`
 ` ......That cat."`
 `"......................................."`
-`"......My dear flesh‐eating cat who has learned to choose its own path,`
+`"......My dear flesh-eating cat who has learned to choose its own path,`
 ` ......it has been long since we last met......"`
 `"It's a path I'd never have to have noticed if you hadn't told me.`
 ` ......You're the monster who taught me the taste of flesh.`
@@ -112,18 +112,18 @@
 `{f:5:Bernkastel} sat unreservedly in an antique chair,`
 ` ......as though she was already familiar with the place.`
 `"............What are you afraid of?`
-` I am merely celebrating my reunion with my longest‐serving miko so far...`
+` I am merely celebrating my reunion with my longest-serving miko so far...`
 ` Did you really find my messenger cat so displeasing?"`
 `By all appearances, {f:5:Bernkastel}'s manner seemed relaxed...`
 `However, {f:5:Featherine} admonished her, telling her not to be afraid.`
 `......And, judging by the expression that rose to Bern's face,`
 ` ......{f:5:Featherine} had been right on the mark...`
 `"Did you really have to make such blunt insinuations against me?`
-` ......A cat leaving behind bloody footprints and stuffing its face with blood‐stained meat..."`
+` ......A cat leaving behind bloody footprints and stuffing its face with blood-stained meat..."`
 `"...........................`
 ` ......Have no fear.`
 ` ......Look closely.`
-` ......Where do you see a cat stuffing its face with blood‐stained meat......?`
+` ......Where do you see a cat stuffing its face with blood-stained meat......?`
 ` I just gave it a plate of biscuits as a reward for going to get you..."`
 `"..........................."`
 `............Despite there being no wind, the bowl at her feet seemed to blow away as though it was made of soot.`
@@ -244,7 +244,7 @@
 `"It seems we differ in that regard......`
 ` ......Heh, ...heheh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eh{0}eheh."`
 `......At some point, that dish piled with biscuits...`
-`...had reverted to a mountain of torn‐apart meat and a splatter of red.`
+`...had reverted to a mountain of torn-apart meat and a splatter of red.`
 ` No, not just meat, ...even intestines...`
 `"......Tea is best enjoyed—"`
 `""With your fellow monsters.""`

@@ -15,7 +15,7 @@
 `{n}(*Trial Summary, p.8)`
 `{n}(*Submitted Evidence #17)`
 `{n}(*{f:5:Bernkastel} Documents, p.802)}`
-`{e:070:However, late at night on 1986‐10‐04, Ushiromiya Battler discovered the hidden gold.`
+`{e:070:However, late at night on 1986-10-04, Ushiromiya Battler discovered the hidden gold.`
 `{n}Natsuhi planned the crimes after the relatives raised a fuss and insisted that Battler should succeed the headship.`
 `{n}She murdered the children in the "cousins' room" and tried to frame Battler for the crime.}`
 `{e:070:Furthermore, Genji was murdered because he was opposed to this scheme.`
@@ -25,7 +25,7 @@
 `{n}(*Supplemental Materials B, p.61)`
 `{n}(*{f:5:Bernkastel} Documents, p.1103)}`
 `{e:070:The concrete details of the crimes are as follows:}`
-`{e:070:1986‐10‐04 24:00.`
+`{e:070:1986-10-04 24:00.`
 `{n}Natsuhi decided to commit the crimes.}`
 `{e:070:Because Genji refused to assist her when asked, she murdered him.}`
 `{e:070:She then murdered her husband Krauss in his own room.`
@@ -80,7 +80,7 @@
 `{n}(*Great Court Internal Documents: Legal Mgmt. U99 #0107)`
 `{n}(*Great Court Official Notice #01724434)}`
 `{e:070:Great Court Official Notice #01724434`
-`{n}Trial of Illusions #0147‐007982 (1986‐10‐05 24:00) decides as follows:`
+`{n}Trial of Illusions #0147-007982 (1986-10-05 24:00) decides as follows:`
 `{n}{n}Ushiromiya Natsuhi confessed to the crimes.`
 `{n}{n}For a period of 13 months following this announcement, related documents may be perused at the Great Court Legal Offices Document Management Center, First Subsection.`
 `{n}{n}Great Court Deputy Attorney General`
@@ -125,7 +125,7 @@
 ` Has a little of that pain and suffering you've endured for 19 years gone away...?!`
 ` .........I finally understand.`
 ` ...The reason you brought me down to this point......is because......you wanted to make me admit it, isn't it......?"`
-`"......Natsuhi‐san.`
+`"......Natsuhi-san.`
 ` Other than us, there's absolutely no one here.`
 ` Please stop this insanely desperate charade and quit pretending that someone who doesn't exist actually does."`
 `Erika laughed mockingly, but, as Aunt Natsuhi looked at us...`
@@ -161,7 +161,7 @@
 ` ......but that servant woman holding the baby faithfully followed me everywhere.`
 `I was unable even to tell her to stop following me, ......and therefore unable to escape from the child's crying......`
 `.........That day...`
-`marked the beginning of 19 long, headache‐filled years......`
+`marked the beginning of 19 long, headache-filled years......`
 `.........Then, we were by the fence overlooking the cliff.`
 `If by taking that baby...`
 `...and throwing it down onto the rocky beach far below me,`
@@ -196,7 +196,7 @@
 `No, I must have heard it.`
 `But because I wanted to think that they'd simply disappeared,`
 ` ......I must have erased that sound from my memory...`
-`".........A‐.........and then.........?"`
+`".........A-.........and then.........?"`
 `"For an instant, ...I thought it was a dream.`
 ` ......It was high enough that I couldn't see the two of them below me just by leaning over.`
 ` So I couldn't tell whether their fall, ......the events of just a few seconds earlier, had actually happened or not..."`
@@ -271,11 +271,11 @@
 `{a:c:`
 `"......No good."}`
 `"Huh.........?"`
-`".........Battler‐san,`
+`".........Battler-san,`
 ` did you say something?"`
 `{a:c:`
 `"No good at all."}`
-`".........B‐`
+`".........B-`
 `.........Battler......ku......n......?"`
 `".........Yeah.`
 ` ...It's no good...`

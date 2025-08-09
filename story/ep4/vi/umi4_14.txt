@@ -22,7 +22,7 @@
 `"I really understand how you feel.`
 ` My personal life was put under surveillance,`
 ` and I had no privacy, no portrait rights, heck, I don't know if I was even afforded human rights.`
-` So I {i:deeply} empathize with your pent‐up anger."`
+` So I {i:deeply} empathize with your pent-up anger."`
 `".........And for that very reason, I want to know, more than anything else, what in the world was that incident that so thoroughly ruined my life.`
 ` That's why I came here."`
 `".........I'm a related party just like you.`
@@ -47,7 +47,7 @@
 `"......I was thrown into darkness when I was six years old and I've never gotten out.`
 ` Are you still going to tell me I have no right to know...?"`
 `".........No, ...I'm sorry.`
-` It seems that since all the others who came were ill‐natured folk, I instinctively put up my guard.`
+` It seems that since all the others who came were ill-natured folk, I instinctively put up my guard.`
 ` I apologize for my rudeness."`
 `"......Alright.`
 ` If you'll swear not to breathe a word of this to anyone, I'll tell you everything."`
@@ -139,7 +139,7 @@
 ` Rebun Island,`
 ` Rebun County,`
 ` Rebun City,`
-` 1‐2‐34‐567.`
+` 1-2-34-567.`
 ` ....................."`
 `Up until Rebun City, it's alright.`
 `...But I just couldn't wipe away the feeling that following sequential number, 1234567, was a little insincere.`
@@ -168,7 +168,7 @@
 `{n}......I didn't know what it meant.`
 `The swipe card was pitch black and had gold letters engraved on it.`
 `"MEMBERS" was written there in English.`
-` The jet‐black, gold‐lettered card design made it feel like something very high‐class.`
+` The jet-black, gold-lettered card design made it feel like something very high-class.`
 `......But of course, I didn't have a clue what kind of card it was just from that.`
 `......I unfolded the letter.`
 `{n}Its contents were extremely brief, and only the following was written:`
@@ -177,8 +177,8 @@
 `......That was all.`
 `"What's this.........?"`
 `"...............`
-` .........It's a card, a key, and a PIN for a safe‐deposit box.`
-` And it wasn't a normal safe‐deposit box either.`
+` .........It's a card, a key, and a PIN for a safe-deposit box.`
+` And it wasn't a normal safe-deposit box either.`
 ` It was an unsettling one, which was apparently reserved only for special clients."`
 `After he had finished putting his affairs in order following his father's funeral, he visited the bank.`
 `......PIN and key and card.`
@@ -188,7 +188,7 @@
 `{n}......The card wasn't properly his possession.`
 `When he mustered up his courage and showed the card to a bank clerk, he was then switched to a clerk of clearly high status, and was guided to a large vault on the fourth basement floor.`
 `The security on the way there was strict.`
-`The doctor had himself stored valuable items such as real estate transcripts in safe‐deposit boxes before,`
+`The doctor had himself stored valuable items such as real estate transcripts in safe-deposit boxes before,`
 ` but this was something on a whole different level......`
 `"......Unlike the procedure at the deposit box I use,`
 ` their system didn't carry out any identity checks so long as you had a card, a PIN, and a key."`
@@ -198,7 +198,7 @@
 `"When I passed the card through the reader, I was asked to input the PIN.`
 ` And after that eight digit number was input and authenticated, I was permitted access to the vault."`
 `"......It was an incredible scene.`
-` A world like something from a sci‐fi movie.`
+` A world like something from a sci-fi movie.`
 ` That massive, dimly lit silver room was covered with doors to safes."`
 `He entered that room along with the clerk.`
 `As soon as the card was read, the vaults he had a right to were apparently determined,`
@@ -211,7 +211,7 @@
 ` I had no way of checking the contents of the other safes."`
 `As the clerk watched, the doctor unlocked and opened the safe.`
 `When he did, a safe drawer like a large cabinet opened,`
-` ......and an expensive‐looking duralumin case showed itself...`
+` ......and an expensive-looking duralumin case showed itself...`
 `That was carried into a separate room, where for the first time, the clerk left, and he was introduced to the contents......`
 `"And the contents were.........?"`
 `"........................`
@@ -242,8 +242,8 @@
 ` ......Alright.`
 ` Then if I may.`
 ` There's something I want to investigate."`
-`I took Onee‐chan's grimoire from the knapsack I had set down.`
-`......Then I opened to the page with the paragraph {f:5:Beatrice} had written to Onee‐chan, and compared the handwriting on both......`
+`I took Onee-chan's grimoire from the knapsack I had set down.`
+`......Then I opened to the page with the paragraph {f:5:Beatrice} had written to Onee-chan, and compared the handwriting on both......`
 `"..................................................."`
 `............The characteristic handwriting was unmistakable.`
 ` The one who had sent this hundred million yen in cash............was {f:5:Beatrice} herself......`
@@ -251,18 +251,18 @@
 ` Something's bugging me......`
 `{n}What is it.........`
 ` What is it.........`
-`".........Y‐......yeah.`
+`".........Y-......yeah.`
 ` I'm pretty sure I got something like that in the mail.`
 ` Hey Ma, where'd I put that again?!"`
 `The same envelope and contents had been sent to Kumasawa's son, who had once lived with her.`
 `But he had been very busy in the days since, and seemed to have forgotten about it among the hustle and bustle of everyday life.`
 `But apparently, its strange contents had stayed in his memory, and he remembered as soon as Ange told him......`
 `After a bit of a wait,`
-` his thin‐lipped wife came with the envelope, complaining that he always forgets where he puts things......`
+` his thin-lipped wife came with the envelope, complaining that he always forgets where he puts things......`
 `The modus operandi for the sender and recipient was exactly the same as for Nanjo's son.`
 `{n}The sender was made out to be Kumasawa's son, and the recipient was Kumasawa Chiyo.`
 `And the destination address was in the Okinawa Prefecture.`
-`{n}Okinawa Prefecture, Yaeyama County, Yonaguni City, {nobr:1‐2‐341‐5167}.`
+`{n}Okinawa Prefecture, Yaeyama County, Yonaguni City, {nobr:1-2-341-5167}.`
 `Yonaguni Island is at the westernmost tip of Japan.`
 `{n}And the lot number was exactly like before: a sequential number that had apparently been chosen at random.`
 `......Now it was certain.`
@@ -279,13 +279,13 @@
 `"......So, you know what this is, girl?`
 ` Could it be that the same thing came to your place...?"`
 `".......................................ah."`
-`"......What is it, Ange‐sama?"`
+`"......What is it, Ange-sama?"`
 `‘Uryu...headache? Headache...?!’`
 `"............Sorry, my head hurts......`
 ` ......Stabbing pain... .........I {i:know} this......"`
 `‘What do you mean, you know this......?’`
 `"You don't mean,`
-` ......this envelope......came to your place too, Ange‐sama...?"`
+` ......this envelope......came to your place too, Ange-sama...?"`
 `.........I remember......`
 ` ......I remember......!!`
 `A strange envelope was also sent to me...twelve years ago...!!`
@@ -314,7 +314,7 @@
 ` My hatred of {f:5:Beatrice} isn't anything new.`
 ` ......I'm just surprised and angry to find out that I had a connection with the witch already on that day, at the age of six..."`
 `".........For the past twelve years,`
-` you have been enslaved by {f:5:Beatrice}‐sama's curse.`
+` you have been enslaved by {f:5:Beatrice}-sama's curse.`
 ` ...This might be proof that this really was a curse.`
 ` But please, don't fall apart.`
 ` Part of this journey should be to break through that."`
@@ -365,22 +365,22 @@
 ` Beato likes pranks like this, right?’`
 `"..................`
 ` .........Yeah, that might be true.`
-` ......I wouldn't put it past {f:5:Beatrice}‐sama to try a vicious prank like a letter from the dead."`
+` ......I wouldn't put it past {f:5:Beatrice}-sama to try a vicious prank like a letter from the dead."`
 `‘No, not just that part.`
 ` .........{f:5:Beatrice} would find it more fun to do it in a way that was a little bit uncertain, instead of one that was absolutely certain.’`
 `".........She would find an uncertain method...more fun...?"`
-`I remembered Maria onee‐chan's diary...`
+`I remembered Maria onee-chan's diary...`
 `{n}......It had quite a lot of descriptions of playing with {f:5:Beatrice}.`
 `Occasionally, some of these involved Beato playing pranks on the adult relatives with Maria.`
 `But those pranks always followed a certain little aesthetic principle of witches.`
 `Which was.........that things are more fun if they are uncertain.`
-`One day, Maria onee‐chan had brought a wind‐up minicar, and she and Beato decided to use it for a prank.`
+`One day, Maria onee-chan had brought a wind-up minicar, and she and Beato decided to use it for a prank.`
 `It was a popular toy at the time—if you made the minicar back up, it would wind up the spring in the tires, and when you let go, it would race forwards.`
 `They had wound up that minicar and set it in the shadow of a milk jug.`
 `......In other words, the prank was that, if you lifted the milk jug, the minicar would jump forwards and surprise whoever did it.`
-`Hoping that someone would get caught in this prank, Onee‐chan and Beato had watched the adults from the shadows for their whole teatime.`
+`Hoping that someone would get caught in this prank, Onee-chan and Beato had watched the adults from the shadows for their whole teatime.`
 `They were looking forward to seeing who would get caught by it, but ultimately, no one moved the trap milk jug, and the trap never went off......`
-`When Onee‐chan had then muttered "We should have put it somewhere where they'd definitely get caught by it",`
+`When Onee-chan had then muttered "We should have put it somewhere where they'd definitely get caught by it",`
 ` Beato apparently said this.`
 `She said,`
 ` "Traps where you don't know who will get caught, or even whether anyone will get caught at all, are more thrilling and fun".`
@@ -393,38 +393,38 @@
 `Then, she suddenly showed interest in the wall.`
 `{n}There, a number of framed photographs were hung.`
 `Many were commemorative photos from when the Kumasawas got together as a family or went somewhere to play, and Kumasawa herself was in many of them.`
-`...Still with a smile that made it so you could almost hear her lighthearted hoh‐hoh‐ho laugh.`
+`...Still with a smile that made it so you could almost hear her lighthearted hoh-hoh-ho laugh.`
 `......It's a distant memory, but I do remember that she was definitely this sort of cheerful old lady...`
-`"Did you notice anything different about Kumasawa‐san in the days leading up to the incident...?"`
+`"Did you notice anything different about Kumasawa-san in the days leading up to the incident...?"`
 `"Nope.`
 ` She looked the same as ever.`
 ` .....Grumbling about how tough the family conference was and how it put her on edge, same as always."`
 `"............?`
 ` ......What's this?"`
 `Among the numerous frames, there was one that had something other than a picture of people in it.`
-`It was a photograph of an enlarged relief of a door from a Western‐style house or something.`
+`It was a photograph of an enlarged relief of a door from a Western-style house or something.`
 `......I couldn't see any interesting subject in particular, which actually bugged me a bit as I wondered why anyone had gone to all the trouble of taking it.`
 `As I got closer, I realized that some text had been written in pen.`
 `"......Oh yeah, that's a photo I got when Mom's belongings were distributed.`
 ` I think it probably has something to do with that "Legend of the Gold" thing."`
 `"The witch's epitaph, you mean?`
 ` Rumored to point to the location of the hidden ten tons of gold...`
-` ......So Kumasawa‐san tried to solve it too, I see.`
+` ......So Kumasawa-san tried to solve it too, I see.`
 ` But this isn't the epitaph.`
 ` ......It's the first time I've seen it."`
-`There was an arch above the Western‐style door, and that arch had a relief.`
+`There was an arch above the Western-style door, and that arch had a relief.`
 ` It was an inscription in English, and that seemed to be the focus of the photograph.`
 `The pen writing appeared to be a translation into Japanese.`
 `".....................`
 ` "This door will only open with a probability of 1/1,000,000,000,000,000.`
 ` You will only be blessed with a probability of 1/1,000,000,000,000,000."`
 ` .........I don't know it.`
-` Nothing like this ever showed up in the epitaph or Onee‐chan's diary."`
+` Nothing like this ever showed up in the epitaph or Onee-chan's diary."`
 `"In Mom's belongings, there were quite a few photos and notebooks that looked like they were from her trying to solve the epitaph's riddle."`
 `"Turns out she was actually surprisingly fond of that kind of thing.`
 ` And there was that rumor that ten tons of gold bars were hidden somewhere.`
 ` No wonder she was so besotted by it."`
-`In both Maria onee‐chan's diary and in her grimoire, there was a description of the witch's epitaph.`
+`In both Maria onee-chan's diary and in her grimoire, there was a description of the witch's epitaph.`
 `It mentioned about how it was a ritual to open the door to the Golden Land, and {f:5:Beatrice}'s resurrection ritual, and {f:5:Beatrice}'s succession ceremony.`
 ` And so on.`
 `Maybe the most interesting one was the last line, the succession ceremony.`
@@ -447,10 +447,10 @@
 `"I think so, but they were all split up between my siblings.`
 ` I don't have a clue who has what.`
 ` Sorry."`
-`".........Just reading this English text that Kumasawa‐san took a picture of, it gives the impression that this was a forbidden door that was rarely opened."`
+`".........Just reading this English text that Kumasawa-san took a picture of, it gives the impression that this was a forbidden door that was rarely opened."`
 `"......But where in the mansion is it, I wonder.`
 ` Judging by the lighting, it looks like it's outside.`
-` ......I wonder if Kumasawa‐san suspected that the gold was hidden in there."`
+` ......I wonder if Kumasawa-san suspected that the gold was hidden in there."`
 `"Who knows.`
 ` In any case, it's probably {i:somewhere} in the Rokkenjima mansion.`
 ` ......It's a pity, but there wasn't the kind of money in Mom's bank account to make me think she found the gold.`
@@ -510,7 +510,7 @@
 ` You'll be able to go to the island now...’`
 `"Yes.`
 ` ......I'd heard that it would be hard to find a boat, so the boat captain's cooperation really helped me out."`
-`".........Although he may not have been as badly affected as you, Ange‐sama,`
+`".........Although he may not have been as badly affected as you, Ange-sama,`
 ` I'm sure that the incident twelve years ago has been a thorn for the boat captain as well, one that he still hasn't been able to pull out."`
 `‘......Uryu.`
 ` ......Even the captain wasn't able to find closure.`
@@ -560,15 +560,15 @@
 ` ......Then we'll see you noon tomorrow.`
 ` Umm, here.`
 ` The fare for the boat."`
-`Ange took a wrapped wad of ten‐thousand yen bills from her pocket.`
+`Ange took a wrapped wad of ten-thousand yen bills from her pocket.`
 `The boat captain must have seen its thickness as well.`
 ` But he paid it absolutely no interest, and shook his head.`
 `"......I'm grateful to you.`
 ` This is guidance from heaven.`
 ` I'm being given a final chance to take you to Rokkenjima and bring you back safely."`
-`"Now, I'll finally be able to finish the final job Kinzo‐san entrusted me with.`
+`"Now, I'll finally be able to finish the final job Kinzo-san entrusted me with.`
 ` So I'm grateful to you.`
-` I got more than enough money from Kinzo‐san back then.`
+` I got more than enough money from Kinzo-san back then.`
 ` Can't take it from you."`
 `".....................Thank you very much."`
 `"Watch your step on the stairs.`
@@ -620,8 +620,8 @@
 ` For them.`
 `{n}Mom.`
 ` Dad.`
-` Battler onii‐chan.`
-`{n}......And...Maria onee‐chan.`
+` Battler onii-chan.`
+`{n}......And...Maria onee-chan.`
 `.........Or maybe, the Golden Witch.`
 ` {f:5:Beatrice}.`
 `What does Rokkenjima have for me?`
@@ -644,10 +644,10 @@
 `Trembling all over, .........I pointed at it.`
 `But no matter how much the boat captain squinted, he noticed absolutely nothing in that direction that should have surprised me.`
 `......That means,`
-` ............th‐......that means............`
-`"............Im‐impossible......`
-` ...Wh‐why............?"`
-`‘U‐.........uryu.........`
+` ............th-......that means............`
+`"............Im-impossible......`
+` ...Wh-why............?"`
+`‘U-.........uryu.........`
 ` ......Ange,`
 ` ......why?`
 ` What's going on......?!’`
@@ -660,11 +660,11 @@
 ` ............This......was my mission."`
 `‘............Uryu...............’`
 `"I.........don't have a clue what's........."`
-`I was frozen in position, shaking, pointing into the semi‐darkness inside the store......`
-`"Wh‐what is it?`
+`I was frozen in position, shaking, pointing into the semi-darkness inside the store......`
+`"Wh-what is it?`
 ` What's over there?!`
 ` I don't, ...I don't understand...`
-` Wh‐what is it that you see...?!"`
+` Wh-what is it that you see...?!"`
 `"Thank you, Captain.`
 ` ......All of this, all of it,`
 ` ......it was all fate.`
@@ -672,11 +672,11 @@
 `...was fate.`
 ` ............This...`
 `......is the mission...and the purpose...that I'm going to Rokkenjima for........."`
-`"............Ange‐san?`
+`"............Ange-san?`
 ` What is it, is something wrong?"`
 `"I, I'm as clueless as you...!`
 ` She's just gone still as a statue, pointing into the darkness...!"`
-`"Ange‐san......?`
+`"Ange-san......?`
 ` Are you alright?`
 ` What can you see......?"`
 `"Can't you two see it?`
@@ -695,9 +695,9 @@
 `From her eyes...`
 `{Comment:Intentionally left out, doesn't work in English (......ぼろりと、):}`
 `...slid a single tear.`
-`".........Ange‐sama.................."`
+`".........Ange-sama.................."`
 `"......I understand.`
-` Onee‐chan.`
+` Onee-chan.`
 ` ......And...`
 `............{f:5:Beatrice}."`
 `‘.........Uryu.........’`

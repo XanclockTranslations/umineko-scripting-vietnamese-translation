@@ -25,7 +25,7 @@
 ` What a waste for a piece that required so much preparation."`
 `"Ehheheheh!`
 ` I'm so~ glad I shackled her with the rule about not giving her name!`
-` If I hadn't set that up, the brother‐sister tag team would have swallowed Beato up and won in the blink of an eye."`
+` If I hadn't set that up, the brother-sister tag team would have swallowed Beato up and won in the blink of an eye."`
 `"............I thought it was my chance to apply a lot of pressure at once,`
 ` but you were watching her so closely that I couldn't make the best use of her.`
 ` ......Aaah, what a waste that piece was."`
@@ -46,7 +46,7 @@
 `"Huuh?`
 ` Not even clo~se!`
 ` Almost all of Battler's blue truth is wrong!`
-` Beato's wishy‐washy red is full of holes.`
+` Beato's wishy-washy red is full of holes.`
 ` Anyone with half a brain could slip through it easily just by rattling off some random BS."`
 `"......Ahhh, that really ticked me off.`
 ` If that had been me, I'd have made sure to cut down every one of those things with the red."`
@@ -56,7 +56,7 @@
 `"And Battler's blue truths, not all of them were even valid.`
 ` ......Beato stated clearly that, within the first game, she`
 ` {p:1:guarantees the identities of all unidentified corpses}!`
-` That breaks Battler's reasoning about the culprit of the Eva/Hideyoshi locked‐room murder being someone who used a fake corpse."`
+` That breaks Battler's reasoning about the culprit of the Eva/Hideyoshi locked-room murder being someone who used a fake corpse."`
 `"Next, he said that Kanon's death in the boiler room was probably an accident, but...*giggle*!`
 ` What kind of accident could end up with him driving a stake into his own chest?`
 ` How dumb is that?`
@@ -70,7 +70,7 @@
 `"......Stop that.`
 ` You mustn't say something like that in red.`
 ` That kid's trying to make it so that she killed Natsuhi by bouncing Natsuhi's bullet back at her with magic."`
-`"Oh‐hoh‐hoh‐ho, oopsie, you're right, I forgot...!`
+`"Oh-hoh-hoh-ho, oopsie, you're right, I forgot...!`
 ` Even his blue truths for the second game were too naive."`
 `"`
 `{p:1:When the six were murdered in the chapel, the culprit was inside the chapel}!`
@@ -97,7 +97,7 @@
 `"...............Then that whole tragic feeling as though Beato was getting cornered was all an act?"`
 `"Obviously?!`
 ` She really is a great actress!`
-` Even though she wasn't cornered at all, it felt like a last‐episode climax to put everyone else to shame!"`
+` Even though she wasn't cornered at all, it felt like a last-episode climax to put everyone else to shame!"`
 `"She's totally the winner for best supporting actress this year!!`
 ` Oh, but of course I'm the sta~r!`
 ` Or it could be you, Be~rn!"`
@@ -122,8 +122,8 @@
 `"...............I wonder if Battler will get caught by that move again.`
 ` I must do my part too, and light a fire under Battler to never feel sympathy for her again.`
 ` ......Although Ange's mincemeat seems to have done that pretty well for the time being."`
-`"A power‐up from an Ange‐flavored hamburger?`
-` Oh‐hoho{0}ho{0}ho{0}ho{0}hoho!`
+`"A power-up from an Ange-flavored hamburger?`
+` Oh-hoho{0}ho{0}ho{0}ho{0}hoho!`
 ` Of course, I won't be beaten either.`
 ` I'll be giving Beato my full support so she can make enough of a comeback to compete with Battler."`
 `"......She won't lose. Beato.`
@@ -145,7 +145,7 @@
 ` And that place will start getting buried with gems, one every day!`
 ` And I'll lock you in it until the castle walls are packed with them, and you've been buried to death with gems.`
 ` Isn't that a wonderful, romantic penalty?"`
-`"..................I'll let you multiply the length of the walls by five if you make the height one‐tenth its current height, and you can even shut me in it right now."`
+`"..................I'll let you multiply the length of the walls by five if you make the height one-tenth its current height, and you can even shut me in it right now."`
 `"Really?!`
 ` That would make it {nobr:3,600,000,000 m³}, you know?!`
 ` The penalty would take more than twice as long!`
@@ -157,7 +157,7 @@
 ` ............Isn't anyone going to bet on Beato to win?"`
 `".....................It won't be me.`
 ` Her chances of winning are zero."`
-`"Oh‐hoh‐hoh‐ho!`
+`"Oh-hoh-hoh-ho!`
 ` It must hurt to be told by the Witch of Miracles that there's zero chance of a miracle!`
 ` I wouldn't bet on her either, of course.`
 ` For certain!"`

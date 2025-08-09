@@ -32,7 +32,7 @@
 `"Yes, it {f:5:does}.`
 ` {nobr:Mrs. {f:5:Virgilia}} possesses a deep knowledge in Heavenly {f:5:Studies}.`
 ` I have often battled with her over {f:5:interpretations}."`
-`"Hoh‐hoh‐ho...`
+`"Hoh-hoh-ho...`
 ` My many intellectual adventures with you were quite enjoyable.`
 ` I'd like to do it again sometime."`
 `"{f:5:Yes}.`
@@ -70,7 +70,7 @@
 `On the game board, Beato and I met Dlanor.`
 `But those were the game pieces of those witches.`
 `{n}They weren't Beato and me ourselves.`
-`"Is that why you went out of your way to greet Battler‐kun and Beato here...?`
+`"Is that why you went out of your way to greet Battler-kun and Beato here...?`
 ` ...I see you're as conscientious as always."`
 `"That is my way of doing {f:5:things}.`
 ` .........Greetings, {nobr:Mr. Battler}.`
@@ -95,7 +95,7 @@
 `......It was a strange sight.`
 `{f:5:Virgilia} made gold butterflies appear from the palms of her hands...`
 `and transformed them into a teapot and a can of tea leaves.`
-`......It was a very witch‐like way of preparing tea.`
+`......It was a very witch-like way of preparing tea.`
 `She was a witch, so it wasn't a particularly unusual sight.`
 `......Though I was a bit concerned about whether Dlanor, an Inquisitor, could allow herself to watch such a spectacle.`
 `"......Have no {f:5:fear}.`
@@ -124,7 +124,7 @@
 ` so it's just common courtesy to avoid complaining about how it was made."`
 `......That's right.`
 `It's common courtesy to be grateful for tea that someone makes for you.`
-`There's nothing elegant about pushing your way into the kitchen and poking around through the tea‐making process.`
+`There's nothing elegant about pushing your way into the kitchen and poking around through the tea-making process.`
 `"You don't invite your guests into the kitchen.`
 ` And when you set the table, you should adorn it beautifully in the spirit of hospitality.`
 ` ......Here you go. It's hot."`
@@ -141,12 +141,12 @@
 `"‘Lie’ is such a dirty word.`
 ` The word "embellishment" is probably more fitting."`
 `"When giving a child candy,`
-` you can either take a crumpled‐up one out of your pocket,`
+` you can either take a crumpled-up one out of your pocket,`
 ` or use a wonderful bit of sleight of hand to produce the candy, and the impression you give with each method is completely {f:5:different}."`
 `"Sure, I mean, producing the candy out of nowhere is a cool little trick."`
 `"{f:5:Wrong}.`
 ` The meaning is in embellishing the result—a candy is given—in a way that makes it even more beautiful and {f:5:fun}."`
-`"......Think of when you give Maria‐chan a candy.`
+`"......Think of when you give Maria-chan a candy.`
 ` There's a huge difference between taking it out of your pocket to give to her,`
 ` and saying a fairy gave it to her for being such a good girl...`
 `after secretly slipping it into her pocket."`
@@ -158,7 +158,7 @@
 ` When you showed up, I got the feeling you'd deny anything that went by the name of magic."`
 `"That is how I act in my capacity as an {f:5:Inquisitor}.`
 ` It is my {f:5:job}.`
-` However, when I am away from my job, I don't enjoy being quite so cold‐{f:5:hearted}."`
+` However, when I am away from my job, I don't enjoy being quite so cold-{f:5:hearted}."`
 `"So, this is what they call leaving your personal feelings aside when on duty?`
 ` ......You do it well."`
 `"As an Inquisitor, hunting witches is my {f:5:job}.`
@@ -221,7 +221,7 @@
 `I'd thought she was an emotionless killer doll without a heart,`
 ` ...but maybe she actually is pretty approachable.`
 `......Though of course, neither of us will show any mercy when fighting on the game board.`
-`For a while, we gazed at the rain‐drenched rose garden as we quietly enjoyed our tea.`
+`For a while, we gazed at the rain-drenched rose garden as we quietly enjoyed our tea.`
 `".........There is one thing I must apologize {f:5:for}."`
 `Dlanor suddenly murmured something.`
 `"What is it?`
@@ -244,7 +244,7 @@
 `".........I know.`
 ` ......{p:1:‘Kinzo is dead at the starting time for all games’}.`
 ` Beato already told us that truth.`
-` ......Battler‐kun should only have been able to achieve a draw at best in that battle.`
+` ......Battler-kun should only have been able to achieve a draw at best in that battle.`
 ` He shouldn't have had any chance at all of winning."`
 `"......You're right.`
 ` ......If you just say that, the whole fight's already over.`
@@ -259,8 +259,8 @@
 ` ...That's checkmate.`
 ` .........Why didn't that girl use that trump card...?"`
 `"............!!`
-` Th‐this is...... .........gh.`
-` F‐For your attention...!`
+` Th-this is...... .........gh.`
+` F-For your attention...!`
 ` There is no way to defeat my red!`
 ` Know that your wish will not be granted...!!"`
 `Though she had fought calmly up until that point,`
@@ -278,7 +278,7 @@
 `"I understand that you are {f:5:upset}.`
 ` However, since you told me to fight with everything I had, I had no choice but to let you {f:5:know}.`
 ` ......Please forgive {f:5:me}."`
-`"Still, even though you'd lost your trump card, you kept on fighting all‐out with your remaining cards.`
+`"Still, even though you'd lost your trump card, you kept on fighting all-out with your remaining cards.`
 ` I don't believe anyone could find fault with what you did."`
 `"......That's right.`
 ` ......If I should be mad at anyone, it's {f:5:Lambdadelta} for butting in."`
@@ -422,7 +422,7 @@
 ` She has already performed sufficient penance..."`
 `"Oh, is that so?`
 ` Then please take her place from now on."`
-`"G‐......Gertrude bears no sin for which to repent......"`
+`"G-......Gertrude bears no sin for which to repent......"`
 `"Gertrude.`
 ` .........Please stand.`
 ` On one leg.`
@@ -452,13 +452,13 @@
 `"......I cannot be harmed, but I can be {f:5:hurt}."`
 `"Hmph.`
 ` As if you have feelings to hurt.`
-` You witch‐hunting murder doll.`
+` You witch-hunting murder doll.`
 ` .........Are you trying to talk back to me?`
 ` Me, the envoy and double of the great Lady {f:5:Bernkastel}...?!"`
 `".........{f:5:No}."`
 `"{i:I} am being reprimanded by Lady {f:5:Bernkastel} because {i:you people} are useless...!!`
 ` Never demonstrate such miserable incompetence again...!`
-` Are‐we‐{nobr:un‐der‐stood}...?!"`
+` Are-we-{nobr:un-der-stood}...?!"`
 `She pulled back the hair she had grabbed even more strongly...`
 `This didn't cause Dlanor any physical pain,`
 ` but she could clearly feel Erika's ill will.`
@@ -482,7 +482,7 @@
 ` ......Oh, before that.`
 ` Are you aware that we were actually presented with a mystery before the murders even occurred?"`
 `"{f:5:Yes}.`
-` You mean the letter with the mark of the One‐winged Eagle, which appeared at midnight last night along with a knock by some {f:5:person}."`
+` You mean the letter with the mark of the One-winged Eagle, which appeared at midnight last night along with a knock by some {f:5:person}."`
 `"That's right.`
 ` The tale appears to describe that it was impossible for any of the {y:0:Human}{n:0:human}s at that moment,`
 ` creating the illusion that an unknown witch exists.`
@@ -524,7 +524,7 @@
 ` blue truth, valid."`
 `"In that case, the problem is the {f:5:knock}.`
 ` Unlike the letter, someone would have to exist there at the instant of the {f:5:knock}."`
-`"I see, so this is the so‐called proof that a person who shouldn't be there, a witch, existed?`
+`"I see, so this is the so-called proof that a person who shouldn't be there, a witch, existed?`
 ` This is completely ridiculous.`
 ` Do they think that this is all it takes to get me, Furudo Erika, to surrender?`
 ` *giggle*giggle*, ahhahaha!"`
@@ -543,7 +543,7 @@
 ` so I guess I'll be nice and give out a few red truths myself{p:0:♪}"`
 `I guess I'll start with the letter.`
 `There was that knock when the large clock struck midnight.`
-`And when the door was opened, there lay a letter in an envelope bearing the One‐winged Eagle.`
+`And when the door was opened, there lay a letter in an envelope bearing the One-winged Eagle.`
 `The idea that the people who weren't in the dining hall secretly placed the letter in the hallway is such an old one, right?`
 `{p:1:Krauss, Natsuhi, and Genji did not even touch that letter}!`
 `"......Oho?`
@@ -617,7 +617,7 @@
 ` then the location that the letter fell was a matter of luck.`
 `The people in the dining hall were able to notice it due to the knock only because it had fortunately fallen near the door.`
 `However, if the location it fell was a matter of chance,`
-` ......it might have landed in the far‐off kitchen,`
+` ......it might have landed in the far-off kitchen,`
 ` ...or even remained stuck the entire time.`
 `If that had happened, the knock would have been ignored as though they'd just imagined it.`
 `In other words, the knock by itself carries no message at all.`
@@ -649,7 +649,7 @@
 ` I know I'm being generous with the red, but aren't you getting a bit greedy?`
 ` I'm not an idiot like Beato,`
 ` so I'm not gonna go blabbing all the repetitions my opponent asks for..."`
-`".........I'll give you a full‐body massage scrub in a bath with marshmallows and konpeitou sometime soon.`
+`".........I'll give you a full-body massage scrub in a bath with marshmallows and konpeitou sometime soon.`
 ` Hard enough to rub your skin off."`
 `"Eheheheheh, now you've gotta keep that promise. *slurp*!`
 ` ......Alright, then, here's a freebie{p:0:♪}`
@@ -666,7 +666,7 @@
 ` {p:1:The letter never existed on the ceiling of the hallway}."`
 `"For your attention: I beg to inform you of the following.`
 ` {p:1:Know that the letter never touched the serving cart}."`
-`".........Wh‐who cares about that?!`
+`".........Wh-who cares about that?!`
 ` The point is, some{y:0: Human}{n:0:one} outside the mansion used some kind of trick to place the letter there!!`
 ` I know what you're trying to do, use that letter and knock to argue that {f:5:Beatrice} exists! Well, it definitely won't work on Furudo Erika!"`
 `"For your attention: I beg to inform you of the following.`
@@ -677,7 +677,7 @@
 `"Why...?!!`
 ` That's the only possibility, right?!`
 ` Someone outside the mansion used some kind of trick other than the ceiling or the serving cart...!!"`
-`"F‐For your attention:`
+`"F-For your attention:`
 ` unless you can specify or hypothesize {i:what kind} of trick, it will not be recognized as blue truth."`
 `"For your attention:`
 ` Lady Erika's blue truths regarding the letter have all been destroyed."`
@@ -711,9 +711,9 @@
 `"...............Well, let me see.`
 ` Normally, I'd never forgive one of my pieces for the utter disgrace of surrendering,`
 ` ......but if she's managed to solve one of the mysteries, maybe I'll let it slide for now......"`
-`"M‐......my master......"`
+`"M-......my master......"`
 `When {f:5:Bernkastel} said she'd let it slide, Erika couldn't hide her relief.`
-`"{i:Then it's time to get punished}, Erika‐chan{p:0:♪}"`
+`"{i:Then it's time to get punished}, Erika-chan{p:0:♪}"`
 `{a:c:`
 `{p:1:None of the characters would misidentify a knocking sound}.}`
 `".........Oh?`
@@ -726,7 +726,7 @@
 `"{p:1:In other words, all of them would correctly distinguish a knocking sound of something truly hitting the door,`
 ` and they definitely wouldn't mishear it.`
 ` It's totally impossible that any sounds except hitting that door directly would be misinterpreted as a knock}!!"`
-`"Wh‐......what the......`
+`"Wh-......what the......`
 ` But that means......at the time the clock struck midnight,`
 ` no one existed who could have hit the door......`
 ` Gggh, ggghgghhhhh......"`
@@ -760,7 +760,7 @@
 `The two witches doubled over laughing,`
 ` as though this was the most fun thing in the world...`
 `"Gah, ............`
-` ...M‐...my master...`
+` ...M-...my master...`
 ` Have no fear.`
 ` As long as my little gray cells are given the time, I will definitely reach an answer to this pitiful red...!"`
 `"Is that so? Thank you.`
@@ -777,7 +777,7 @@
 ` If you don't try a little harder, Bern's gonna forget you, you know...?`
 ` You'll collect dust in that forgotten piece tray, awaiting your turn that will never come.`
 ` ......I imagine that'd be pretty harsh, don't you think...?"`
-`"Ha‐have no fear, Great Lady {f:5:Lambdadelta}, and my master...!`
+`"Ha-have no fear, Great Lady {f:5:Lambdadelta}, and my master...!`
 ` I promise to deliver such a spectacular performance to earn your approval that you will never be disappointed in me again...!"`
 `"............Oh, how reassuring. I guess you're my double after all.`
 ` ......Then you'd better make sure you do work hard, in all kinds of ways.`
@@ -802,8 +802,8 @@
 ` it looked like she had been made to go stand on her own in the hallway...`
 `With the crime in the early morning, we'd completely forgotten about breakfast,`
 ` so we now had our first meal of the day at a time that could never be called breakfast time...`
-`Even Gohda‐san's wonderful meal, which had supposedly been in the works since yesterday night, provided no comfort.`
-`The several empty seats quietly burdened us with a pain‐filled sadness......`
+`Even Gohda-san's wonderful meal, which had supposedly been in the works since yesterday night, provided no comfort.`
+`The several empty seats quietly burdened us with a pain-filled sadness......`
 `Then, in the middle of this meal that felt like a vigil, Erika suddenly stood up.`
 `Everyone focused on her to see what was the matter.`
 `Her expression was somewhere on the line between invigorated and insane, as though she'd come up with some groundbreaking and strange invention.`
@@ -815,11 +815,11 @@
 `With an ugly expression covered with cold sweat, Erika glared and lashed out at Battler.`
 `".........You've got it?`
 ` ......Got what......?"`
-`"There's no way you jumped down from the third‐floor study...!`
+`"There's no way you jumped down from the third-floor study...!`
 ` Not one of us saw you fall down and land in the courtyard...!!"`
 `"....................."`
-`"{p:2:When you set up the ladder from the courtyard and saw Rudolf‐san go up it to the third‐story window,`
-` you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third‐floor window...!`
+`"{p:2:When you set up the ladder from the courtyard and saw Rudolf-san go up it to the third-story window,`
+` you closely observed the structure of the outer wall and realized that by cleverly using the rain gutters and other handholds, it would be possible to descend to the courtyard from the third-floor window...!`
 ` You didn't {i:jump down}!`
 ` You used the rain gutters and so on and clambered down the outer wall like a loser}!!`
 ` What do you think of my blue truth?!! Come on, where's your rebuttal?!"`
@@ -846,7 +846,7 @@
 ` but he managed to land on his feet without injuring himself.`
 `......No one witnessed this,`
 ` but most likely, everyone except Erika currently in the dining hall had realized that something like this had happened.`
-`No one had believed that he'd jumped down from the third‐floor window in the first place.`
+`No one had believed that he'd jumped down from the third-floor window in the first place.`
 `......Even if they hadn't witnessed it directly.`
 `So they had no clue what Erika was complaining about and obsessing over all of a sudden,`
 ` and started to whisper, glancing at her with cold eyes and dubious faces......`

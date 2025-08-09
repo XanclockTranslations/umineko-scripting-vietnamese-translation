@@ -5,7 +5,7 @@
 ` Each month was needed to refine things to the level they are now, and it has to be admitted that our current schedule matches our planned deadlines very closely.`
 ` Your wild applause, please.`
 `This omake is likely going to be the last one, and we thought long and hard about what to include in it.`
-` Maybe some scary stories of what happened to us during the development, reverse‐engineering, and translation process.`
+` Maybe some scary stories of what happened to us during the development, reverse-engineering, and translation process.`
 ` Perhaps the minutes of blank despair we had.`
 ` The times we wanted to sit down, pour our glasses full of something heavy, and send the whole thing to ashes.`
 ` Or even the upcoming news we plan to announce sooner or later.`
@@ -48,9 +48,9 @@
 `......Of course, Shannon had no way of knowing what was taking place in the parlor.`
 `As she came in pushing a dish cart piled with tea cups,`
 ` Natsuhi gave her a pained look for no apparent reason, and Shannon couldn't help but flinch without knowing what she had done wrong.`
-`"......E‐excuse me.`
+`"......E-excuse me.`
 ` I shall prepare some tea for you."`
-`"Oh, Shannon‐chan, it's been a while!`
+`"Oh, Shannon-chan, it's been a while!`
 ` You keep getting prettier every time I see you!"`
 `".........Oh,`
 ` ...um,`
@@ -66,7 +66,7 @@
 ` Worst of all is that this is the very first time you ever see the parlor, and in PS3 it is presented with dining hall backgrounds throughout this scene, confusing readers as to what the parlor is meant to look like.`
 ` We think that Episode 1 was quite rushed.`
 `Returning to the scene a few moments later, we found something buried in the unused voice files.`
-`"Shannon‐chan?`
+`"Shannon-chan?`
 ` Do you know what silver spoons are used for?`
 ` Or why they have to be silver?`
 ` Do you know why?"`
@@ -76,22 +76,22 @@
 `...Taken on its own, the expression on Eva's face may have been charming, in an impish sort of way.`
 `However, the words being spun from her lips held within them the keenness of a razor.`
 `Shannon tried with all her might to avoid Eva's gaze, which continued to focus on her.`
-`Grasping that Shannon was hard‐pressed for an answer, Rosa promptly gave some timely help.`
+`Grasping that Shannon was hard-pressed for an answer, Rosa promptly gave some timely help.`
 ` ({i:Courtesy of the unused voice files, Rosa's part will be played today by Eva herself!})`
 `"They say that silver dims if it is touched by poison.`
-` ...*giggle*, you've learned something, right, Shannon‐chan?"`
+` ...*giggle*, you've learned something, right, Shannon-chan?"`
 `"I have a memo with the epitaph on it!`
 ` Let's all solve the puzzle, let's all solve the puzzle...!"`
 `"This story probably went wrong ever since that time."`
 `".........That may be so.`
-` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}‐sama said."`
+` Maybe we should have tried solving the epitaph's riddle from the beginning, like {f:5:Beatrice}-sama said."`
 ` ({i:Hold on, wasn't this line supposed to belong to...})`
 `"It makes no fucking sense!!`
 ` Don't talk to meeeeeeeeeee, uuo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oohhh!!!"`
 `"C'mon c'mon c'mon c'mon, don't cry, alright??`
 ` Kaboom, kabang, it's magic!!"`
 `"If you want, I'll crush the moon and make comets fall like rain!`
-` I can even bury the whole island in those {b:sexy dynamite nee‐chans} you like so much, seeeeeeeeee??`
+` I can even bury the whole island in those {b:sexy dynamite nee-chans} you like so much, seeeeeeeeee??`
 ` Hihhihhihhihhi!!"`
 `When I think about it, the world is so vast, ......and yet so small.`
 `Billions of people live on the Earth.`
@@ -108,14 +108,14 @@
 ` that doesn't make me qualified to deny it.`
 `"Which is why,`
 ` regardless of whether there is magic in my world or not,`
-` ......I cannot deny the magic Maria onee‐chan taught me."`
+` ......I cannot deny the magic Maria onee-chan taught me."`
 `We are pretty grateful for the materials they left on the disc, actually.`
 ` Leaving the fixed and uncensored unused dialogues untouched in the resources actually allowed us to implement a more complete port.`
 `They were likely in a hurry.`
 ` If you play the game on PSP, you will notice that some sprites stop smiling where inappropriate.`
 `Some mistakes didn't get a fix even there.`
 `Hmm, something feels wrong here.`
-` No, the water‐proof makeup still looks fine.`
+` No, the water-proof makeup still looks fine.`
 ` Oh, right, did {f:5:Beatrice} randomly lose her previously obtained ring for no reason?`
 `In the end we would like to once again thank all our testers for spending their time on our work.`
 ` Without you it would not have been seen!`

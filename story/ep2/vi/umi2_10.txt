@@ -1,6 +1,6 @@
 `"Milady, please, calm yourself...!"`
 `"We still don't know who the culprit is!`
-` And {f:5:Beatrice}‐sama is an important honored guest to the Master...!"`
+` And {f:5:Beatrice}-sama is an important honored guest to the Master...!"`
 `"So what?!!`
 ` If we grab her by the collar, she'll definitely confess!!`
 ` If we can look her in the eye, we'll know!!`
@@ -37,12 +37,12 @@
 ` That would be horribly rude...!!"`
 `Although Gohda was flustered, he still tried to somehow calm Jessica's anger.`
 `......After hanging his head silently for a while, Kanon pulled a master key from his jacket pocket.`
-`"Kanon‐san...!`
+`"Kanon-san...!`
 ` Is that alright?!"`
 `"......I am aware that this will be rude if she is there.`
 ` .........And in any case,`
-` ...if {f:5:Beatrice}‐sama has nothing to do with this, she just has to explain herself so that we can believe her."`
-`"Tha‐......that's right, exactly!!`
+` ...if {f:5:Beatrice}-sama has nothing to do with this, she just has to explain herself so that we can believe her."`
+`"Tha-......that's right, exactly!!`
 ` Give it here!"`
 `Jessica snatched the master key from Kanon's hand, and violently shoved it into the keyhole.`
 `...Immediately, there was a light sound and she felt it unlock.`
@@ -162,12 +162,12 @@
 `Jessica got up unsteadily, and as her asthma continued, she went out into the hallway...`
 `"Milady, your medicine, quickly...!`
 ` I will call Doctor Nanjo!"`
-`"...............Gohda‐san.`
+`"...............Gohda-san.`
 ` .........Would you...leave this to me?"`
 `Kanon had noticed.`
 ` .........Gohda, who was much older, ...probably couldn't feel the tears in Jessica's heart.`
 `......Kanon, who had noticed that himself, had to support her.`
-`"K‐Kanon‐san.`
+`"K-Kanon-san.`
 ` ............Is that alright...?"`
 `".........I believe that Milady needs some time to cry for now.`
 ` ............After seeing her parents, when they were killed like that..."`
@@ -177,7 +177,7 @@
 ` ......And he also knew of the modest relationship that Jessica and Kanon shared.`
 `So he understood everything, and left it to Kanon.`
 `".........I understand.`
-` ......I will go back to Rosa‐sama.`
+` ......I will go back to Rosa-sama.`
 ` ...Please, take care of Milady."`
 `"Yes.`
 ` ......Leave it to me."`
@@ -185,7 +185,7 @@
 `{n}After looking at his eyes, Gohda also nodded forcefully.`
 `...Gohda was a veteran with many years behind him.`
 ` He had seen a great number of people in his life.`
-` ...So he knew of the vigorous sparkle that could be found in the eyes of those who had self‐control.`
+` ...So he knew of the vigorous sparkle that could be found in the eyes of those who had self-control.`
 `He had seen that clearly in Kanon's eyes.`
 `{n}......Therefore, he would leave this to Kanon.`
 `...Thinking about it, this may have been the first moment that Gohda had trusted Kanon and relied on him for a job...`
@@ -220,7 +220,7 @@
 `......Even so, ...her sadness was probably even stronger...`
 `After having her sit on the bed, Kanon took an inhaler from a cute basket on a side table by the bed, and handed it to her.`
 `......Jessica sometimes forgot to walk around with her medicine.`
-`When it seemed that this was the case, Kanon would take notice and secretly carry around the inhaler from the first‐aid kit in the servant room, but he hadn't done so today.`
+`When it seemed that this was the case, Kanon would take notice and secretly carry around the inhaler from the first-aid kit in the servant room, but he hadn't done so today.`
 `......He scolded himself, as though wondering how, after failing to bring it with him on a day like this, he could call himself furniture.`
 `.........Then he remembered the day when he had spoken that word, and somehow betrayed Jessica's feelings, ...which jarred Kanon's heart,`
 ` ......but compared to Jessica's current sadness, he thought of that as a far more shameless emotion, and he suppressed it to the depths of his heart...`
@@ -295,7 +295,7 @@
 `".....................You really don't understand a woman's heart.`
 ` ...In times like that, you should silently remain by her side.`
 ` ...*cackle*cackle*, that's why you're furniture."`
-`"Y‐............you―"`
+`"Y-............you―"`
 `There shouldn't have been a trace of anyone in this corridor.`
 `{n}It had been empty and cold.`
 `{n}.........But those scoffing words approached Kanon from behind.`
@@ -325,12 +325,12 @@
 ` Still, even though you may not be worth it alone, if the two of you are gathered, that's more than enough.`
 ` ......I never get tired of the pleasure that comes from laughing at the fate of a young couple."`
 `"What did you say...`
-` .........Y‐`
+` .........Y-`
 `...you aren't thinking...`
 ` ......Not Milady......"`
 `"I need "two who are close" as sacrifices for the second twilight.`
 ` ...The two of you truly are convenient...!!"`
-`"W‐......wait...!`
+`"W-......wait...!`
 ` Don't misunderstand......!`
 ` Milady and I...`
 `...don't have that kind of relationship...!`
@@ -367,15 +367,15 @@
 `......It's countless gold butterflies—{f:5:Beatrice}'s minions!!`
 `Jessica was surrounded by countless butterflies, and was waving her hands around, trying frantically to bat them away.`
 `"Milady!!!"`
-`"Ka‐Kanon‐kun......`
-` H‐help...............`
+`"Ka-Kanon-kun......`
+` H-help...............`
 ` ...*cough*cough*cough*cough*!!"`
 `Kanon rushed towards Jessica, and violently brushed the group of butterflies away.`
 `...The butterflies, beautiful yet filthy, surrounded Jessica's face, trying to crawl in through her mouth and nose.`
 `Jessica gagged violently.`
 `...Almost as though the butterflies were triggering her asthma attack, sneering at her.`
 `Indeed, when Kanon ran towards Jessica as she choked, the butterflies stopped attacking her, and this time, they began to elegantly dance a rondo around the two.`
-`".........Kanon‐kun...... Kanon‐kun........."`
+`".........Kanon-kun...... Kanon-kun........."`
 `"...It's alright.`
 ` ............While there's still life in my eyes,`
 ` ......I won't let anyone lay a finger on you."`
@@ -391,8 +391,8 @@
 ` Now you are carp on the chopping board."`
 `"No, since the two of you are together, should I call it {c:86EF9C:duck with green onions}?`
 ` Hahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
-`"Y‐......you,`
-` ......B‐{f:5:Beatrice}...!!"`
+`"Y-......you,`
+` ......B-{f:5:Beatrice}...!!"`
 `"Please, stand back.`
 ` ......I'll protect you, Milady...!"`
 `"It's essential that the witch appears when the princess and the knight are together.`
@@ -401,17 +401,17 @@
 `When she did, a blizzard of gold butterflies started up, and they began to form a small mountain as they whirled around in a circle.`
 `...Just like how a cold, wintry wind swirls and creates a mountain of leaves.`
 `From that mound of gold, a hand sprouted, ...and it appeared, ......as though a resident of the world below was crawling out.`
-`"Wh‐.........what is this......?`
+`"Wh-.........what is this......?`
 ` What's going on......?!"`
 `Jessica couldn't comprehend what she was seeing right now, and her mouth kept flapping open and closed...`
 `It was a literal attempt to take in and digest knowledge—to understand the incomprehensible.`
 `That which was crawling up......was probably an attendant serving the witch.`
 `It appeared to be wearing a uniform following the pattern of those who serve.`
 `......But its face was different.`
-` It was...strange‐looking...`
-`......It was covered with pitch‐black hair, ...it breathed rotten breath, and its eyes were filled with the same strange subterranean glow as lava.`
+` It was...strange-looking...`
+`......It was covered with pitch-black hair, ...it breathed rotten breath, and its eyes were filled with the same strange subterranean glow as lava.`
 `...And.........the symbol of those who are not human—a pair of horns...`
-` It was the figure of a goat‐faced attendant who served the witch......`
+` It was the figure of a goat-faced attendant who served the witch......`
 `"...........................!!!!!"`
 `Jessica could no longer decide what to say.`
 `...All this happening in front of her couldn't be explained with this world's common sense, and she couldn't do anything except open and close her mouth.`
@@ -434,7 +434,7 @@
 `The goat attendant made a gesture that seemed to be a silent bow.`
 `{n}Was that in response to its master, ...or was it offered to the opposing Kanon?`
 `Then, on the attendant's hand, ......a blade of wicked malice appeared......`
-`".........Wh‐`
+`".........Wh-`
 `............what is...`
 `......that............"`
 `Jessica had been unable to understand what was happening in front of her for a while now.`
@@ -454,7 +454,7 @@
 `"......Beautiful.`
 ` ...At least when it comes to giving birth to furniture, Kinzo might reach up to my feet."`
 `"...Something like this......can't even be used to trim the roses."`
-`"...............K‐.........Kanon‐kun...`
+`"...............K-.........Kanon-kun...`
 ` ...............What is........."`
 `".........I didn't want...to show you."`
 `"So you had the courage to draw your blade.`
@@ -491,7 +491,7 @@
 `"*cackle*cackle*cackle*cackle*cackle*.`
 ` ......You may mutter excuses about not being on your game if you wish?"`
 `"........................"`
-`"K‐......Kanon‐kun, ............stay strong...!"`
+`"K-......Kanon-kun, ............stay strong...!"`
 `".........It's alright.`
 ` .........I...won't die yet."`
 `The trail drawn by the goat attendant's blade......drew a large arc in empty space.`
@@ -526,27 +526,27 @@
 ` Speak not, furniture.`
 ` Be silent, furniture.`
 ` Know your place, furniture!!"`
-`"K‐.........Kanon‐kun isn't furniture...!"`
+`"K-.........Kanon-kun isn't furniture...!"`
 `"......Hoh.`
 ` ...And why do you say that?"`
 `"I don't need a reason.`
-` ......Kanon‐kun is Kanon‐kun."`
+` ......Kanon-kun is Kanon-kun."`
 `"No, his real name is different, ......but a name doesn't make him furniture!`
-` Kanon‐kun has his own way of living.`
+` Kanon-kun has his own way of living.`
 ` That's a very noble thing, and it's up to him to decide."`
 `"......Saying he can't have an opinion because he's furniture, or can't have his own life because he's furniture......that's all just crap!!"`
 `"Milady... You mustn't provoke her."`
 `"No, I'm gonna say this clearly.`
-` .........Kanon‐kun isn't furniture.`
+` .........Kanon-kun isn't furniture.`
 ` He's human.`
 ` ......Why?"`
-`"Kanon‐kun rushed to save me of his own will.`
+`"Kanon-kun rushed to save me of his own will.`
 ` And he stood in the path of you, a fearsome witch.`
 ` Even though he had many chances to just abandon me, he didn't."`
-`".........Self‐sacrifice is part of the noble spirit that only humans have!!`
-` So Kanon‐kun is human!!`
+`".........Self-sacrifice is part of the noble spirit that only humans have!!`
+` So Kanon-kun is human!!`
 ` So take it back!`
-` Don't ever call Kanon‐kun furniture again!!"`
+` Don't ever call Kanon-kun furniture again!!"`
 `".........Mila...dy........."`
 `"Hmph.`
 ` ......*cackle*cackle*cackle*cackle*.`
@@ -563,10 +563,10 @@
 ` Quickly, execute the second twilight.`
 ` ......Do not permit me to blink thrice."`
 `"......As you command."`
-`"A‐......another weirdo's shown up......"`
+`"A-......another weirdo's shown up......"`
 `"...........................kh..."`
 `It took Kanon less than an instant to understand.`
-` ......That goat‐face from a second ago had been nothing more than a pawn to the witch.`
+` ......That goat-face from a second ago had been nothing more than a pawn to the witch.`
 `However, there was a marked difference in the value of this piece, of this furniture that had been newly summoned.`
 `"......How lucky am I, to be granted such gorgeous prey.`
 ` .........*giggle*giggle*giggle*, you scared?`
@@ -583,13 +583,13 @@
 ` Answer me, cutie boy.`
 ` Wherever you want it, I'll run you through hard...!!`
 ` *giggle*giggle*giggle*giggle*, come on, answer me, cutie...!"`
-`"D‐...don't call me cute!!!"`
+`"D-...don't call me cute!!!"`
 `"Kyahahahahaha!!`
 ` Here I come, slowpoke!!`
 ` Come on, try to follow me, you blind idiot!!`
 ` Kyaahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"Ugnhh......!!"`
-`"............Mi‐......Milady........."`
+`"............Mi-......Milady........."`
 `"Heh, .........I couldn't follow it with my eyes...`
 ` But my guess...was spot on.........`
 ` Serves you...right............"`
@@ -645,7 +645,7 @@
 ` ......You were really...cool......"`
 `Kanon finally fell over.`
 ` ......He landed next to Jessica, and the two lay there like Gemini.`
-`"......You know, Kanon‐kun,`
+`"......You know, Kanon-kun,`
 ` .........you aren't...furniture anymore..."`
 `"...Yes......`
 ` .........I was...`

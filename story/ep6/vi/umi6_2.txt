@@ -9,7 +9,7 @@
 `"Yeah, you'd better.`
 ` ......I kept making strange faces all the time last game thanks to you...`
 ` Thought I might start getting wrinkles."`
-`"Th‐there's no need to worry.`
+`"Th-there's no need to worry.`
 ` The beauty of your face is without peer, no matter how wrinkly it may get."`
 `"........................!!!"`
 `"Eheheheh!`
@@ -21,7 +21,7 @@
 `"Even though chess still exists, no one knows the name of the person who invented it."`
 `"Oh, you're right!`
 ` Kyahahaha, poor game creato~rs!"`
-`"Come to think of it, Battler‐san is really keeping us waiting, isn't he?`
+`"Come to think of it, Battler-san is really keeping us waiting, isn't he?`
 ` Is he still setting up the sixth game?"`
 `"......Gertrude.`
 ` How are Lord {f:5:Battler}'s preparations {f:5:progressing}?"`
@@ -42,13 +42,13 @@
 ` it was taking Battler quite some time to show himself.`
 `Then, a swarm of gold butterflies swelled out of nothing and formed a human shape.`
 `From the shape of that familiar dress, everyone immediately realized who it was.`
-`"Ah, look, it's {f:5:Beatrice}‐san.`
+`"Ah, look, it's {f:5:Beatrice}-san.`
 ` And I thought you'd died and disappeared last time."`
 `"......Beato the player is the one who disappeared.`
 ` This is probably just a piece...Battler's piece."`
 `"Even if she is a piece, it does not change the fact that it is {f:5:her}."`
 `{f:5:Beatrice} gave an elegant curtsy as she appeared.`
-`This humble entrance was so vastly different from her usual high‐pitched laugh...`
+`This humble entrance was so vastly different from her usual high-pitched laugh...`
 `that it created a sense of tension as they waited for the start of the sixth game to be announced at last...`
 `"Father will be here very soon.`
 ` I ask that you wait for just a short while longer......"`
@@ -63,7 +63,7 @@
 `Beato wasn't the type who could keep up this kind of act for long.`
 `It would probably fall apart in a few seconds, leaving her laughing and cackling rudely at everyone.`
 `Erika, who was itching for a fight, went for Beato almost at once.`
-`"I never expected that incompetent Battler‐san...`
+`"I never expected that incompetent Battler-san...`
 `to reach the truth of your game."`
 `"......It must be Father's talent that led him to his profound understanding.`
 ` He really is clever."`
@@ -102,7 +102,7 @@
 `"Wait a second,`
 ` don't tell me you have amnesia or something...?"`
 `"I, ...I was only born recently, so I have no memories at all.`
-` ......B‐but I...!`
+` ......B-but I...!`
 ` I'm studying hard...in order to become the {f:5:Beatrice} you all expect—"`
 `{a:c:`
 `"Beato.`
@@ -123,10 +123,10 @@
 ` Battler didn't leave her any room for debate.`
 `Beato hung her head and curtsied as she prepared to leave the room...`
 `"Also."`
-`"Y‐yes, what is it, Father?"`
+`"Y-yes, what is it, Father?"`
 `"......My name is Battler.`
 ` ...Never call me by another name again."`
-`"...Y‐`
+`"...Y-`
 `.........yes."`
 `Beato melted into a swarm of butterflies and disappeared.`
 `This was the first part of the tale with Battler as the Game Master.`
@@ -156,12 +156,12 @@
 `"Of course, the winter sun is quick to sink back below the horizon."`
 `"Of course, my master.`
 ` I'll drag it back down for you right away.`
-` At least your title is <good>, Battler‐san. I'll give you that much."`
+` At least your title is <good>, Battler-san. I'll give you that much."`
 `"I'm glad you like it.`
 ` ...Then let's get started.`
 ` The sixth game will now begin."`
 `Battler solemnly announced the start of the game.`
-`......Compared to his fired‐up attitude at the end of the last game, where he and Erika had sworn to settle everything next time,`
+`......Compared to his fired-up attitude at the end of the last game, where he and Erika had sworn to settle everything next time,`
 ` he was extremely quiet now......`
 `"......Ange.`
 ` Beato seems very different from the way she was before."`
@@ -169,7 +169,7 @@
 ` ......I don't have a clue what's going on.`
 ` In fact, I don't even get why Beato's revived in the first place.`
 ` I just finished reading it a little while ago, ......but at the end of the previous tale,`
-` didn't she die just before Onii‐chan reached the truth?"`
+` didn't she die just before Onii-chan reached the truth?"`
 `"There are two kinds of death in this world.`
 ` ......One of them is when a piece is taken from the game board.`
 ` This is only a death within the bounds of the game, and these lives can revive over and over again each time you start a new game."`
@@ -178,25 +178,25 @@
 ` the lives of those characters who appear on the game board are no different from pieces on a chess board that take other pieces and get taken.`
 `After all, these pieces will be set up again when the next game starts.`
 `"Maria's Sakutarou is a prime example of these."`
-`"......Sakutarou is Onee‐chan's piece...?"`
+`"......Sakutarou is Onee-chan's piece...?"`
 `Yes, ......that does make sense.`
-`On the game board that represents the inside of Onee‐chan's head, Sakutarou certainly does exist,`
+`On the game board that represents the inside of Onee-chan's head, Sakutarou certainly does exist,`
 ` and is a piece which always stays by her side.`
 `Though he's nothing more than a stuffed animal in the real world,`
-` on Onee‐chan's game board, he is a full piece, no different from any other piece.`
+` on Onee-chan's game board, he is a full piece, no different from any other piece.`
 `"But, ......I wonder.`
 ` ...On the witches' game board, it's easy to revive a piece, right?`
-` ......But Onee‐chan was unable to revive Sakutarou in her world."`
+` ......But Onee-chan was unable to revive Sakutarou in her world."`
 `"......That's because she lost that completely unique stuffed animal that was his vessel.`
 ` Because of this, the conditions for that piece's existence were violated, and it became impossible to revive him on Maria's game board.`
 ` ......The only reason you were able to revive Sakutarou on the game board was because you once again satisfied the conditions for his existence, correct?"`
 `".........True."`
-`Maria onee‐chan...`
+`Maria onee-chan...`
 `was only unable to revive him because she had lost the stuffed animal that was his vessel.`
 `......If, like my family on Beato's game board,`
 ` she hadn't needed a "vessel" for him, she would have been able to revive him as often as she wanted.`
 `"Got it.`
-` ......I see that Sakutarou might be considered Onee‐chan's piece.`
+` ......I see that Sakutarou might be considered Onee-chan's piece.`
 ` At least, as long as his vessel was okay, he could have been revived over and over again."`
 `"Correct.`
 ` As long as the vessel is safe, it can be revived over and over again.`
@@ -206,7 +206,7 @@
 `"That's the death of beings outside the game board.`
 ` To continue with the Sakutarou example, this would be like Maria's death."`
 `"Not the piece,`
-` ......but the real Onee‐chan's death, right?"`
+` ......but the real Onee-chan's death, right?"`
 `"It doesn't have to be her death.`
 ` Loss of interest or concern would have the same effect.`
 ` ......When Maria grows up from playing with stuffed animals, then "Maria the game player" will die.`
@@ -214,7 +214,7 @@
 `".........I see.`
 ` In that case, "Beato the player" completely gave up on winning during the last game,`
 ` ......so she died and vanished.`
-` ...Which means that if Beato thinks she has a chance of defeating Onii‐chan again, she'll come back to life, right?"`
+` ...Which means that if Beato thinks she has a chance of defeating Onii-chan again, she'll come back to life, right?"`
 `"Logically, that is true.`
 ` It's the same for people, witches, and even gods.`
 ` If they lose interest and concern, they can die at any time.`
@@ -259,7 +259,7 @@
 `That's probably why the shackles binding her to the game board were released.`
 `And that explains why she disappeared in the fifth game...`
 `"......So,`
-` when Onii‐chan managed to reach the truth,`
+` when Onii-chan managed to reach the truth,`
 ` ...it was one game too late for him to tell Beato about it."`
 `"The fifth game was a form of charity on {f:5:Lambdadelta}'s part.`
 ` ......She merely showed Battler some mercy as the Witch of Certainty, acknowledging his strong desire to reach the truth no matter what..."`
@@ -281,17 +281,17 @@
 `In the human world, there is nothing so boring as predictability.`
 `That's why, though a doll can become a person's best friend in the world,`
 ` ......people eventually get bored and outgrow them...`
-`Onii‐chan only wants the real Beato.`
+`Onii-chan only wants the real Beato.`
 `He couldn't bear having a doll that he could only make act like Beato...`
 `".........A Beato born as Battler's piece...`
 `would probably move exactly according to Battler's wishes."`
 `"She is a piece, so that's only natural.`
 ` Pieces move according to their player's directions.`
 ` ......And they are incapable of moving in any other way.`
-` ......I see what it is Onii‐chan wants.`
+` ......I see what it is Onii-chan wants.`
 ` Then, just who is this weird Beato?"`
 `"......Battler might be trying to revive Beato in the truest sense.`
-` ......It is the never‐dying dream held by the children of man."`
+` ......It is the never-dying dream held by the children of man."`
 `"You just used the red to say that wasn't possible."`
 `"......{i:That Beato} has no chance of reviving.`
 ` However, that doesn't mean that it is impossible to create "Beato" again...`
@@ -329,7 +329,7 @@
 ` ......However, without you here, I am nothing but a weak, sickly person without even the power to think..."`
 `"If you'd just said that in the first place, I'd have agreed to read for you a lot more easily."`
 `"......My mood just happened to improve.`
-` ...Don't get an over‐swelled impression of yourself.`
+` ...Don't get an over-swelled impression of yourself.`
 ` I think of your life as nothing more than a leaf one may lose after using it as a bookmark..."`
 `"‘Please continue reading’,`
 ` is how I choose to interpret that.`
@@ -348,7 +348,7 @@
 `......What a coincidence.`
 ` That's exactly how I used to be.`
 `"Anyway.`
-` ......From what we learned in the fourth game, there's no doubt that there was some kind of bad blood between Beato and Onii‐chan in the past.`
+` ......From what we learned in the fourth game, there's no doubt that there was some kind of bad blood between Beato and Onii-chan in the past.`
 ` Learning about this Beato might give us a key towards finding the truth."`
 `"It does seem so.`
 ` ......It has caught my interest as well.`
@@ -359,7 +359,7 @@
 `Kinzo's study is the room belonging to the master in the {y:0:Human}{n:0:human} world.`
 `So, this study in the world of nonhumans belonged to the master of the game board...`
 `...and was a place where he could look down upon the {y:0:Humans}{n:0:humans}...`
-`Therefore, it was understandable that one might mistake the imposing, robe‐clad man in the center of the study for Kinzo,`
+`Therefore, it was understandable that one might mistake the imposing, robe-clad man in the center of the study for Kinzo,`
 ` if only for a second.`
 `It wasn't Kinzo.`
 `......It was Battler, the one who had taken up the position of Game Master,`
@@ -382,12 +382,12 @@
 ` ......but this is seriously harder than I thought it'd be."`
 `"You must write up multiple tales and make the inner and outer sides of the story match.`
 ` ......And yet, you have displayed such skill, it is hard to believe that this is your first time.`
-` ......I believe even Erika‐sama will be satisfied with this game."`
+` ......I believe even Erika-sama will be satisfied with this game."`
 `"Well, hopefully it matches that great detective's tastes.`
 ` ......Still, ...I've got to honestly respect Beato now.`
 ` ...I can hardly believe that she managed to create such complicated stories so easily."`
 `"......It was not easy.`
-` ......{f:5:Beatrice}‐sama spent a long, long time deliberating, and each time she created a tale, she would worry over various contradictions.`
+` ......{f:5:Beatrice}-sama spent a long, long time deliberating, and each time she created a tale, she would worry over various contradictions.`
 ` She was constantly battling with logic errors."`
 `"Logic errors?"`
 `"That is when the two sides of the tale do not meet, creating a contradiction.`
@@ -423,7 +423,7 @@
 ` ...that was the final mystery of the fifth game."`
 `"Yes.`
 ` ......When Battler reached the truth, there was a great change in his impression of Beato."`
-`"Does that mean it's fair to assume that there really was some kind of connection between Onii‐chan and Beato,`
+`"Does that mean it's fair to assume that there really was some kind of connection between Onii-chan and Beato,`
 ` and that he forgot all about it...?"`
 `However, Battler suspected this in the fourth game and asked Beato about it.`
 `And within the story,`
@@ -432,16 +432,16 @@
 `"......We can read this as saying that Beato did not exist six years before,`
 ` or it could simply mean that she had no connection to Battler at that time.`
 ` However, either way, Battler did not visit Rokkenjima at all for the next six years..."`
-`"October 4th, 1986 should have been the first time {f:5:Beatrice} and Onii‐chan met.`
+`"October 4th, 1986 should have been the first time {f:5:Beatrice} and Onii-chan met.`
 ` ......If so, why was there already some kind of bad blood between them?`
 ` I don't have a clue what it means."`
 `"......That "Ushiromiya Battler's sin", which Beato questioned Battler about in the fourth game,`
 ` might give us a clue.`
 ` ...The result of that might have been {f:5:Beatrice} herself."`
 `"The result?`
-` The result of Onii‐chan's sin was...Beato...?"`
+` The result of Onii-chan's sin was...Beato...?"`
 `That almost sounds as though...`
-`Onii‐chan created the witch called {f:5:Beatrice} himself...`
+`Onii-chan created the witch called {f:5:Beatrice} himself...`
 `"Almost as though...`
 `...{f:5:Beatrice} was Battler's piece."`
 `"......Huh...?"`
@@ -452,12 +452,12 @@
 ` ......then the one who created {f:5:Beatrice} was Battler himself.`
 ` I thought it sounded almost as though she was Battler's piece..."`
 `"I don't get it.`
-` If Onii‐chan sinned in some way, it must have been something much lighter than murder, at the very least.`
+` If Onii-chan sinned in some way, it must have been something much lighter than murder, at the very least.`
 ` If someone caused this huge massacre in retaliation for that,`
 ` that's totally out of proportion."`
 `"Beato killed our family.`
-` Dad, Mom, Onii‐chan, everyone.`
-` ......I can't believe that Onii‐chan's sin was anything deserving of that."`
+` Dad, Mom, Onii-chan, everyone.`
+` ......I can't believe that Onii-chan's sin was anything deserving of that."`
 `"The weight of a sin depends on the person measuring it.`
 ` Even a sin so light that Battler might have forgotten...`
 `could have been so serious to Beato that she hated him enough to massacre his whole family a full six years after the fact."`
@@ -466,7 +466,7 @@
 `".............................."`
 `{f:5:Featherine}'s observation was extremely interesting.`
 `In a past game,`
-` Beato said clearly that Onii‐chan's sin six years before was the cause of this two‐day tragedy.`
+` Beato said clearly that Onii-chan's sin six years before was the cause of this two-day tragedy.`
 `I still don't know what kind of sin that was.`
 `However, he figured it out at the end of the fifth game,`
 ` ......and he even apologized to Beato.`
@@ -490,14 +490,14 @@
 ` ......Once I'm certain of it, I'll tell you."`
 `"Okay, okay, my master.`
 ` I actually do want to hear what comes next, after all."`
-`Onii‐chan and {f:5:Beatrice}...`
+`Onii-chan and {f:5:Beatrice}...`
 ` Just what kind of connection is there between them?`
 `......Learning that will probably be the ultimate key to the truth of this world.`
 `After all, remembering that...`
 `was what enabled him to reach the truth.`
 `"{f:5:Beatrice}...!!"`
 `"Welcome, my lord...`
-` {f:5:Beatrice}‐sama is waiting for you.`
+` {f:5:Beatrice}-sama is waiting for you.`
 ` This way, please......"`
 `This place was a villa set aside for {f:5:Beatrice}'s use.`
 `It was a sacred site for her only, built so that she could spend her days without being affected by the outside world.`
@@ -521,14 +521,14 @@
 ` She has been waiting for you all this time, my lord. Oh yes."`
 `"Is she in the dining hall? Is she eating or something?`
 ` Ah, that's alright, it doesn't matter either way...!"`
-`"Hoh‐hoh‐ho, you'll be surprised..."`
+`"Hoh-hoh-ho, you'll be surprised..."`
 `"{f:5:Beatrice}...!!"`
 `When he swung open the doors to the dining hall,`
 ` ......Battler was greeted by a wonderful sight.`
 `Though the food laid out on the table wasn't particularly sensational,`
 ` it was arranged beautifully, and a champagne bottle stood there waiting.`
 `......Then, ......the person clad in that familiar dress with the beautiful golden hair bowed deeply in greeting.`
-`"......B‐......{f:5:Beatrice}..."`
+`"......B-......{f:5:Beatrice}..."`
 `"You have my sincerest gratitude for giving me this form."`
 `"Ha...hahahaha...`
 ` Come on, don't worry about that......`
@@ -569,18 +569,18 @@
 `After all...she didn't know how she was supposed to talk...`
 `"Anyway, Beato.`
 ` Just what kind of joke is this?`
-` Don't tell me that the great {f:5:Beatrice}‐sama decided to cook for me...?"`
+` Don't tell me that the great {f:5:Beatrice}-sama decided to cook for me...?"`
 `"When I heard that you had completed the sixth game,`
 ` I wanted to see if I could prepare a modest reward to congratulate you......"`
-`"...Hoh‐hoh‐ho.`
-` {f:5:Beatrice}‐sama really worked hard to make this.`
+`"...Hoh-hoh-ho.`
+` {f:5:Beatrice}-sama really worked hard to make this.`
 ` I didn't even need to lend a hand at all, no I didn't!"`
 `The food set on the table really was modest and inexpertly made.`
 `You could tell by looking at it that Beato, who wasn't particularly skilled with cooking, had given it her all when making it...`
 `However, signs of discomfort and irritation were beginning to appear on Battler's face......`
 `"......What...`
 `......is this all about...?"`
-`"Well, as she said, {f:5:Beatrice}‐sama decided that she would like to congratulate......"`
+`"Well, as she said, {f:5:Beatrice}-sama decided that she would like to congratulate......"`
 `Sweat was starting to show up on Kumasawa's forehead...`
 `......She was also feeling uneasy.`
 `When he noticed, Battler realized that it wasn't just his imagination.`
@@ -591,10 +591,10 @@
 `Pop.`
 `When presented with a champagne bottle and a sound like that, anyone would think that the cork had been pulled out.`
 `However, it wasn't the cork......it was the bottom of the bottle.`
-`The high‐quality champagne that Beato had procured splashed out all over the floor and her dress.`
+`The high-quality champagne that Beato had procured splashed out all over the floor and her dress.`
 `Then, the same sound repeated several more times.`
 `......Each time, one of the plates of food on the table was knocked into the air.`
-`"F‐`
+`"F-`
 `......Father,`
 ` ......did you find the food displeasing...?"`
 `"Who......are you...?"`
@@ -610,34 +610,34 @@
 ` Didn't I revive Beato?!`
 ` Genji, what's this all about?!!"`
 `"......My apologies,`
-` but that is indeed {f:5:Beatrice}‐sama."`
+` but that is indeed {f:5:Beatrice}-sama."`
 `"Like hell it is!`
 ` How is this supposed to be Beato?!`
 ` She's totally wrong, a fake!!"`
-`"No, that is {f:5:Beatrice}‐sama.`
-` It is, without a doubt, {f:5:Beatrice}‐sama, who was born in accordance with the rules of the game board."`
+`"No, that is {f:5:Beatrice}-sama.`
+` It is, without a doubt, {f:5:Beatrice}-sama, who was born in accordance with the rules of the game board."`
 `"No, this isn't anything like Beato...!!`
 ` Beato would always talk in this weird way, she'd laugh rudely, and more, and more...!!"`
-`"No, this is unquestionably {f:5:Beatrice}‐sama herself."`
+`"No, this is unquestionably {f:5:Beatrice}-sama herself."`
 `"Then why is she talking like that?`
 ` Why is she calling me Father?!"`
-`"B‐{f:5:Beatrice}‐sama was only born a short while ago...`
+`"B-{f:5:Beatrice}-sama was only born a short while ago...`
 ` It would be far too cruel to expect her to act as she once did so soon..."`
 `"Are you saying that her memory hasn't returned yet?"`
 `".........My lord.`
-` This person is most certainly {f:5:Beatrice}‐sama herself.`
-` However, she is not the {f:5:Beatrice}‐sama you know so well."`
+` This person is most certainly {f:5:Beatrice}-sama herself.`
+` However, she is not the {f:5:Beatrice}-sama you know so well."`
 `"What are you talking about...?!`
 ` I'm the Game Master, right?!`
 ` Why can't I revive Beato...?!"`
 `"Oh yes, she most certainly has revived.`
-` However, the old {f:5:Beatrice}‐sama had lived for a thousand years.`
-` ......This {f:5:Beatrice}‐sama, on the other hand, was only born a short while ago...!`
+` However, the old {f:5:Beatrice}-sama had lived for a thousand years.`
+` ......This {f:5:Beatrice}-sama, on the other hand, was only born a short while ago...!`
 ` If she appears to be a different person, well, that just can't be helped...!"`
 `"Then, ...how can I revive that Beato?!`
 ` Her body is right here!`
 ` How can I revive her soul?!"`
-`"......If she lives the same thousand‐year life again, she should become the same {f:5:Beatrice}‐sama she was before."`
+`"......If she lives the same thousand-year life again, she should become the same {f:5:Beatrice}-sama she was before."`
 `"So I'm supposed to wait a thousand years...?!"`
 `"A, a person's personality isn't decided solely by their birth.`
 ` It can change drastically based on how they live and what they experience..."`
@@ -662,7 +662,7 @@
 `Even the same human can become different people.`
 `{n}In fact, depending on their upbringing and endless possibilities, they can become an endless number of different people.`
 `......So, just because this is the same Beato,`
-` ......that's no guarantee at all that she'll be the Beato that Onii‐chan knows so well.`
+` ......that's no guarantee at all that she'll be the Beato that Onii-chan knows so well.`
 `"And on top of that, {f:5:Beatrice} is a witch who lived a thousand years.`
 ` ......A person can die and be reborn in the span of just three days.`
 ` A thousand years.........is just too long."`
@@ -768,7 +768,7 @@
 ` I acknowledge that!`
 ` But it's all wrong!!`
 ` That isn't you!`
-` She's a completely separate person, like a long‐lost little sister or something!`
+` She's a completely separate person, like a long-lost little sister or something!`
 ` And that's why...`
 `...I just can't accept her...!!"`
 `......As much as he hated this piece Beato...`

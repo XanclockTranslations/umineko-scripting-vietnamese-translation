@@ -30,12 +30,12 @@
 `"Wow.`
 ` {f:5:Beatrice} sounds pretty incredible."`
 `"Yeah!`
-` And then, inside the upside‐down cup,`
+` And then, inside the upside-down cup,`
 ` she made tons of candies appear out of nowhere!"`
 `"Inside the overturned cup?`
 ` That's wild.`
 ` Sounds like magic to me."`
-`"......Maria‐chan really does love witches and magic."`
+`"......Maria-chan really does love witches and magic."`
 `"Can't pass up the chance to talk to the authority on witches, can we?"`
 `If looking for someone to ask about {f:5:Beatrice}, Maria would rise to the top of the list.`
 `The {f:5:Beatrice} she spoke of wasn't the real Beatrice spoken of by Kinzo and the others.`
@@ -45,7 +45,7 @@
 ` ......The one who was made to fight as {f:5:Beatrice}'s opponent in many games, and the most important person in this game and this tale.`
 `A Battler in this world would probably be the piece version, but even so, it should be possible to get some vital information out of him.`
 `......Will probably wanted to talk with Battler too, but he was nowhere to be seen in the cousins' group.`
-`"Battler‐kun isn't present at the funeral today.`
+`"Battler-kun isn't present at the funeral today.`
 ` It's a shame, seeing as he's the cousin closest in age to me."`
 `"Are you two on good terms?"`
 `"Yes, of course."`
@@ -75,7 +75,7 @@
 ` Can't you talk a bit more like a little sister's supposed to?`
 ` And while we're at it, why not try talking more like a girl your age.`
 ` Also, how many times do I have to tell you to stop calling me "future heir"?"`
-`"C‐cram it!`
+`"C-cram it!`
 ` I'll live the way I want to!`
 ` I'd suffocate if I had to act all refined like you, {i:future heir}...!"`
 `"Yeek!`
@@ -91,14 +91,14 @@
 ` Do you want me to get Mother involved again?!"`
 `".........Looks like those two are close, in their own special way."`
 `"Well, Lion is a person of impeccable character, perfectly suited to being the next head.`
-` ......I guess I understand how Jessica‐chan feels... Lion might be a bit {i:too} perfect sometimes."`
+` ......I guess I understand how Jessica-chan feels... Lion might be a bit {i:too} perfect sometimes."`
 `"She gets compared to Lion no matter what she does.`
 ` So you think that made her rebel?"`
-`"If Jessica‐chan had been born an only child, I'm sure she'd have become a composed, quiet young lady.`
+`"If Jessica-chan had been born an only child, I'm sure she'd have become a composed, quiet young lady.`
 ` ......Ahaha, that's an interesting thought."`
 `"Don't worry.`
 ` Only child or not, her personality wouldn't change a bit."`
-`"George onii‐chan,`
+`"George onii-chan,`
 ` ......who's this?"`
 `"This is the first time I've met you, correct?`
 ` But it sounds as though you know a lot about our family.`
@@ -111,10 +111,10 @@
 `"{f:5:Beatrice}?! Uu!!`
 ` See?!`
 ` {f:5:Beatrice} exists!`
-` Uu‐uu‐uu!!"`
+` Uu-uu-uu!!"`
 `Though Maria had looked hostile towards this unfamiliar man,`
 ` as soon as she heard the name of the witch she loved pass his lips, her eyes began to sparkle.`
-`"Hey, Maria‐chan.`
+`"Hey, Maria-chan.`
 ` You've got to greet our guest properly."`
 `"Hello!`
 ` My name is Ushiromiya Maria, uu!`
@@ -249,7 +249,7 @@
 `She spent so long tormented over how to interpret her lack of a father.`
 ` ......Then, by chance, she saw a line in the Bible that seemed to affirm her existence, and she finally formed an understanding of herself.`
 `The sad girl, who had hated herself for being different from all of her classmates, finally found her own meaning.`
-`At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra‐hot, ultra‐high‐pressured energy.`
+`At that moment, Maria's universe, which had once been nothingness, was born as a clump of ultra-hot, ultra-high-pressured energy.`
 `.........Then, later on, she went to Rokkenjima, met the Endless Witch who called herself {f:5:Beatrice},`
 ` ......and the clump of energy exploded in a Big Bang, giving birth to their joint system of magic.`
 `......That was the universe known as Mariage Sorcière.`
@@ -311,7 +311,7 @@
 ` At first, I thought she wasn't a very good witch."`
 `"......Well, that was just my conceit.`
 ` There are many different systems of magic.`
-` Also, mine was based on self‐study.`
+` Also, mine was based on self-study.`
 ` I probably only viewed Beato that way because her system of magic was different from mine.`
 ` It wasn't long before I came to regret that and apologized."`
 `"Apologized?`
@@ -348,7 +348,7 @@
 `"Incredible......`
 ` ......Show me!`
 ` I wanna see your magic!!"`
-`Until this day, Maria had never doubted the magic‐related concept that she was the child of the Holy Ghost.`
+`Until this day, Maria had never doubted the magic-related concept that she was the child of the Holy Ghost.`
 `......However, no one had ever proven to her that occult phenomena actually existed.`
 `Maria could create a universe all by herself.`
 ` ......However, she wanted to share it with a second person, so that she could believe in it even more strongly.`
@@ -367,7 +367,7 @@
 ` As I have already told you,`
 ` no matter how pure your soul might be, all {y:0:Humans}{n:0:humans} are tainted and filled with the toxin that resists magic."`
 `"Yeah, I remember.`
-` You told me about the anti‐magic toxin.`
+` You told me about the anti-magic toxin.`
 ` It wasn't in any of the books I've read.`
 ` You must really be incredible to know so much."`
 `{f:5:Beatrice} lifted up an empty teacup,`
@@ -417,7 +417,7 @@
 ` Instead of eating it, keep it in that lovely bag of yours."`
 `"Right.`
 ` I'll eat it at home...!!`
-` Uu, uu‐uu‐uu‐uu!!"`
+` Uu, uu-uu-uu-uu!!"`
 `"Maria.`
 ` That candy was brought into being by magic.`
 ` Therefore, it is fragile.`
@@ -451,13 +451,13 @@
 `"I think that was the first time I met {f:5:Beatrice}."`
 `"And was that candy still there when you got home...?"`
 `"Yep.`
-` ......But I doubted a little, so it was half‐melted.`
+` ......But I doubted a little, so it was half-melted.`
 ` I regretted almost doubting her."`
 `"If I had doubted her more, I'm sure the candy would have been completely gone.`
 ` I almost lost the proof of the magical miracle that had happened before my eyes."`
 `"A hard piece of candy melted?"`
 `"It wasn't hard, it was......caramel, I think.`
-` It was half‐melted and squishy."`
+` It was half-melted and squishy."`
 `"About what time of the year did this happen?"`
 `"I'm not too sure.`
 ` But I remember that the milk tea had ice in it.`
@@ -510,7 +510,7 @@
 `"Specifically?"`
 `"All of the servants here today.`
 ` ......Uu?`
-` But not Gohda‐san, I think."`
+` But not Gohda-san, I think."`
 `"So, there were four of them: Genji, Shannon, Kanon, and Kumasawa."`
 `"And Doctor Nanjo too."`
 `Apparently, they would sometimes come to visit Maria and {f:5:Beatrice}'s witch tea parties.`
@@ -532,11 +532,11 @@
 ` She said that the day she made all of the {y:0:Humans}{n:0:humans} acknowledge her would be the day of her resurrection."`
 `"...................................."`
 `Maria, the servants, and Nanjo had acknowledged her.`
-`She had probably chosen those {y:0:Humans}{n:0:humans} whose anti‐magic toxin was weakest and appeared before them first.`
+`She had probably chosen those {y:0:Humans}{n:0:humans} whose anti-magic toxin was weakest and appeared before them first.`
 `{f:5:Beatrice}'s game must have been to steadily increase the number of {y:0:Humans}{n:0:humans} who could recognize her,`
 ` until she could make everyone on the island acknowledge her.`
 `In that case, the last person for {f:5:Beatrice} to appear in front of...`
-`would be Battler, the one said to have the strongest anti‐magical power.`
+`would be Battler, the one said to have the strongest anti-magical power.`
 `......Does this mean {f:5:Beatrice} thought that Battler would be the hardest one to convince......?`
 `It seems true that Battler was one of {f:5:Beatrice}'s goals.`
 `......However, if we go with Battler's chessboard thinking...`
@@ -560,13 +560,13 @@
 `The single person who created {f:5:Beatrice} had looked for a second person to acknowledge {f:5:Beatrice}...`
 `and selected Maria.`
 `We don't need Furudo Erika's heartless reasoning to know that the tea cup magic was a sleight of hand.`
-`Maria, believing in the story about the anti‐magic toxin, would close her eyes whenever magic happened.`
+`Maria, believing in the story about the anti-magic toxin, would close her eyes whenever magic happened.`
 `Any sleight of hand would be possible while she had her eyes closed.`
 `......The caramel Maria had been given as proof of her meeting with a witch had melted a little because Maria had doubted.`
 `In a season where one was likely to put ice in their tea, it was only natural for a caramel left in a bag to melt.`
 `Ushiromiya Maria, the girl who's too trusting and will accept a story easily.`
 `{f:5:Beatrice} appeared first in front of this girl, who had, in the language of witches,`
-` very little of the anti‐magic toxin......`
+` very little of the anti-magic toxin......`
 `If we liken the creation of {f:5:Beatrice} to the laying of an egg,`
 ` then when a single person creates her, it is no more than a delusion.`
 ` Like a chick inside the egg.`
@@ -615,7 +615,7 @@
 `"I'm thirsty, so I'm gonna go get something to drink.`
 ` See you later."`
 `Maria suddenly started acting distant, bowed her head, and left without waiting for a reply.`
-`......It was a very un‐Maria‐like thing to do.`
+`......It was a very un-Maria-like thing to do.`
 `"................................."`
 `I see.`
 ` So, the Game Master has moved the piece.`
@@ -624,7 +624,7 @@
 `Jessica seemed to be getting irritated at having her butt pinched so much, and George was trying to calm her down.`
 `......Jessica and George.`
 ` Guess I'll hear their stories next.`
-`Compared to Maria, the anti‐magic toxin is very strong in these two.`
+`Compared to Maria, the anti-magic toxin is very strong in these two.`
 `At least at the beginning of the other games, they didn't acknowledge {f:5:Beatrice}.`
 `Maria showed me the point of view of one who believes.`
 `{n}Now to hear from those who don't.`

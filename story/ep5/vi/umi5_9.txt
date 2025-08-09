@@ -52,14 +52,14 @@
 `"............I see.`
 ` ......So, an adopted child........."`
 `".............................."`
-`"F‐Father......`
+`"F-Father......`
 ` What......did you just say......?"`
 `"Accept this infant as my grandchild."`
 `"Ohhh...... There, there.`
 ` There, there..."`
 `Apparently, the baby Kumasawa was trying to soothe didn't like the air in the study at all.`
 `...It kept on crying as if it hated it here......`
-`"M‐...my apologies, Father...`
+`"M-...my apologies, Father...`
 ` ......I'm not sure what you want me......"`
 `"Accept this infant as my grandchild.`
 ` You shall raise it to be the one who succeeds Krauss."`
@@ -121,7 +121,7 @@
 `Yes, I wished.`
 `......I wished for the servant to take the baby far away and never return...!!`
 `"I see......`
-` ......So, a passing demon heard your wish, Natsuhi‐sama."`
+` ......So, a passing demon heard your wish, Natsuhi-sama."`
 `"And then, ......what happened next?"`
 `"After that...was a bizarre accident that could only have been granted me by a demon..."`
 `The woodland path from the rose garden to the harbor is certainly well suited for a pleasant walk.`
@@ -175,7 +175,7 @@
 `{e:090:Gahahahahahaahahahahahahahaha}!!`
 `{e:090:So, you hate Natsuhi for wishing your death 19 years ago}?!`
 `{e:090:Let me make you remember just who it was that lured you off that cliff}...!!`
-`......As the middle‐aged female servant cuddled the sobbing baby, she walked on a small path through the trees...`
+`......As the middle-aged female servant cuddled the sobbing baby, she walked on a small path through the trees...`
 `Natsuhi had told her that the baby was too loud, so she tried to get as far from the rose garden as she could.`
 `......She was completely unaware as to why she'd gone out of her way to head in this direction.`
 `However, the sobbing baby...`
@@ -193,7 +193,7 @@
 ` .........Bring that cursed baby with you."`
 `"...........................Ah......"`
 `The woman couldn't disobey.`
-`......She was completely overwhelmed by Beato's gold‐glowing eyes...`
+`......She was completely overwhelmed by Beato's gold-glowing eyes...`
 `She walked lightly, as though through a dream world.`
 `......At some point, the scenery around her had changed,`
 ` ......but she did not notice.`
@@ -214,7 +214,7 @@
 ` .........Gaap."`
 `".........Yes, understood."`
 `When Gaap snapped her fingers,`
-` ......a pitch‐black hole opened at the woman's feet, and she was swallowed up along with the baby.`
+` ......a pitch-black hole opened at the woman's feet, and she was swallowed up along with the baby.`
 `The sight that the woman and the baby witnessed in the very next moment probably burned itself into their eyes forever.`
 `The two floated in the air......and looked down at the gold rose garden spread out below them.`
 `Below their feet was not the ground, but an unobstructed view of a golden rose garden which stretched as far as the eye could see.`
@@ -242,7 +242,7 @@
 `......died.`
 `In less than three days from the time Father had entrusted me with the baby, ......I had killed it...!`
 `My husband was on a business trip.`
-`Rosa‐san, who still lived on the island at the time, was away traveling with her friends.`
+`Rosa-san, who still lived on the island at the time, was away traveling with her friends.`
 `......Father and I were the only ones on Rokkenjima!!`
 `And before anyone except Father and I knew,`
 ` ......a baby had appeared out of nowhere...and then disappeared again!!`
@@ -337,7 +337,7 @@
 `"*giggle*!`
 ` Anyone can change their voice.`
 ` A sweet voice when begging Papa for a favor{p:0:♪}`
-` A hoarse‐sounding voice when taking the day off school.`
+` A hoarse-sounding voice when taking the day off school.`
 ` An apologetic voice when turning down a friend that you actually hate!`
 ` {f:5:If you want}{p:0:♪},`
 ` {p:0:I can do~}`
@@ -408,7 +408,7 @@
 `"......Isn't it great that you've been left as a piece as part of Natsuhi's fantasy?`
 ` ......Well, except that we're treating you as a pin now instead of a piece."`
 `"The Golden Witch {f:5:Beatrice} is out of the picture now!`
-` In my game, you and your furniture only have a teeny‐tiny role, a loser's role!!`
+` In my game, you and your furniture only have a teeny-tiny role, a loser's role!!`
 ` You can enjoy getting tossed and thrown around and made into toys for me and Bern!!"`
 `".........If that's not what you want, just tell us to stop.`
 ` And we'll stop."`
@@ -463,10 +463,10 @@
 ` Just like Ange."`
 `"Don't worry.`
 ` I'm a far more useful piece than Ange.`
-` ......I'm nothing at all like shredded meat that couldn't accomplish anything besides restoring Battler‐san's fighting spirit."`
+` ......I'm nothing at all like shredded meat that couldn't accomplish anything besides restoring Battler-san's fighting spirit."`
 `"..........................."`
 `"*giggle*...!`
-` Isn't it great that you've been blessed with such helpful‐looking allies?!`
+` Isn't it great that you've been blessed with such helpful-looking allies?!`
 ` In the past, it was {f:5:Virgilia} and Ronove.`
 ` Then Ange came as well."`
 `"And now you have Bern and Erika!`

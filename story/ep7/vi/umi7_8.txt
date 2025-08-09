@@ -22,7 +22,7 @@
 `"Ghost stories are normally told in the third person or second person.`
 ` However, someone started telling those in the first person."`
 `"You mean someone started saying that they were {f:5:Beatrice} themselves...?"`
-`"The legend of Rokkenjima's evil spirits, and the made‐up story for keeping kids out of the forest...`
+`"The legend of Rokkenjima's evil spirits, and the made-up story for keeping kids out of the forest...`
 ` These were combined with Kinzo's constant cries of "Beatrice, Beatrice" and gradually became the legend of the witch.`
 ` Ushiromiya Maria became entranced by that fictional witch and begged for a chance to meet her.`
 ` And then, someone...`
@@ -38,7 +38,7 @@
 `We can use this to see the scene where Maria first met {f:5:Beatrice} in a new light.`
 `After being chased out of the mansion by the adults, Maria decided to drink some tea in the rose garden.`
 `At that time, someone probably started talking to Maria.`
-`Then, ......when they heard this occult‐loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},`
+`Then, ......when they heard this occult-loving girl talking happily about how she wanted to meet the witch {f:5:Beatrice},`
 ` .........this person acted as though {f:5:Beatrice} was possessing them.`
 `On the outside, they didn't look like {f:5:Beatrice}.`
 `However, when their manner of speech and behavior changed abruptly, Maria would recognize them as a different person.`
@@ -54,7 +54,7 @@
 ` She believed in {f:5:Beatrice}'s simple conjuring trick from the bottom of her heart.`
 ` That probably comforted her a lot.`
 ` ......And at that moment, the witch {f:5:Beatrice} was born."`
-`"Someone saw that Maria‐chan wanted to meet a witch, so they decided to play witches with her...?"`
+`"Someone saw that Maria-chan wanted to meet a witch, so they decided to play witches with her...?"`
 `"That's right."`
 `This marks the birth of Beato the Elder.`
 `All of that about living a thousand years and being bound to Rokkenjima.`
@@ -86,7 +86,7 @@
 ` ......Is that even possible?"`
 `"Only the actor can kill the character.`
 ` In other words, the person who killed {f:5:Beatrice} is the person who played the part of {f:5:Beatrice}."`
-`"You mean that the person who played witches with Maria‐chan is the culprit {f:5:Bernkastel}'s talking about?"`
+`"You mean that the person who played witches with Maria-chan is the culprit {f:5:Bernkastel}'s talking about?"`
 `"That's it.`
 ` .........But, as if this wasn't confusing enough, this chapel is now a world inside a cat box.`
 ` The culprit is the cat, and there are now two cats existing at the same time—one alive, and one dead."`
@@ -152,7 +152,7 @@
 ` The important fact is that you're 19 years old."`
 `"......I don't remember telling you my age, but you got it right.`
 ` ......How?"`
-`"Jessica said you were already the student council vice‐president when she started, and that you became the president the next year.`
+`"Jessica said you were already the student council vice-president when she started, and that you became the president the next year.`
 ` That means you're one year older than Jessica."`
 `Jessica is 18 years old, .........so Lion must be 19.`
 `"I see...`
@@ -203,7 +203,7 @@
 ` ......*giggle*.`
 ` That's right.`
 ` Ushiromiya Lion is not Natsuhi's child.`
-` This is the grown‐up version of the baby Kinzo got from somewhere 19 years ago."`
+` This is the grown-up version of the baby Kinzo got from somewhere 19 years ago."`
 `"Not "somewhere".`
 ` ......Lion clearly shares Beatrice's blood.`
 ` The proof is the silver ring, which is only ever given to Lion across all of the many worlds."`
@@ -308,7 +308,7 @@
 `"You have the fragments... Why not show them?"`
 `"..............."`
 `Will opened his hand...`
-`and something that looked like a pale‐blue, glowing shard of crystal appeared there.`
+`and something that looked like a pale-blue, glowing shard of crystal appeared there.`
 `It contained the memories—no, the records—of all the games so far.`
 `"......Touch this.`
 ` You'll be able to see your fate in other worlds."`
@@ -334,7 +334,7 @@
 `.........a man or a woman?"`
 `"..................Well, that came out of nowhere."`
 `"I could see you as a fairly slender boy.`
-` But then again, I could also see you as a no‐nonsense sort of girl.`
+` But then again, I could also see you as a no-nonsense sort of girl.`
 ` ......Even {f:5:Bernkastel} has been intentionally keeping it a secret.`
 ` She made Jessica call you "the future heir" all the time, instead of "big brother" or "big sister"."`
 `"......*giggle*.`
@@ -378,7 +378,7 @@
 ` And, at that point, I learned who {f:5:Beatrice} was, and I understood that person's heart."`
 `"What do you mean by heart?"`
 `"......The reason for committing the crime.`
-` ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game‐like crime on October 5th, 1986—`
+` ......The reason that {f:5:Beatrice} had to gamble her own fate in the commission of a game-like crime on October 5th, 1986—`
 `the motive."`
 `"Impressive.`
 ` So, you'd figured out the whodunit and the whydunit by the end of the fourth game.`

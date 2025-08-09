@@ -72,8 +72,8 @@
 `"I, I panicked...!"`
 `"Ah, right, 45.`
 ` Come over here a second."`
-`"Wh‐...what is it?`
-` H‐hey, we're on duty...!`
+`"Wh-...what is it?`
+` H-hey, we're on duty...!`
 ` Stop, don't play with my ears...!"`
 `"Your ears.`
 ` Better fold them down nyeh."`
@@ -85,17 +85,17 @@
 ` I recommend suspending the reception and {f:5:evacuating}."`
 `"What's going on, Erika......?`
 ` Something go wrong with the entertainment...?"`
-`"N‐no, my master...! Please continue to enjoy the reception.`
+`"N-no, my master...! Please continue to enjoy the reception.`
 ` ......Hey, someone?`
 ` Let's get Lady {f:5:Bernkastel} some more dried plum wine...!"`
 `The question had come too fast for Erika to hide her agitation.`
 `When {f:5:Bernkastel} saw this, ......she knew that their final, late guest would soon be arriving.`
-`"Luci‐nee.`
+`"Luci-nee.`
 ` I hear there's been some movement in the guesthouse."`
 `"......The guesthouse?`
 ` Who cares about the game board now?"`
 `"Well...`
-` ......They're saying that Kanon‐kun disappeared from the cousins' room..."`
+` ......They're saying that Kanon-kun disappeared from the cousins' room..."`
 `"What?!`
 ` Are you a moron?`
 ` The cousins' room is a perfect locked room, with the door and all the windows perfectly sealed.`
@@ -124,7 +124,7 @@
 `"Copy."`
 `"Copy."`
 `"Copy."`
-`"U‐understood. Ah! I mean copy!"`
+`"U-understood. Ah! I mean copy!"`
 `The sniper teams in the chandeliers all released their safeties at once.`
 `{n}The entire security team down in the hall loaded their ammunition.`
 `"......Lady {f:5:Erika}, let us evacuate to the waiting {f:5:room}.`
@@ -148,7 +148,7 @@
 `"What was that just now?`
 ` A love letter from someone...?"`
 `"A fan letter.`
-` From the Lambda‐chan Fan Club."`
+` From the Lambda-chan Fan Club."`
 `{f:5:Lambdadelta} played dumb and munched some popcorn.`
 `Then, the lights finally turned on...`
 `It was clear that during that blackout,`
@@ -157,7 +157,7 @@
 `Whose scheme was this...and what were they doing?`
 `......Though it may have been imprudent, they were looking forward to this, and an excited chatter filled the cathedral...`
 `"Looks like she came."`
-`"G‐Gaap...!`
+`"G-Gaap...!`
 ` They let you come back too...?!"`
 `"Come on, putting me in a jail is meaningless."`
 `"True! Pu ku ku ku."`
@@ -201,7 +201,7 @@
 `That golden storm...`
 `...slowly faded away...`
 `Then,`
-` ......at the entrance to that red‐carpeted path to the grave,`
+` ......at the entrance to that red-carpeted path to the grave,`
 ` .........stood a calm,`
 ` majestic figure......`
 `"Guards, shoot to {f:5:kill}...!!"`
@@ -222,14 +222,14 @@
 `Beato......laughed......`
 `That chuckle...`
 `......made Battler's eyes quiver slightly.`
-`"Y‐`
+`"Y-`
 `......you.................."`
 `"......Did I keep you waiting? Furudo Erikaaa?!`
 ` ......I'm here to celebraaate...!"`
 `She had an overpowering and evil presence about her, ......strong enough to make anyone shiver.`
 `Was it still necessary for her identity to be confirmed?`
 `{n}Who could possibly mistake this overwhelming presence?`
-`"B‐`
+`"B-`
 `......{f:5:Beatriiiiiiii`
 `ce{-}e{-}e{-}e{-}e{-}e{-}e{-}eee}!!!"`
 `"‘See you in hell’ is a favorite parting line of mine, but—"`
@@ -248,7 +248,7 @@
 `Her magical power, which was more than enough to remind all present what her name had been at the height of her strength,`
 ` became a spirit wave and exploded throughout the cathedral.`
 `The impact made the stained glass windows shatter, and colorful glass shards poured down everywhere.`
-`"S‐spirit particle warfare defenses!! Hurry on recovery!!"`
+`"S-spirit particle warfare defenses!! Hurry on recovery!!"`
 `However, all of the Chiester honor guards, who didn't have spirit particle defenses, toppled over like dolls.`
 `The ceiling snipers, who were defended, were able to avoid their systems going down completely, but it would take several minutes before they could recover.`
 `.........That span of time...`
@@ -260,7 +260,7 @@
 `She ran down the path to the grave, which was lined by Chiester troops lying there like corpses.`
 `She had called this place hell.`
 `{n}......In that case, running from hell to the grave was actually going backwards.`
-`Beato's figure dashing through the corpse‐ridden path truly symbolized her resurrection...!`
+`Beato's figure dashing through the corpse-ridden path truly symbolized her resurrection...!`
 `"Milady, take this...!"`
 `"Got it!!"`
 `As she dashed, she snatched something white from Ronove's outstretched hand.`
@@ -287,7 +287,7 @@
 ` With them in that position, ......there's nothing we can do...!"`
 `The pair of snipers, attacking from high above on the chandelier, were much further away than Erika was—too far for Beato to reach.`
 `Furthermore, their position couldn't have been worse for Beato, with the entire cathedral inside their range of fire!`
-`"......Too bad nyeh, {f:5:Beatrice}‐samaaa.`
+`"......Too bad nyeh, {f:5:Beatrice}-samaaa.`
 ` The trials of love are harsh nyeh!`
 ` 45, new magazine!!"`
 `"This?"`
@@ -316,12 +316,12 @@
 `Her goal was straight in front of her.`
 ` The place where Erika and Battler were seated...!`
 `Just then, a red barrier was created, blocking her path.`
-`It was the VIP‐guarding barrier that Gertrude had set up.`
+`It was the VIP-guarding barrier that Gertrude had set up.`
 `{n}She stepped forward and laid out a last line of defense to block Beato's way.`
 `"For your attention: Know that you will not be allowed any closer."`
 `"You think a wall like that can stop meeeeeeeeeeeeee?!!"`
 `"How long until the Chiesters {f:5:reactivate}?"`
-`"W‐within 30 seconds..."`
+`"W-within 30 seconds..."`
 `As the eldest of the Seven Sisters of Purgatory, Lucifer stood in waiting behind the bride and groom.`
 `She wanted to save Beato.`
 `{n}If she could just distract Gertrude for a moment, the wall would disappear...`
@@ -334,9 +334,9 @@
 `"............khh............"`
 `"Who's our master...?!"`
 `"It's Erika now, idiot...!"`
-`"No, our master is Battler‐sama!"`
+`"No, our master is Battler-sama!"`
 `"True. Erika only speaks on his behalf."`
-`"That's right, Onee‐sama! Whose furniture are we?!"`
+`"That's right, Onee-sama! Whose furniture are we?!"`
 `"It's just too delicious... I'm gonna have a nibble!!"`
 `The red, absolute barrier flickered for just an instant.`
 `Beelzebub's stake had pierced Gertrude's shoulder, and her concentration had wavered.`
@@ -345,10 +345,10 @@
 `"......By whose orders?`
 ` Know that Lady {f:5:Erika} has made no such order."`
 `"We do have orders.`
-` ...Th‐...the orders of our master!!"`
+` ...Th-...the orders of our master!!"`
 `"................................."`
 `"How can a master who cannot speak give orders...?"`
-`"E‐even without a word spoken,`
+`"E-even without a word spoken,`
 ` ......understanding a master's will is the job of furniture!!"`
 `"Then, ......it cannot be helped."`
 `The seven stakes shot at Gertrude at once.`
@@ -363,7 +363,7 @@
 `".........You are {f:5:late}.`
 ` ......Time is already up, Lady {f:5:Beatrice}!!"`
 `"Chiester17, data link to all Chiesters.`
-` Incoming data from Archangel Satellites. Homing format: verdict‐model conceptual guidance."`
+` Incoming data from Archangel Satellites. Homing format: verdict-model conceptual guidance."`
 `"Chiester20, reactivation complete."`
 `"Chiester127, reactivation complete."`
 `"Nihhihihihihi... Time's up nyeh.`
@@ -375,7 +375,7 @@
 `".....................Be...`
 `......a...`
 `......to......"`
-`"......Keh, ......D‐Dlanor...!!"`
+`"......Keh, ......D-Dlanor...!!"`
 `"Back off, Dlanor A. Knox.`
 ` This is not your fight."`
 `"......I have received a red truth denying you from Lady {f:5:Bernkastel}.`
@@ -400,7 +400,7 @@
 `"Uuu...guh...`
 ` ......This is......`
 `{f:5:popcorn}???`
-` Wh‐where did this come {f:5:from}......?"`
+` Wh-where did this come {f:5:from}......?"`
 `"For your attention: Urgent request from the bride's security detail!!`
 ` Chiester Sisters Imperial Guards, fire at the intruder immediately!!"`
 `The commotion...quieted......`
@@ -413,10 +413,10 @@
 `Of course, all of them had finished reactivating.`
 `......However,`
 ` ......they hesitated to pull the trigger.`
-`"Wh‐why are you not firing?!`
+`"Wh-why are you not firing?!`
 ` Ceremony guards, immediately—"`
-`"......W‐......{f:5:wait}.`
-` ......L‐......look at {f:5:that}......"`
+`"......W-......{f:5:wait}.`
+` ......L-......look at {f:5:that}......"`
 `Dlanor's expression grew grim.`
 `......Then, she quietly...put her red longsword away...`
 `After all, ......Erika would have to make a decision.`
@@ -457,7 +457,7 @@
 ` ...the Chiesters would probably all fire at once, turning her into golden embroidery.`
 `So, Erika did not have to pick it up.`
 `However, ......she could not afford to be afraid of picking it up.`
-`After all, ......she was the true victor, who had defeated Battler's locked‐room trick and logic.`
+`After all, ......she was the true victor, who had defeated Battler's locked-room trick and logic.`
 `If she was the victor, she should have nothing to fear.`
 `So, ......if she was afraid of doing it,`
 ` ......it would prove that she still felt a tinge of doubt about her victory......`
@@ -508,9 +508,9 @@
 `......People were permitted to witness this duel.`
 `However, no one would be allowed to hinder it in any way...!`
 `"....................................uuughhh......"`
-`"......It's alright, Battler‐san.`
+`"......It's alright, Battler-san.`
 ` ......I've already found a way to save you."`
-`"H‐`
+`"H-`
 `.........how...`
 `...did...`
 `....you......?"`
@@ -545,7 +545,7 @@
 ` his face could turn unbelievably childish, and he would sometimes ask me to take part in strange pranks.`
 `.........The Master let me shoot lots of guns, didn't he...`
 `...That......was pretty fun.`
-`Krauss‐sama was actually surprisingly kind.`
+`Krauss-sama was actually surprisingly kind.`
 `He must have gotten the impression that the Master bullied me a lot.`
 `Whenever I was the only one around, he would talk to me in a very familiar way, almost as if he was a classmate of mine.`
 `......I sort of regret that I held back and never did anything but nod in return...`
@@ -556,10 +556,10 @@
 `......On many occasions when she was alone, I saw her shoulders sagging from her burdens.`
 `There were a lot of servants, weren't there...`
 `{n}......Some lasted a short while, others longer.`
-`Genji‐sama is the one person fit to be called my father.`
+`Genji-sama is the one person fit to be called my father.`
 `......I am both grateful and resentful towards him over many things.`
 `......Over time, all those feelings mixed together, cancelled out, and left me with a neutral emotion.`
-`In that case, Kumasawa‐san could probably be called my mother.`
+`In that case, Kumasawa-san could probably be called my mother.`
 `......She's helped me out so many times.`
 `I always wanted to repay her someday,`
 ` ......and now I've lost that chance for all time.`
@@ -576,11 +576,11 @@
 `And then,`
 ` ......my memories of Jessica.`
 `......Ooh.`
-` ......S‐so you're a boy servant...`
+` ......S-so you're a boy servant...`
 `{n}......How......old are you...?`
 `I think those were the first words she spoke to me.`
 `......Come to think about it, she was probably interested in me ever since then.`
-`We really did......have enough time to build up a love that could have competed with the love between George‐sama and Shannon.`
+`We really did......have enough time to build up a love that could have competed with the love between George-sama and Shannon.`
 `But since I could only see the gray sea, I wasted almost all of that time.`
 `What does she like about me?`
 `{n}What do I like about her?`
@@ -603,7 +603,7 @@
 `His fingernails on both hands had been torn off, and they were stained with blood.`
 `......I could tell at a glance just how hard he had tried until the final moment when his heart had died.`
 `The collar binding him wouldn't disappear unless the chain lock was set.`
-`"......Battler‐sama...`
+`"......Battler-sama...`
 ` .........It's alright.`
 ` ...I'm going to save you now......"`
 `".................................ah..."`
@@ -640,15 +640,15 @@
 ` ......he had wanted so much to show his iron will to escape from this locked room...`
 `.........that he had chosen to fall here in the corridor,`
 ` ......with the chain still around his neck...`
-`".........Battler‐sama.`
+`".........Battler-sama.`
 ` ......It's Kanon.`
 ` ......Please, come to your senses..."`
 `He wiped Battler's face with a towel wetted in the sink.`
 `In response to that cold sensation, Battler's heart slowly started beating again...`
 `"............Ah...`
 ` .........`
-` .........K‐`
-`............Kanon‐kun,`
+` .........K-`
+`............Kanon-kun,`
 ` ......is that you...?"`
 `"Yes, it's me, Kanon.`
 ` ......You did well...`
@@ -662,21 +662,21 @@
 `"There's no longer anything binding you here.`
 ` ......Come on.`
 ` Please, head back quickly."`
-`".........B‐`
+`".........B-`
 `......but...`
 `...if I unset that chain lock,`
 ` ......that chain will come back..."`
 `"Don't worry.`
-` No longer does any chain exist to bind you, Battler‐sama.`
+` No longer does any chain exist to bind you, Battler-sama.`
 ` ......I will remain here."`
 `"What......did you say......?"`
 `By now, Battler knew the terror of this eternal locked room better than anyone else.`
 `So, his happiness at being able to leave was overwhelmed by his shock at the determination of this room's new prisoner...`
 `"I will be fine.`
 ` There is no need to worry."`
-`"......B‐`
+`"......B-`
 `......but......"`
-`"Battler‐sama, isn't there still something you have to do...?"`
+`"Battler-sama, isn't there still something you have to do...?"`
 `".........I...`
 `...I......"`
 `"Go back, quickly.`
@@ -691,7 +691,7 @@
 ` This way, I can repay my debt from back then."`
 `"......Debt?`
 ` Do you owe me something?"`
-`"It isn't a debt I have with you, Battler‐sama.`
+`"It isn't a debt I have with you, Battler-sama.`
 ` ......It's okay, so go.`
 ` I don't like keeping debts.`
 ` .........Go, quickly.`
@@ -701,13 +701,13 @@
 `He silently bowed his head, ......unset the chain, and opened the door.`
 `Kanon had remained in the room, so no chain appeared about Battler's neck.`
 `......He could leave this locked room just by running out...`
-`The happy‐sounding voices that he had heard at the far end of the corridor...`
+`The happy-sounding voices that he had heard at the far end of the corridor...`
 `...had been replaced with an excited chatter.`
 `There must have been some sort of strange disturbance going on.`
 `As Kanon went out into the corridor to see me off,`
 ` ......the merciless collar and chain had already captured their new prisoner.`
 `He would remain inside this eternal locked room......in Battler's place......`
-`".........Kanon‐kun.`
+`".........Kanon-kun.`
 ` I feel the same."`
 `"About what?"`
 `"I......don't like keeping debts.`
@@ -734,7 +734,7 @@
 `......Now, if he hid in the closet, the one place Erika hadn't checked...`
 `.........the broken logic would be fixed...`
 `The closet door opened slowly.`
-`It was well‐oiled, and opened without a sound.`
+`It was well-oiled, and opened without a sound.`
 `......It was cramped inside, and dark.`
 `This tiny space......is the final place for me.`
 `{n}As long as I remain hidden in here, the logic will be preserved.`
@@ -779,10 +779,10 @@
 ` ......were Beato and Erika.`
 `In their hands......were the dueling pistols given to them by Zepar and Furfur.`
 `"Flintlocks, are they?`
-` How old‐fashioned."`
+` How old-fashioned."`
 `"Pay it no mind.`
 ` Demons are very particular about style."`
-`Its form was similar to an actual old‐fashioned gun, but this was, of course, a demon's gun.`
+`Its form was similar to an actual old-fashioned gun, but this was, of course, a demon's gun.`
 `This wasn't a gun that would propel a lead bullet with an explosion caused by gunpowder.`
 `......Like the pistols used in the duel between Shannon and Kanon, whose bullets had contained a magic that would always kill,`
 ` these pistols also had bullets that were not made of lead...`
@@ -797,21 +797,21 @@
 ` This is no time to be standing around laughing!"`
 `"Why is Riiche relaxed and Lia tense? You two..."`
 `"All together...!"`
-`"""{f:5:Beatrice}‐sama, you can do it!!"""`
-`"......{f:5:Beatrice}‐sama is at a disadvantage in this duel."`
+`"""{f:5:Beatrice}-sama, you can do it!!"""`
+`"......{f:5:Beatrice}-sama is at a disadvantage in this duel."`
 `"Why...?!"`
 `"......Normally, a witch can put up a fight by piling mystery upon mystery.`
-` However, since the game has been suspended, she has nothing on her side except the mystery of Battler‐sama's guest room."`
+` However, since the game has been suspended, she has nothing on her side except the mystery of Battler-sama's guest room."`
 `"If Erika can just strike a blue wedge through that one mystery, it'll mean that she's solved everything!!"`
 `"We can win.`
-` ......I believe in {f:5:Beatrice}‐sama...`
-`...and Battler‐sama,`
+` ......I believe in {f:5:Beatrice}-sama...`
+`...and Battler-sama,`
 ` ......our two masters...!"`
 `"......Did you call {f:5:me}?"`
 `"Thanks."`
 `"......?"`
 `"For once,`
-` ......it feels as though our chances for winning are fifty‐fifty.`
+` ......it feels as though our chances for winning are fifty-fifty.`
 ` So I'd like to thank you beforehand."`
 `"It is simply my {f:5:job}.`
 ` There is no need to thank {f:5:me}."`
@@ -859,7 +859,7 @@
 ` I swear it."`
 `The crowd split, and {f:5:Lambdadelta} walked forward with {f:5:Bernkastel} by her side.`
 `She looked between the faces of the two duelists.`
-`Then, ......she took out an envelope with the seal of the One‐winged Eagle...and lifted it high.`
+`Then, ......she took out an envelope with the seal of the One-winged Eagle...and lifted it high.`
 `"{f:5:Beatrice} has sent me her revisions to the tale inside a sealed envelope.`
 ` I have inspected it and find its contents to be valid.`
 ` I declare the logic error averted!!`
@@ -960,7 +960,7 @@
 ` Nanjo.`
 `......I specifically listed the names of those five people when performing the location check for that room and received confirmation that they were in there.`
 `Then, I checked to see whether "everyone else" was in the cousins' room...and had that confirmed for me as well.`
-`I said "everyone", so whether he was Kanon or Yoshiya or even Purupurupiko‐Man,`
+`I said "everyone", so whether he was Kanon or Yoshiya or even Purupurupiko-Man,`
 ` they all should have been sealed in the cousins' room.`
 `It seems perfect.`
 `However, though that word "everyone" seems perfect,`
@@ -1002,18 +1002,18 @@
 `"......Oh, an accidental discharge?`
 ` Careful now, guns can be dangerous.`
 ` *cackle*cackle*cackle*."`
-`"Sh‐shut up!!`
+`"Sh-shut up!!`
 ` It's just a little mistake...!!"`
 `"............The windows of the next room over.`
 ` You blocked them off with some inane trick, I hear. Gaap told me."`
-`"D‐......did she, now?`
+`"D-......did she, now?`
 ` And so what if I did?!"`
 `"Dlanor. Remove that foolish seal.`
 ` *cackle*cackle*, that seal is now your shackle."`
 `Beato has figured out everything I've been thinking.`
 `And she's acting so confident, telling me to go ahead and use that argument...!`
 `"......Lady {f:5:Erika}."`
-`"P‐......please remove it.`
+`"P-......please remove it.`
 ` ......That fool,`
 ` ...I'll make her regret this...!!"`
 `""It seems you are ready, duelists!!`
@@ -1081,19 +1081,19 @@
 ` Erika couldn't even make a new theory by suggesting that one person held two names, so that the five names referred to only four people,`
 ` and allowing for Kanon to sneak in even though his name wasn't on the list.`
 `Furthermore, the part about how "every name has just one person that it belongs to, and no one can go by a name that is not theirs" was a fatal blow that cut down countless theories...!`
-`"......Come to think of it, you only know the half‐sleeping me from the last game, don't you...?`
+`"......Come to think of it, you only know the half-sleeping me from the last game, don't you...?`
 ` What do you think, Erikaaa?`
 ` ......How do you like the game of the Golden Wiiiiiiiiiitch...???"`
 `"That's insane...`
-` ......A‐......are you saying...`
+` ......A-......are you saying...`
 `......that Kanon slipped out of the room by magic......?!`
 ` Ghh, ......gkk......`
-` ......M‐more importantly,`
+` ......M-more importantly,`
 ` why did you only knock my gun away...?!!"`
 `"The human side must crush all of the witch's riddles, whereas the witch side need only crush the human's theories once.`
 ` ......Don't you find that unfair?`
 ` So, I decided to have it be even."`
-`"......E‐......eveeeeeeeen......?"`
+`"......E-......eveeeeeeeen......?"`
 `"I've decided that I'll make my victory condition be the destruction of all of your theories.`
 ` ......I've won the riddle of Kanon's escape, but there's one more!`
 ` Let's return to the first battleground, where you gave Battler so much trouble!!"`
@@ -1115,7 +1115,7 @@
 `did not also explain how Kanon escaped from his own locked room, it would have no basis.`
 `Erika had already lost that basis.`
 `......Beato was giving her a handicap by saying that she didn't need to explain that part.`
-`"N‐......naturally!!`
+`"N-......naturally!!`
 ` You've already used the red truth to guarantee that Kanon saved Battler!`
 ` It's only natural that I be given this privilege...!"`
 `Erika faced away again and concentrated even harder...!`
@@ -1296,7 +1296,7 @@
 `That was a close one.`
 `If I'd gone and said there was nowhere to hide except inside the closet,`
 ` she'd have said, "too bad, the closet is empty!"`
-`Huh? ......N‐no, wait...`
+`Huh? ......N-no, wait...`
 `It works the same way in reverse......`
 `I see, now I get it...`
 `{n}It's an interchangeable logic trick...!`
@@ -1338,7 +1338,7 @@
 `of the world......`
 `"......Because of our arrogance in thinking that only one truth exists,`
 ` ......whenever we find one truth, we are blinded to all others.`
-` ............Thank you, {f:5:Beatrice}‐san.`
+` ............Thank you, {f:5:Beatrice}-san.`
 ` .........I never thought...`
 `...that a witch...`
 `...would be the one to teach me the true nature of this world."`
@@ -1387,7 +1387,7 @@
 `"Now that the bedroom has been denied, you've nowhere left to run!!`
 ` Diii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiiee, Kanooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oonnn!!"`
 `The five wedges of blue truth she released grazed Beato's cheeks, hair, and shoulders,`
-` ......then pin‐cushioned the door to the closet,`
+` ......then pin-cushioned the door to the closet,`
 ` to gouge whatever human was inside to death......!`
 `The five wedges slammed into the door in a vertical line.`
 ` In other words...`
@@ -1412,11 +1412,11 @@
 ` like a coffin...`
 `......Then,`
 ` as though teased open by a desolate wind,`
-` the hole‐covered closet door...`
+` the hole-covered closet door...`
 `......slowly opened......`
 `Inside...`
 `.........was a human figure......`
-`That figure was covered up to the head by what appeared to be a greenish‐gray robe.`
+`That figure was covered up to the head by what appeared to be a greenish-gray robe.`
 `......Of course, that also had large holes showing that it had been stabbed into...`
 `Eventually, it became clear that this was not a robe, but a raincoat.`
 `......If he had rushed here from the guesthouse,`
@@ -1429,7 +1429,7 @@
 ` ......crumpled,`
 ` .........became a cloud of gold butterflies,`
 ` ...and disappeared.........`
-`"............N‐`
+`"............N-`
 `............no...`
 `...way.................."`
 `Inside the coffin of the closet,`
@@ -1442,7 +1442,7 @@
 ` .........And then, he used magic to disappear.`
 ` ............This is the witch's truth.`
 ` .........That is all."`
-`"Th‐the duel is {f:5:decided}...!! Cease—"`
+`"Th-the duel is {f:5:decided}...!! Cease—"`
 `""And the winner is...`
 `......{f:5:Beatrice}!!!""`
 `Oh, ......ooooooooooooooooooooohhhhhh!!`
@@ -1454,7 +1454,7 @@
 `At the same time, Battler coughed violently.`
 `Battler...was starting to regain consciousness...!`
 `"Battleeeerrrrr!!`
-` Battler‐saaaaaaan!!!"`
+` Battler-saaaaaaan!!!"`
 `Beato latched onto the coughing Battler in joy.`
 `{f:5:Virgilia}, Gaap, and Ronove did the same.`
 `All of the Seven Sisters also crowded about him in delight.`
@@ -1465,8 +1465,8 @@
 ` With a trick like this one, those {y:0:Human}{n:0:human}s will start complaining again about how this isn't mystery......"`
 `"No, it's a splendid trick!`
 ` That just can't be {y:1:‘seen’}{n:1:seen} by people without love...!`
-` ......Battler‐san,`
-` ........Battler‐san,`
+` ......Battler-san,`
+` ........Battler-san,`
 ` ......waa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aahhh...!!!"`
 `"Lady {f:5:Erika}, Lady {f:5:Erika}!!`
 ` Someone, help her, {f:5:quickly}!!"`
@@ -1474,12 +1474,12 @@
 `"......Third degree conceptual denial syndrome.`
 ` ......Use of continuous neutralizer impossible...neutralization only possible by an emergency approval for resurrection.`
 ` ......The piece's master must provide approval for resurrection..."`
-`"L‐Lady {f:5:Bernkastel}, give your approval for her {f:5:resurrection}!!`
-` ......Lady {f:5:Bernkastel}...?! Wh‐where did she {f:5:go}...?!"`
+`"L-Lady {f:5:Bernkastel}, give your approval for her {f:5:resurrection}!!`
+` ......Lady {f:5:Bernkastel}...?! Wh-where did she {f:5:go}...?!"`
 `"Search request to ceremony guards: find Lady {f:5:Bernkastel}...!!"`
 `"Understood, ma'am.`
 ` All Chiesters, data link. Search formation...!"`
-`"......H‐how despicable...`
+`"......H-how despicable...`
 ` To think that a master...`
 `...wouldn't watch her piece's duel to the end...`
 ` ......Know that it is despicable in the extreme!!!"`
@@ -1495,8 +1495,8 @@
 ` .........ha...haha..."`
 `I'm not anyone's piece anymore.`
 `{n}......I can finally...control my own role...!!`
-`"L‐Lady {f:5:Erika}...!!`
-` Y‐you mustn't {f:5:move}...!!"`
+`"L-Lady {f:5:Erika}...!!`
+` Y-you mustn't {f:5:move}...!!"`
 `"......Stand back...`
 ` ......BACK OFF!!"`
 `When Erika yelled with all her soul,`
@@ -1550,7 +1550,7 @@
 `Then, Battler placed his hand on hers......`
 `"It's already resolved...`
 ` What more could there be to argue about...?!"`
-`"......Erika‐sama............"`
+`"......Erika-sama............"`
 `"Why...`
 `...am I...`
 `...powerless to help you...`
@@ -1576,7 +1576,7 @@
 `"Let's at least pull the final trigger together."`
 `"......I know......"`
 `Battler placed his own hand on top of the finger that Beato had around the trigger.`
-`"......Battler‐san. ......I'm glad...I met you."`
+`"......Battler-san. ......I'm glad...I met you."`
 `"We will...`
 `be together...`
 `for all eternity."`
@@ -1587,15 +1587,15 @@
 `"......That's a nice look.`
 ` ......Married life with you would probably have been fun enough to make me vomit."`
 `"Of course.`
-` I would have locked you in a world of such constant back‐arching pleasure...`
-`that it would have taken Beato‐san completely off your mind."`
+` I would have locked you in a world of such constant back-arching pleasure...`
+`that it would have taken Beato-san completely off your mind."`
 `"Haha.`
 ` It's a thousand years too early for you to capture Battler's heart, little girl."`
 `"Yes, that one's your cutest look by far.`
 ` ......This is really the way for both of us to finish things!!"`
 `".........Come."`
 `"This is the final parting line from the detective, Furudo Erika,`
-` and my self‐introduction!!"`
+` and my self-introduction!!"`
 `Erika spun around in a magnificent and graceful rondo,`
 ` scattering blood and golden petals around her as she raised her gun.`
 `"{p:1:Hello and good day!`

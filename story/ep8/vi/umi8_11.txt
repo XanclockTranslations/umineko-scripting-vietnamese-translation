@@ -29,7 +29,7 @@
 `Apparently, Battler and Beato were looking forward to their reunion with Erika.`
 `......They had already dueled with Erika in two separate games.`
 `But now, there was no distinction between foes and allies.`
-`They truly wanted to welcome her to this "after‐show party" as a friend...`
+`They truly wanted to welcome her to this "after-show party" as a friend...`
 `"Still, it's a bit unexpected."`
 `".........What is?"`
 `"You know.`
@@ -45,12 +45,12 @@
 `"......I'm sure it is.`
 ` But don't worry.`
 ` ......You obviously do know me better than anyone else in the world."`
-`"Y‐......yeah, of course!`
+`"Y-......yeah, of course!`
 ` After all, I love, adore, and understand you more than any other person in the universe{p:0:☆}"`
 `{f:5:Lambdadelta} was flustered by {f:5:Bernkastel}'s apparently friendly words, which were very rare, coming from her.`
-`"......Battler‐sama.`
+`"......Battler-sama.`
 ` Pardon me for interrupting your conversation.`
-` Ange‐sama has returned."`
+` Ange-sama has returned."`
 `"Oh, she's back?!`
 ` Great.`
 ` So, is she okay...?"`
@@ -58,7 +58,7 @@
 `When Battler heard this, he breathed a sigh of relief.`
 `Then, he turned to face {f:5:Bernkastel}, showing her a forced smile as though apologizing for still suspecting her just a little.`
 `{f:5:Bernkastel} showed no reaction, and simply continued to wear a blank expression with a slight smile.`
-`"Ange‐sama has returned."`
+`"Ange-sama has returned."`
 `".........I'm back."`
 `"Battler!`
 ` Ange's back...!"`
@@ -69,7 +69,7 @@
 `Her expression seemed somehow indifferent.`
 `"......That Battler.`
 ` Looks like he thought I had you hanging by chains in a cave or something."`
-`"N‐no, no.`
+`"N-no, no.`
 ` I didn't think you'd go that far."`
 `".........I was just having some tea at the house of one of {f:5:Bernkastel}'s friends.`
 ` It was delicious."`
@@ -97,7 +97,7 @@
 ` Hyah{0}hyah{0}hya!"`
 `"......I have no business with you.`
 ` Back off for a bit, would you?`
-` I want to talk to Onii‐chan alone."`
+` I want to talk to Onii-chan alone."`
 `"Come, come, I may not look it, but I am the wife of the territory lord...!`
 ` When it comes to Battler, I am far more—"`
 `"......Sorry, Beato.`
@@ -166,16 +166,16 @@
 ` ......It was written down by the sole survivor and preserved to this very day!"`
 `Battler's expression faltered for just an instant, and Ange didn't miss it.`
 `So he was hiding it after all.`
-`Onii‐chan...has been hiding the Book of the Single Truth from me...!!`
+`Onii-chan...has been hiding the Book of the Single Truth from me...!!`
 `"Aunt Eva...!`
 ` For the first time since your death, I'd like to express my gratitude.`
 ` ......Because you wrote down what happened that day, you gave me one last chance at learning the truth...!"`
-`"A‐......Ange‐chan, you have to listen to me...!`
+`"A-......Ange-chan, you have to listen to me...!`
 ` Everything I wrote in that diary is nonsense, so it doesn't......"`
 `"There's no point trying to deceive me.`
 ` Your diary has the truth of that day written in it!`
 ` It's already been proven with the red truth!"`
-`"......A‐absurd.`
+`"......A-absurd.`
 ` Who could possibly use the red truth besides Battler, the Game Master...?!"`
 `"..............................`
 ` ......It's Auaurora, isn't it?"`
@@ -188,7 +188,7 @@
 ` I want the real truth!!"`
 `"And no matter how hard you try to cover it up in 1986, I can expose it in 1998!!`
 ` After all,`
-` you are the {f:5:Beatrice} of 1986, Onii‐chan, ......and I am the {f:5:Beatrice} of 1998!!"`
+` you are the {f:5:Beatrice} of 1986, Onii-chan, ......and I am the {f:5:Beatrice} of 1998!!"`
 `A cyclone rose up around Ange.`
 `It was a golden swirl of gold butterflies.`
 `{n}Just like the Golden Witch, {f:5:Beatrice}......`
@@ -200,7 +200,7 @@
 ` I'm not!`
 ` I'm the Witch of Gold and Truth!`
 ` No illusion can stand in my way!!"`
-`"Your boring party is over, Onii‐chan!`
+`"Your boring party is over, Onii-chan!`
 ` Now it's time for my party to start!!`
 ` I've even readied a game to liven things up!`
 ` You're up, Aunt Eva."`
@@ -213,15 +213,15 @@
 `"You're.........{f:5:Eva}.........!!"`
 `"The sole survivor of Rokkenjima.`
 ` And a witch of the future, the Golden and Endless Witch from 1986 to 1998!!"`
-`"In the world of the future, Battler‐kun, your sappy illusion is more fragile than a flake of snow on a lake!`
+`"In the world of the future, Battler-kun, your sappy illusion is more fragile than a flake of snow on a lake!`
 ` Okay, let's have some fun!!`
-` Come, try to remember, {i:all of you}... Remember your endless theory‐making!!"`
+` Come, try to remember, {i:all of you}... Remember your endless theory-making!!"`
 `When {f:5:Eva} held her hand to the heavens, light gathered there and took the form of a bottle.`
 `Yes, a bottle.`
 ` A glass bottle with no label.`
 `There was no alcohol inside.`
 ` ......Sealed within it was a fragment that let off a pale, sinister light.`
-`"B‐Battler!! This is bad!!`
+`"B-Battler!! This is bad!!`
 ` She must not smash that bottle!!"`
 `"It's showtime!!!"`
 `The bottle was slammed against the floor and smashed to pieces.`
@@ -238,8 +238,8 @@
 `{n}It was as though large chunks of hail had started falling everywhere.`
 `An earthquake accompanied that noise, and the whole mansion groaned.`
 ` Dust began to fall from the ceiling.`
-`At the same time, it seemed as though the curtain‐covered window glowed with a pale light.`
-`"Wh‐what on Earth is going on...?"`
+`At the same time, it seemed as though the curtain-covered window glowed with a pale light.`
+`"Wh-what on Earth is going on...?"`
 `"Kyrie, look outside!`
 ` What the hell is that?!"`
 `Everyone rushed to a window in response to her voice.`
@@ -253,7 +253,7 @@
 `Outside the window, ......countless small objects, crystal fragments glowing pale blue, lay strewn about everywhere like fallen hail.`
 `The word "fantastical" perfectly summed up the scene that lay before them in the glowing rose garden......`
 `"......Just now, I saw something move over there...!"`
-`"H‐hey, is there someone over there?!`
+`"H-hey, is there someone over there?!`
 ` Wait, huh...?!"`
 `"......A, a person...just grew out of that glowing fragment...!"`
 `"Seven Sisters of Purgatory, battle formation!!"`
@@ -262,12 +262,12 @@
 `They were...giants with goat heads.`
 `One after another, they appeared from the insides of broken fragments.`
 `The realization that the countless fragments lying all over the rose garden were responsible for the blue glow covering the entire area......sent a wave of cold terror rushing over all present.`
-`"45! Wide‐area surveillance!"`
-`"......M‐my radar's filled with white!`
+`"45! Wide-area surveillance!"`
+`"......M-my radar's filled with white!`
 ` We're either being jammed, or......or the vast number of readings is making a count of enemy numbers impossible!!"`
 `Even as she said this, the glowing rose garden outside the window was filling with giant goats.`
 `The fragments carrying the goats weren't just in the rose garden...... They were spread evenly across the entire island.`
-`......Not just the rose garden, ......but the entire area around the mansion had to be half‐covered with goats by now...`
+`......Not just the rose garden, ......but the entire area around the mansion had to be half-covered with goats by now...`
 `".........For your attention."`
 `"Know that we are completely surrounded."`
 `"Yeah, we noticed......"`
@@ -288,7 +288,7 @@
 `"......Endless possibilities are hidden within the cat box.`
 ` ......Because of that, those outside the box can imagine the insides to be any one of an infinite number of things.`
 ` ......It would seem those endless delusions are the true nature of these creatures."`
-`"Wh‐what will those goats do to us, I wonder..."`
+`"Wh-what will those goats do to us, I wonder..."`
 `"It doesn't look like they're coming to give us a handshake and a pat on the back."`
 `"......Those people......`
 ` .........They're lowlifes, making up and passing around stories, imagining the tragedies that might have unfolded for us on this island...`
@@ -301,7 +301,7 @@
 ` What a fix we're in!"`
 `"Looks like we're surrounded and fighting for our lives!"`
 `"Hmm, what are they doing...?"`
-`"Th‐they're eating... They're eating something...!"`
+`"Th-they're eating... They're eating something...!"`
 `"......They're eating......the roses...?!"`
 `The squirming crowd of goats was busily doing something.`
 `If you looked closely, you could see them sticking their heads into the rose bushes and munching away.`
@@ -319,7 +319,7 @@
 ` ......That's why "they" won't accept a truth where we enjoy ourselves in peace...!"`
 `"......Truths of the past are inferior to truths of the future.`
 ` ......The merciless future fangs and jaws of those goats......refuse to accept our truth and are eroding it, replacing it with "the truth they wish to see"."`
-`"D‐......dammit...`
+`"D-......dammit...`
 ` ......This is our truth...!`
 ` It's not for those people in the future, who have nothing to do with us anyway, to rewrite as they please...!"`
 `The garden outside the window was now filled with too many goats to count, all chewing away.`
@@ -327,9 +327,9 @@
 `......They weren't just stunned into silence.`
 `There was just no point in making a fuss and letting the goats know for no reason.`
 `No point in letting them know......that there was plenty of prey waiting in this bright, warm room, ......prey that was softer and more satisfying to chew than roses or bricks......`
-`"Th‐that goat there, he's looking at us...!"`
+`"Th-that goat there, he's looking at us...!"`
 `"......Silence. Don't make a fuss."`
-`"......I‐it's coming this way...`
+`"......I-it's coming this way...`
 ` ......Isn't this bad......?"`
 `They saw one of the newly born goats head slowly towards their window.`
 `There was already a huge swarm of them in the garden, so it was no surprise that, when one of them looked around for new prey, it would see the light from this window.`
@@ -342,7 +342,7 @@
 `And......it was lumbering towards this window......`
 `"This window...isn't made out of special Ushiromiya bulletproof glass, by any chance, is it?"`
 `"......I doubt even bulletproof glass would stop that thing."`
-`"W‐waah...!!`
+`"W-waah...!!`
 ` It's coming, it's coming! It's running towards us!!!"`
 `"......For your attention:`
 ` know that this window shall not be breached."`
@@ -361,8 +361,8 @@
 `{n}The goats trying to break in through that one were thrown back.`
 `But at the same time, those inside the building heard the terrible crash of a third window being shattered.`
 `Scattering fragments of glass everywhere, the massive goats broke through the window frame and entered the building.`
-`"W‐waaaaaaaaahhh!!"`
-`"G‐get back! Everyone get back!"`
+`"W-waaaaaaaaahhh!!"`
+`"G-get back! Everyone get back!"`
 `‘......On the first twilight......sacrifice the six...............’`
 `Those words really were coming from the goat's mouth.`
 `{n}Along with steaming, foul breath.`
@@ -375,7 +375,7 @@
 `Their mouths were still stuffed with the bricks they had just been snacking on.`
 `Each time they chewed, it made a ghastly sound like bones being crushed...`
 `"......We will repel {f:5:them}."`
-`"Chiester Troops, prepare for close‐range combat!"`
+`"Chiester Troops, prepare for close-range combat!"`
 `"Hold up.`
 ` ......You start firing away and we'll have all the other goats coming to join the party."`
 `"......Let's fall back to the second floor.`
@@ -387,7 +387,7 @@
 `The goats would chew anything to bits, as long as it was near them.`
 `If the others were careful not to attract the goats' attention, they would be able to escape from this place......`
 `The {y:0:Human}{n:0:human}s ran on ahead up to the second floor, while the fantasy creatures, who were used to fighting, guarded the rear.`
-`The goats were completely absorbed by their all‐consuming feast in the hall.`
+`The goats were completely absorbed by their all-consuming feast in the hall.`
 `......Even the portrait of {f:5:Beatrice}, which might have been called the symbol of the whole Ushiromiya family, had now been brutally chewed up...`
 `"Battler, the {y:0:Human}{n:0:human}s have all taken refuge on the second floor...!"`
 `"Good.`
@@ -399,7 +399,7 @@
 ` It's time for work."`
 `"Seven Sisters of Purgatory, right here!`
 ` Let's go, you lowlifes!`
-` Tonight, it's all‐you‐can‐eat!!"`
+` Tonight, it's all-you-can-eat!!"`
 `"Chiester Troops, halt all external tasks.`
 ` Cancel automatic updates, accept no data, take no prisoners!"`
 `"Eiserne Jungfrau of the Seventh {f:5:District}.`
@@ -441,7 +441,7 @@
 ` ......I'll be rooting for you."`
 `"As you munch on popcorn?"`
 `"Of course.`
-` I think I'll have some soy‐sauce butter flavor today."`
+` I think I'll have some soy-sauce butter flavor today."`
 `{f:5:Lambdadelta} vanished with a pop.`
 `As soon as she did, a black hole opened up in midair, and Gaap fell out of it.`
 `"Battler, Riiche.`
@@ -452,11 +452,11 @@
 `"Let's go.`
 ` ......Everyone, we're counting on you to hold this position...!"`
 `When Gaap snapped her fingers, a large hole opened up under Battler and Beato, swallowing them both.`
-`When it spat them back out again, .........they were in an inky‐black sky.`
+`When it spat them back out again, .........they were in an inky-black sky.`
 `Both of them were floating in the night sky.`
 ` They could see Rokkenjima far beneath them.`
 `And, as soon as they realized this, ......they shuddered.`
-`"......Th‐this is............!!"`
+`"......Th-this is............!!"`
 `"It's not a crowd.`
 ` ......It's a sea."`
 `It was no longer a crowd of goats, but an entire sea of them.`
@@ -472,7 +472,7 @@
 `"It's easiest to see near the harbor.`
 ` Look closely.`
 ` .........See it......?"`
-`"D‐don't tell me...?!"`
+`"D-don't tell me...?!"`
 `"......Yeah, ......you're probably right.`
 ` ......They're......eating it.`
 ` ......Eating the whole island......"`
@@ -490,7 +490,7 @@
 ` Hundreds, thousands, ...no, tens of thousands of goats continued to eat...`
 `They were chewing away at every bit of Rokkenjima, ......of this final game that Battler had prepared......`
 `"Ahhahahhahahahahaha!!`
-` Too bad, Battler‐kun!`
+` Too bad, Battler-kun!`
 ` The future wants a tragedy on this island...!`
 ` Even Ange wants the truth!`
 ` We'll just chew up all the ostentation, illusions, and fantasy for them!!"`
@@ -546,7 +546,7 @@
 ` Let's evacuate everyone.`
 ` How can we open the door to the Golden Land?!"`
 `"I just have to open it.`
-` ......However, an immense cloud of the anti‐magic toxin is emanating from that crowd of goats.`
+` ......However, an immense cloud of the anti-magic toxin is emanating from that crowd of goats.`
 ` It will take some time to open the door."`
 `"So, we've only got to protect this study with our lives until the door's open.`
 ` Just have to keep doing what we've been doing."`
@@ -585,7 +585,7 @@
 `Dlanor's and Will's blades also sliced the goats effortlessly in two.`
 `The pinpoint strikes of the Seven Sisters of Purgatory could pierce the vitals of and finish off any opponent, no matter how large.`
 `The Chiester Sisters were holding their own too.`
-`One shot from their high‐caliber firearms blasted so many goats to bits that you couldn't count the kills with both hands.`
+`One shot from their high-caliber firearms blasted so many goats to bits that you couldn't count the kills with both hands.`
 `They would have been more than a match for a limited number of opponents.`
 `However, they weren't just up against a crowd, but an entire sea.`
 `It was like a pebble trying to face the approaching waves of a stormy sea......`
@@ -610,13 +610,13 @@
 `"The enemy is changing its formation...!`
 ` It appears that the individuals with greater destructive power are being gathered in the front lines!"`
 `"And so what? Let's go!!"`
-`""""""Yes, Onee‐sama!!""""""`
+`""""""Yes, Onee-sama!!""""""`
 `"Wait! Something's wrong...!"`
 `Lucifer took aim at one of them, going for its forehead.`
 `The other six sisters followed her lead, trying to pierce the vital organs all over the creature's body.`
 `However, there was no sound of pierced flesh.`
 `The Seven Sisters of Purgatory were knocked back, unable to cause even the smallest wound.`
-`"Wh‐what?!`
+`"Wh-what?!`
 ` What just happened?!"`
 `"......Those guys are talking about something."`
 `The goats kept whispering the same thing, over and over, as they slowly approached the Seven Sisters.`
@@ -640,7 +640,7 @@
 `"We've got lots of people who won't accept the existence of magic!"`
 `"And that means?!"`
 `"No magical attacks will have any effect on them!"`
-`"D‐does that mean all of our attacks will be completely useless?!"`
+`"D-does that mean all of our attacks will be completely useless?!"`
 `"......{ruby:Endless Nine:99.9999999}...nyeh.`
 ` ......If they don't accept that we exist, our attacks can't hurt them nyeh."`
 `"Is that possible...?!"`
@@ -654,10 +654,10 @@
 `"I see, ......so even my attacks will not affect some of them."`
 `There was no longer any point in {f:5:Virgilia} trying out her own magic spear.`
 `Some of the goats must also have decided that her existence was fictional as well, and she would no longer be able to hurt them.`
-`......All of these great demons, great witches, ......high‐level furniture, and weapons,`
+`......All of these great demons, great witches, ......high-level furniture, and weapons,`
 ` ......were overcome with fear of the crowd that surrounded them, a crowd that would not be affected by any of their attacks...`
-`"...Wh‐what are we going to do......?!"`
-`"......W‐we'll keep fighting until the end.`
+`"...Wh-what are we going to do......?!"`
+`"......W-we'll keep fighting until the end.`
 ` You do not have permission to die in battle...!"`
 `‘.........Fantasy is all fiction...... Fantasy is all fiction......`
 ` ......Fantasy is......all......fii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}ictioon!!!’`
@@ -680,9 +680,9 @@
 `".....................Hmph."`
 `Ronove knew.`
 ` ......He could do less damage than a mosquito bite against those who didn't accept his existence.`
-`This was what it meant to face an anti‐magic defense of {ruby:Endless Nine:99.9999999}...`
+`This was what it meant to face an anti-magic defense of {ruby:Endless Nine:99.9999999}...`
 `‘.........Ronove is fantasy......a fiction......an illusion......!!’`
-`The goat swung its log‐like fist with a sound like a storm.`
+`The goat swung its log-like fist with a sound like a storm.`
 `Ronove dodged by a hair.`
 `......If he had been an instant slower, the massive arm would have crushed his head like glass.`
 `"Ronove...!!`
@@ -698,14 +698,14 @@
 `‘.........Those of fantasy do not exist...... Do not exist......’`
 `‘......Fantasy is all...pukespittle...pukespittle......’`
 `The goats kept coming, trying to feast on Ronove.`
-`None had any pretensions of making this a one‐on‐one fight.`
+`None had any pretensions of making this a one-on-one fight.`
 `{n}Nothing mattered except chewing apart fantasy.`
 ` Even just a nibble.`
 `As they gnashed those ruthless jaws and fangs, they gathered around Ronove......`
 `"......Ggh.........!"`
 `Ronove's foot hit something, and he stumbled.`
 `In the same instant, several massive arms reached out and lifted him up.`
-`"R‐Ronove‐samaaaaaaaaaa!!"`
+`"R-Ronove-samaaaaaaaaaa!!"`
 `"What are you doing, Chiesters? Shoot them!!"`
 `".........We would've done that already if it'd have any effect nyeh......"`
 `"Everyone, please stand back.`
@@ -723,7 +723,7 @@
 `".........Which of you......mentioned {f:5:mystery}?"`
 `"Is Dlanor's blade effective?!"`
 `"I see, if the opponents are calling it a mystery...!"`
-`Blood‐red longsword in hand, Dlanor slowly walked forward.`
+`Blood-red longsword in hand, Dlanor slowly walked forward.`
 `Behind her walked Will, tapping his back with his black blade.`
 `"......Well, if you don't think it's a fantasy,`
 ` ......then let's hear what your theories are."`
@@ -748,18 +748,18 @@
 `The countless riddles {f:5:Beatrice} left behind became blades, "challenges" that tore the goats apart.`
 `If they wanted to deny fantasy, ......they would have to make a counterargument.`
 `They would have to deal with every single trick as a mystery.`
-`However, although the goats spoke words of anti‐fantasy, most of them had prepared no answer for the mystery.`
+`However, although the goats spoke words of anti-fantasy, most of them had prepared no answer for the mystery.`
 `Well, every now and then, there was a goat who did have an answer.`
-`‘......S‐someone outside the Ushiromiya family was hiding on the island, and......’`
+`‘......S-someone outside the Ushiromiya family was hiding on the island, and......’`
 `"Knox's 1st! It is forbidden for the culprit to be anyone not mentioned in the early part of the {f:5:story}!!"`
 `‘......There were multiple culprits all working separately, and it just happened to look like a single culprit......’`
 `"Van Dine's Rule #12.`
 ` There must be but one true culprit."`
-`‘......Y‐you mean...everything but that is......f‐...forbidden......?!’`
+`‘......Y-you mean...everything but that is......f-...forbidden......?!’`
 `"Boring, right? To have a genre like that.`
 ` Personally,`
 ` I think mysteries should be more flexible."`
-`‘......The Ten Knox Commandments......and the Twenty Van Dine Rules......a‐...are behind the times......’`
+`‘......The Ten Knox Commandments......and the Twenty Van Dine Rules......a-...are behind the times......’`
 `‘The definition of the mystery genre is......changing with the era......I think...’`
 `"Tch.`
 ` They're getting rebellious."`
@@ -769,7 +769,7 @@
 `The whole crowd of goats charged them.`
 `In their fangs, each of them carried theories to crush Beato's locked rooms.`
 `The bodies of these goats were different than the ones who had become corpses so easily just now.`
-`They had mystery‐style answers to several locked rooms.`
+`They had mystery-style answers to several locked rooms.`
 `So, it would take several blade hits to deal them a fatal wound.`
 `However, Beato had left many blades behind.`
 ` All of them were exceedingly sharp.`
@@ -783,13 +783,13 @@
 `The crowd of goats was no longer an encirclement, but a great wave threatening to swallow the pair up.`
 `And yet, the pair repelled the enemy without giving an inch.`
 `They resisted firmly, cutting through the tsunami of wailing goats.`
-`It was like an ice‐breaking ship knocking a path through a frozen sea.`
+`It was like an ice-breaking ship knocking a path through a frozen sea.`
 `‘......They entered the locked room through a hidden passage that no one else could use, and......’`
 `"Knox's 3rd! It is forbidden for hidden passages to {f:5:exist}!!"`
 `‘......After the hidden passage was used, it was welded shut and became unusable, so no hidden passages existed at the time of the inspection...’`
 `"Knox's 8th! It is forbidden for the case to be resolved with clues that are not {f:5:presented}!!"`
 `‘......These are all fake murders, and no one is actually dead......`
-` So, all locked rooms were constructed by the so‐called victims......’`
+` So, all locked rooms were constructed by the so-called victims......’`
 `"?!"`
 `Dlanor hesitated for just an instant.`
 `After all, this clichéd and simple theory managed to get around both Beato's locked rooms and the Knox Decalogue.`
@@ -844,7 +844,7 @@
 `‘...Gg.........gwhh—’`
 `Will's head was lowered, so his face couldn't be seen.`
 ` However, the arm of the goat holding him was shaking.`
-`The embrace of those log‐sized arms with superhuman strength......was being slowly pushed away by Will's shaking arms......`
+`The embrace of those log-sized arms with superhuman strength......was being slowly pushed away by Will's shaking arms......`
 `".........Thinking is just a waste of time......?`
 ` You say that......and call yourself a mystery fan......?"`
 `‘Gwah...ooh..................’`
@@ -886,7 +886,7 @@
 `"......!"`
 `"In this game, that means you lose."`
 `Battler smashed his fist into the goat's mouth......and smashed teeth bounced off the celling.`
-`"{f:5:Battler}‐sama...!"`
+`"{f:5:Battler}-sama...!"`
 `"If you stop thinking, it means you've given up on the story being a mystery.`
 ` Which means......as far as you're concerned, this game is a fantasy."`
 `Battler lifted up his arm.`
@@ -903,7 +903,7 @@
 `"......And if you have a theory, we will hear it {f:5:out}."`
 `"We'll welcome those people with open arms.`
 ` ......Out of respect for them, we won't hold anything back!"`
-`"Oh, but it would seem that this is {f:5:Battler}‐sama's time to shine."`
+`"Oh, but it would seem that this is {f:5:Battler}-sama's time to shine."`
 `".........While I would like to listen to all your favorite theories, both mystery and fantasy,`
 ` ......this isn't your game right now.`
 ` ......No matter how much you future fragments try to deny us, this is no time for me to be defeated......"`
@@ -929,7 +929,7 @@
 `""Just the MCs!!""`
 `Their excessively blunt refusal drew a few strained smiles.`
 `{n}However, it had lessened the tension in the room just a bit.`
-`"{f:5:Battler}‐sama, leave this to us!"`
+`"{f:5:Battler}-sama, leave this to us!"`
 `"We won't allow the corrosion to proceed any further!"`
 `"And not one of us will be left behind."`
 `"Of {f:5:course}.`
@@ -956,7 +956,7 @@
 `"That's right, ......the chapel...!`
 ` What's happened to the chapel?!"`
 `"It's still there...!"`
-`The chapel looked like a white building floating in the pitch‐black sea of goats.`
+`The chapel looked like a white building floating in the pitch-black sea of goats.`
 `......Yes.`
 ` This was strange.`
 `There was no way those goats, who consumed everything, would go out of their way to avoid just the chapel.`
@@ -976,7 +976,7 @@
 `The Book of the Single Truth.`
 `......It was the one {f:5:Featherine} had shown her in the world of 1998.`
 `This time, I have the key.`
-`I gripped the gold key that sat in my pocket, ......the key Onii‐chan gave me.`
+`I gripped the gold key that sat in my pocket, ......the key Onii-chan gave me.`
 `As I approached the altar, I saw that the Book of the Single Truth was wrapped in a strange bending of the light.`
 `".........So, this is that seal of the Game Master that {f:5:Bernkastel} talked about."`
 `The Book of the Single Truth was sealed in something like a crystal.`
@@ -985,7 +985,7 @@
 `No matter how Ange used her power as a Witch of Truth, this couldn't be broken by anyone except the Game Master.`
 `......However, this time, Battler wasn't the only Game Master.`
 `"Hmph.`
-` ......So sorry, Onii‐chan.`
+` ......So sorry, Onii-chan.`
 ` {f:5:Bernkastel} is also a Game Master.`
 ` ......I just need to take it with me and have her break the seal."`
 `Ange slowly approached the altar......`
@@ -1037,14 +1037,14 @@
 ` I believed too."`
 `At the same time, they both brandished their mysteries, sealing the other in a chained locked room.`
 `"Come, Furudo Erikaa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aaa!!!"`
-`"Entertain me, Bwattleer‐shwa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aann{-}n{-}n{-}nn!!!"`
+`"Entertain me, Bwattleer-shwa{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}a{-}aann{-}n{-}n{-}nn!!!"`
 `At the same time, they were both sealed inside a locked room locked with a chain.`
 `Of course, it was easy to set and unset the chain from the inside.`
 `However, stepping into their opponent's chained room would be difficult.`
 `They were fighting to the death with two chain locked rooms at once.`
-`There could be no better locked‐room duel for this pair, who had battled with theories concerning chained rooms so often.`
+`There could be no better locked-room duel for this pair, who had battled with theories concerning chained rooms so often.`
 `"{p:2:Furudo Erika committed suicide, died in an accident, died of illness, died by some reason other than homicide}!!"`
-`"{p:1:It wasn't a suicide, it wasn't an accidental death, it wasn't a death by illness! I really was killed by you, Battler‐san}!!!"`
+`"{p:1:It wasn't a suicide, it wasn't an accidental death, it wasn't a death by illness! I really was killed by you, Battler-san}!!!"`
 `"{p:2:It was a murder committed by slipping poison gas through the crack of the door, by filling the room with water and drowning you, by sucking the oxygen out of the room and making you suffocate}!!"`
 `"{p:1:There was no poison gas, there was no drowning, there was no death by suffocation}!!"`
 `"Hahahaha, ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haha!!`

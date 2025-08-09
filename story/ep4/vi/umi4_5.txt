@@ -1,9 +1,9 @@
 `The door was forcefully flung open, and Rosa flew in with Maria.`
-`"Is Genji‐san or anyone here...?!`
+`"Is Genji-san or anyone here...?!`
 ` It doesn't matter who, someone bring us a bath towel...!!"`
-`It was already a full‐blown typhoon outside, and it was starting to pour down hard.`
+`It was already a full-blown typhoon outside, and it was starting to pour down hard.`
 `{n}Though she had at least been using an umbrella, Maria had been in the rose garden amid all that wind and rain the whole time.`
-`She had grown ice‐cold.`
+`She had grown ice-cold.`
 `Maria had gotten into a minor fight with Rosa in the rose garden, and had been told to stay there forever.`
 `......She had done as she was told, and had continued to remain in that spot even after the rain started.`
 `Rosa certainly had gotten a little emotional and angry,`
@@ -27,14 +27,14 @@
 ` Even if you've got an umbrella, you have to get some shelter if it starts pelting down like this, got it?`
 ` Little girls shouldn't ever let themselves get cold."`
 `".........Uu."`
-`"It's alright, Jessica‐chan.`
+`"It's alright, Jessica-chan.`
 ` ......It's Mama's fault for telling her to stay there.`
 ` I'm really sorry, I'm really sorry...!!"`
 `"Uu!`
 ` I'm a good girl?`
 ` Good girl for doing what Mama said?`
 ` Stayed there even though it was cold, stayed there until Mama came!`
-` Uu‐uu!"`
+` Uu-uu!"`
 `"Yes, you really are a good girl, Maria.`
 ` You did exactly what Mama told you...`
 ` You really did well.`
@@ -47,7 +47,7 @@
 `As Rosa gently held Maria, they joined their pinkies together and promised.`
 `Battler and the others could tell that by this bonding between mother and child, expressed through a single little finger,`
 ` the warmth was starting to return to Maria's body.`
-`"Kanon‐kun, thanks for the towel.`
+`"Kanon-kun, thanks for the towel.`
 ` That really helped."`
 `"......Then, if you would excuse me."`
 `Kanon bowed with a blank expression, as though he had done nothing that required gratitude, then left the parlor.`
@@ -56,14 +56,14 @@
 ` ......Maria, you can even have half of my dessert too for being so good."`
 `"Uu!`
 ` Really, Mama?!`
-` Uu‐uu, get dessert, uu‐uu‐uu{p:0:♪}`
+` Uu-uu, get dessert, uu-uu-uu{p:0:♪}`
 ` Love you Mama, love you Mama!"`
 `"Now now, Maria, don't jump around.`
 ` Mama loves you too, Maria.`
 ` Love you Maria, love you Maria."`
 `"Me too, love you Mama, love you Mama!`
-` Uu‐uu‐uu‐uu!"`
-`"Uu‐uu‐uu‐uu{p:0:♪}"`
+` Uu-uu-uu-uu!"`
+`"Uu-uu-uu-uu{p:0:♪}"`
 `Rosa and Maria looked really happy together.`
 ` Even the cousins watching started to feel a somehow familiar warmth filling up their chests.`
 `"......You know, that might be the age when you're on the best terms with your parents."`
@@ -72,7 +72,7 @@
 `"That's because they love their children.`
 ` A parent's love isn't always gentle and indulgent.`
 ` My mother was strict with me too, but by now I realize that it was because she treasured me so."`
-`"Uu‐uu‐uu!`
+`"Uu-uu-uu!`
 ` Love you Mama, love you Mama!"`
 `"Love you Maria, love you Maria{p:0:♪} So, shall we get some food?`
 ` Let's be friends and hold hands."`
@@ -95,7 +95,7 @@
 ` but he couldn't understand why she had suddenly grown so displeased.`
 `When she made to bend over and pick up the pieces of the cup, Ronove appeared out of nowhere and stopped her.`
 `"Please, you will injure yourself.`
-` Leave the cleaning‐up to me.`
+` Leave the cleaning-up to me.`
 ` Shall I bring you another cup...?"`
 `"......No thanks.`
 ` .........I guess a demon's black tea just doesn't suit my tastes."`
@@ -123,11 +123,11 @@
 ` Isn't it obvious...?"`
 `"Uu.`
 ` ...Not to me......"`
-`Even Maria onee‐chan, with that blank expression on her face, ...irritated me.`
-`I held my hands palms‐up in the empty air, and from out of nowhere, a single book landed upon them with a thump.`
-`.........It was Maria onee‐chan's diary.`
+`Even Maria onee-chan, with that blank expression on her face, ...irritated me.`
+`I held my hands palms-up in the empty air, and from out of nowhere, a single book landed upon them with a thump.`
+`.........It was Maria onee-chan's diary.`
 `Even though there was no wind, the pages flipped and flipped without me turning them,`
-` and opened the door to Maria onee‐chan's world.`
+` and opened the door to Maria onee-chan's world.`
 `"......Why do you think that I'm not happy, Ange?"`
 `"............By thinking about it objectively."`
 `"Objectively from your perspective, right?"`
@@ -164,7 +164,7 @@
 ` If you're good, I'll buy you a present.`
 ` Listen now.`
 ` Go to bed by nine o'clock.`
-` Make sure not to tell your teacher or any grown‐ups that Mama hasn't come home.`
+` Make sure not to tell your teacher or any grown-ups that Mama hasn't come home.`
 ` Alright......?"`
 `"..................'kay.`
 ` ......I will, so, Mama, work hard, okay?`
@@ -297,7 +297,7 @@
 `‘Uryu!’`
 `Sakutaro nodded deeply with his big head.`
 `{n}No more tears could fall from Maria's eyes.`
-`......Because if she greeted her mama with a tear‐stained face, her mama would probably get sad too.`
+`......Because if she greeted her mama with a tear-stained face, her mama would probably get sad too.`
 `‘You know this already, Maria.`
 ` You can't use the magic that creates smiles if you aren't smiling too.’`
 `"......Yeah.`
@@ -338,7 +338,7 @@
 `‘Uryuu!`
 ` Let's play and play tonight and get in a really great mood{p:0:♪}`
 ` Let's play a lot in a secret party that we can only have when Mama isn't here.’`
-`‘If we're lively enough, I'm sure plenty of friends will come to play from Wonderland and Looking‐Glass Land.`
+`‘If we're lively enough, I'm sure plenty of friends will come to play from Wonderland and Looking-Glass Land.`
 ` We'll have so many friends at that point that there simply won't be time left to feel bored.`
 ` Uryuu!’`
 `"Uryuu!!"`
@@ -348,7 +348,7 @@
 `{n}Partway through, I also achieved the brilliant feat of guessing right four times in a row.`
 `The game where I split peanuts open and tried to guess which half would be the grandpa...`
 `was easier than guessing the color of the jellybeans, so I got it right a lot.`
-`Sucking my salt‐covered fingers was bad manners, but that was the yummiest part.`
+`Sucking my salt-covered fingers was bad manners, but that was the yummiest part.`
 `I like both orange juice and melon soda on their own.`
 `I hoped that by mixing those two favorite drinks, there might be a flash of light like alchemy,`
 ` and a new drink that no one had ever tasted before would be created.`
@@ -362,7 +362,7 @@
 `......So I got the feeling that Mama might suddenly come home,`
 ` and went to the front door many times to check, but there was no way Mama would be able to come home when she was this busy with work.`
 `But rather than a feeling of loneliness,`
-` I felt just a little disappointed that I couldn't invite Mama to join in on such a fun late‐night party.`
+` I felt just a little disappointed that I couldn't invite Mama to join in on such a fun late-night party.`
 `Next time, I'll do this when Mama is around, and let her join in.`
 `Even some things that I don't think are yummy, Mama says are delicious,`
 ` so she might say that Sakutaro Soda is really yummy.`
@@ -407,7 +407,7 @@
 `"......See?`
 ` See how happy I...no, see how happy me and Sakutaro are?"`
 `"..................`
-` Is this your happiness, Maria onee‐chan...?"`
+` Is this your happiness, Maria onee-chan...?"`
 `"Yep.`
 ` I am happy."`
 `"......Even though you were looking forward to that movie so much, and Aunt Rosa promised that she'd definitely take you, she completely forgot."`
@@ -419,7 +419,7 @@
 `......There's no way that's insignificant.`
 `After all, ......when Aunt Rosa replied "The movies?" on the phone,`
 ` it was obvious that she had completely forgotten her promise.`
-`And when she heard that, Maria onee‐chan's mood definitely darkened.`
+`And when she heard that, Maria onee-chan's mood definitely darkened.`
 `"Well, ......like you say,`
 ` even if Aunt Rosa had remembered her promise, you wouldn't have been able to go to the movies in the end."`
 `"......But even so.`
@@ -452,12 +452,12 @@
 `"Yes.`
 ` And that.........can only mean one thing, can't it?!`
 ` You were starving for Auntie Rosa's love...!`
-` And Aunt Rosa always put her work and her public image first, always keeping you on the back‐burner...!"`
+` And Aunt Rosa always put her work and her public image first, always keeping you on the back-burner...!"`
 `"That's why it makes my skin crawl!`
 ` Because I know just how superficial Aunt Rosa's words of {i:love} for you are!!`
 ` You should realize this yourself!"`
 `"So......how can you say that you're happy?!`
-` I don't {i:understand} that......that part of you, Maria onee‐chan!!`
+` I don't {i:understand} that......that part of you, Maria onee-chan!!`
 ` Even at this age, I can't understand it at all...!!"`
 `"How aren't you sad?`
 ` How is it that you can experience a reality filled with misfortune and call yourself happy?!`
@@ -481,7 +481,7 @@
 ` .........This is...the "truth" of that night.`
 ` Please, don't take this happy truth,`
 ` ............and paint over it with a new and different truth."`
-`"............Does this make you......happy, Maria onee‐chan?"`
+`"............Does this make you......happy, Maria onee-chan?"`
 `"Yep.`
 ` Happy.`
 ` .........That's why I feel so sorry for you, because you can't feel happiness in the same situation."`
@@ -491,7 +491,7 @@
 `Ushiromiya Maria took the sad truth...`
 `...and changed it into happiness.`
 `That...`
-`...is the only, and yet all too large, ...difference between me and Maria onee‐chan.`
+`...is the only, and yet all too large, ...difference between me and Maria onee-chan.`
 `And at the same time as being unable to accept it,`
 ` ......another part of me is jealous of that power.`
 `"Yeah.`
@@ -518,7 +518,7 @@
 ` ......but also partially because she was sick and tired of having Maria cling to her and loudly whine and sob after being left alone in the house for a few days.`
 `However, when she was welcomed by an unbelievably happy Maria,`
 ` ......and discovered unbelievably that her fears had been unfounded, Rosa couldn't hide her surprise.`
-`"Wh‐......what's going on, Maria...?`
+`"Wh-......what's going on, Maria...?`
 ` You're in a great mood, aren't you...?!`
 ` Is someone here...?!"`
 `It was strange enough to make Rosa think that a friend might have come over, and that she had come back home in the middle of them having a good time playing together.`
@@ -555,7 +555,7 @@
 `Inside, laid there like chess pieces, were about twenty small ceramic animal figures.`
 `Squirrels, rabbits, small birds, dogs and cats.`
 `{n}And they were all holding musical instruments.`
-`In addition to them, there was also a panorama‐style background.`
+`In addition to them, there was also a panorama-style background.`
 `{n}A forest scene was drawn on it.`
 `{n}Little woodland animals were all gathered around a forest clearing, and they looked like they were having a good time.`
 `Rosa set it up on the table.`
@@ -599,7 +599,7 @@
 `............Atami?`
 ` Maybe it's that place famous for its hot springs...?`
 `Just then.`
-` ...A razor‐sharp sound shattered the warm atmosphere.`
+` ...A razor-sharp sound shattered the warm atmosphere.`
 `Instead of the Rosa who had been there just a second ago, enjoying a gift with her daughter and full of weariness after returning home for the first time in several days,`
 ` .........there stood a completely different person, who looked exactly the same, but had the most terrible of expressions on her face.`
 `...In her hand was the ticket stub that Maria had picked up.`
@@ -609,12 +609,12 @@
 ` and her mother's expression,`
 ` Maria realized that she must have done something wrong.`
 `But she didn't know what she had done that had gotten her in trouble.`
-`......It was probably because of that ticket‐stub‐like thing.`
+`......It was probably because of that ticket-stub-like thing.`
 `Was she not supposed......to touch it.........?`
 `Even though she had tried so hard to welcome her mama with fun and happiness,`
 ` ...she had touched something important to her without asking, and had ruined that pleasant atmosphere...`
 `......So Maria apologized immediately.`
-`"S‐......sorry........."`
+`"S-......sorry........."`
 `"............nh.`
 ` .................."`
 `Even though she must have heard those words of apology, Rosa's expression actually darkened.`
@@ -651,7 +651,7 @@
 ` That Mama suddenly got mad?`
 ` .........That happens sometimes when people get tired.`
 ` ......Condemning a person because of a momentary misplaced emotion isn't very adult of you, Ange."`
-`"......I can't believe I'm hearing this from a nine‐year‐old...`
+`"......I can't believe I'm hearing this from a nine-year-old...`
 ` But that's not the problem, is it?!`
 ` That ticket stub you picked up was clearly strange!"`
 `"How?`
@@ -680,7 +680,7 @@
 `"......Instead, all you find are the unhappy fragments, and you keep getting hurt over and over.`
 ` ......That's why you get scared of being hurt,`
 ` ......and you can't start even looking for happiness until after you've finished making sure that there's nothing around you that could hurt you."`
-`"..................When I talk with you, Onee‐chan, it gets hard to tell which one of us isn't making sense."`
+`"..................When I talk with you, Onee-chan, it gets hard to tell which one of us isn't making sense."`
 `"You know what?`
 ` There are lots and lots of both happy and unhappy fragments, and the world is full to the brim with both kinds.`
 ` So people who can't find happiness right beside them won't be able to find it no matter where they go looking.`
@@ -699,7 +699,7 @@
 ` That a single scrap of paper could do that.`
 ` ......In that case, maybe the power to get happiness back can also lie in a single scrap of paper, don't you think?"`
 `Just when she had finally been able to bond with Maria after so long......`
-`Rosa's face twisted with a mixture of anger, sadness, and a fierce self‐hatred as she flew into her room and closed the door.`
+`Rosa's face twisted with a mixture of anger, sadness, and a fierce self-hatred as she flew into her room and closed the door.`
 `.........Maria's "sorry" had stuck into her chest more sharply than any knife.`
 `Then,`
 ` ......she noticed a cute envelope placed on her study table.`
@@ -749,7 +749,7 @@
 ` Who's that?"`
 `{a:c:`
 `"I shall teach you in {f:5:Maria}'s place."}`
-`".........B‐`
+`".........B-`
 `............{f:5:Beatrice}..............."`
 `"The "power" that {f:5:Maria} has, but you do not."`
 `"Yep.`
@@ -788,19 +788,19 @@
 ` the dolls sometimes gain an actual will and converse with them, in rare cases even moving on their own.`
 `However, the power that they can imbue into such a vessel is very weak due to their innocence.`
 `If even a tiny bit of the toxin from a {y:0:Human}{n:0:human}'s common sense gets involved, and tells them that there's no way a doll can talk or move,`
-` it instantly reverts to being an ordinary non‐speaking doll......`
+` it instantly reverts to being an ordinary non-speaking doll......`
 `"However, ......this...Sakutarou stuffed animal of yours is different."`
 `"Uu!`
 ` Sakutaro is a stuffed animal, but he's not just a stuffed animal!"`
 `‘Uryuu!`
 ` Lion cuuuub!`
-` Ga‐...ga‐......uryuu!’`
+` Ga-...ga-......uryuu!’`
 `"Sakutaro is a lion cub, but he's still a kid, so he can't say {ruby:roar:gaooo} sometimes.`
-` Uryu‐uryu‐uryu{p:0:♪}"`
-`‘Uryu‐uryu‐uryuu!’`
+` Uryu-uryu-uryu{p:0:♪}"`
+`‘Uryu-uryu-uryuu!’`
 `{f:5:Beatrice} let out a sigh of admiration as she gazed at Maria, playing around with Sakutaro at the table loaded with tea.`
 `".........How incredible.`
-` This "Sakutarou", with a core of a cloth‐and‐cotton vessel, has completely manifested into the human world.`
+` This "Sakutarou", with a core of a cloth-and-cotton vessel, has completely manifested into the human world.`
 ` He has his own character, talks with his summoner freely,`
 ` {i:and even moves by his own will}."`
 `"......And what is most surprising is that you did not summon him by name as a being from another world,`
@@ -823,7 +823,7 @@
 ` In your case, it may even be fitting to call it creation.`
 ` ......A piece of inorganic matter that would have no soul at all in another's hands has had a soul imbued into it through your magic."`
 `"Furthermore, you are using strong power to keep it tethered to the human world.`
-` ......In this era so filled with the toxin that denies magic, maintaining the magical power necessary to manifest a being to the degree that it can exist as an independent life‐form is not easy even for me."`
+` ......In this era so filled with the toxin that denies magic, maintaining the magical power necessary to manifest a being to the degree that it can exist as an independent life-form is not easy even for me."`
 `It isn't hard to create soulless beings in any number.`
 `{n}However, creating a being with a soul is very difficult.`
 `{n}...Beato declared this definitively.`
@@ -891,15 +891,15 @@
 ` Perfect timing.`
 ` I want you to take a look at this lion cub.`
 ` I hear he's Maria's new friend."`
-`"Hoh‐hoh‐ho.`
+`"Hoh-hoh-ho.`
 ` What an adorable little lion.`
 ` ......I wonder if he can greet me?`
 ` Hello, nice to meet you...?"`
-`‘U‐uryuu!`
+`‘U-uryuu!`
 ` I, I'm Sakutarou.’`
 `Sakutaro got back down onto Maria's lap, and greeted {f:5:Virgilia} with half of his face poking out over the edge of the table.`
 `...He seemed to be very nervous since this was a witch that even Beato called Master.`
-`"Hoh‐hoh‐ho.`
+`"Hoh-hoh-ho.`
 ` What a lovely name.`
 ` ......As a reward for giving such a good greeting, here's a sweet for you."`
 `After waving her hands about, {f:5:Virgilia} held the palm of her hand upwards, and made a movement as though lightly grasping some of the air.`
@@ -915,7 +915,7 @@
 ` ...*bow*.’`
 `Even though {f:5:Virgilia} was a Great Great Witch, she still treated a stuffed animal like Sakutarou to an elegant greeting.`
 `"Still, Master, cough drops? Are you someone's granny or something...?!`
-` Can't you at least pull out some strawberry‐milk candy~?"`
+` Can't you at least pull out some strawberry-milk candy~?"`
 `"How mean.`
 ` Perhaps I won't give you candy anymore?"`
 `"Kuhhyahhyahhya, sorry, sorry.`
@@ -947,13 +947,13 @@
 `Beato borrowed the grimoire from Maria's handbag and majestically riffled through the pages.`
 `......Then, finding an empty page among those with magic circles drawn on them, she flattened the book out.`
 `And after staring at Sakutarou with a smirk, she suddenly started darting her pen across the page.`
-`......It was something like a written proclamation made by witches to a higher‐order world.`
+`......It was something like a written proclamation made by witches to a higher-order world.`
 `Magic, which would take effect by {f:5:Beatrice} writing it and {f:5:Virgilia} giving her signature as a witness.`
 `Maria didn't understand what Beato was doing at first, but partway through, she figured out the wonderful magic power of this document, and her eyes began to sparkle...`
 `‘Uryu?!`
 ` Uryu?!`
 ` What is it, Maria, what's she drawing?!`
-` Uryu‐uryu?!’`
+` Uryu-uryu?!’`
 `Sakutarou was on her lap, so he didn't know what was being written up on the table.`
 `......But even if he had seen, Sakutarou probably wouldn't have understood.`
 `"It's amazing, Sakutaro!!`
@@ -968,7 +968,7 @@
 `And Maria, upon also peeking in at it, let out a cry of wonder.`
 `"......It's amazing, Beato!!`
 ` So cuuute!!`
-` Uu‐uu‐uu!!"`
+` Uu-uu-uu!!"`
 `"By the name of the Golden Witch {f:5:Beatrice}, I hereby acknowledge Sakutarou, {f:5:Maria}'s child.`
 ` .........Master, if you would sign as a witness!"`
 `"Yes, yes.`
@@ -996,18 +996,18 @@
 `Even as he looked around, nervous at this sensation that he had never felt before, that power strengthened,`
 ` ......and eventually, a bright light completely swallowed him up...`
 `‘Uryu......?`
-` Uryu‐uryu‐uryu‐uryu......!’`
+` Uryu-uryu-uryu-uryu......!’`
 `And when that light disappeared...`
 `............There, Maria's friend Sakutarou held a new form, and {i:existed}.`
-`"Uu‐uu‐uu!`
+`"Uu-uu-uu!`
 ` You're cute, Sakutaro!`
 ` Reeeeally cute!"`
 `‘Uryu...?`
 ` Uryuu...`
 ` Does it really suit me?`
 ` It isn't embarrassing......?’`
-`"Hoh‐hoh‐hoh‐ho.`
-` It is a very lovely form, Sakutarou‐chan."`
+`"Hoh-hoh-hoh-ho.`
+` It is a very lovely form, Sakutarou-chan."`
 `"I felt that the scarf was his charm point, you see.`
 ` And the ears!`
 ` Animal ears are nice indeed, truly cute!`
@@ -1060,7 +1060,7 @@
 ` That is the Magic of Origins."`
 `"......I...didn't want to acknowledge my current world.`
 ` ......I couldn't abide accepting such an isolated and painful world.`
-` ...That's why, even though I was entranced by your world, Maria onee‐chan,`
+` ...That's why, even though I was entranced by your world, Maria onee-chan,`
 ` ......I couldn't cross the final line."`
 `"............I'll teach you.`
 ` About my Magic of Origins.`

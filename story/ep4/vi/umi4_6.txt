@@ -9,8 +9,8 @@
 `"Correct.`
 ` Those books were explained to have escaped the disaster on Rokkenjima.`
 ` I was told that the owner of the island, {nobr:Mrs. Ushiromiya} Eva, had put them up for auction."`
-`They appeared to be at a high‐class restaurant.`
-` Ange and a middle‐aged man were sitting across from one another in a pair of secluded and quiet seats.`
+`They appeared to be at a high-class restaurant.`
+` Ange and a middle-aged man were sitting across from one another in a pair of secluded and quiet seats.`
 `Amakusa could be seen by the restaurant's entrance.`
 `{n}He was probably keeping a lookout for pursuers from the Sumadera family.`
 `The scholarly seeming man across from Ange spoke politely, but with enthusiasm.`
@@ -36,14 +36,14 @@
 ` the shock waves that discovery sent throughout the world were comparable to the discovery of the Dead Sea Scrolls."`
 `"The reason for this is that the "Ushiromiya Library" even included some extremely important documents...`
 `which had been known to exist for more than a thousand years, but had never before been found."`
-`The so‐called "romantic" side of the occult, epitomized for example by alchemy, never ceases to stir an intense fascination in dilettantes.`
+`The so-called "romantic" side of the occult, epitomized for example by alchemy, never ceases to stir an intense fascination in dilettantes.`
 `Even now, it is whispered that in various places around the world, a great number of "magic books" of historical value...`
 `might be in the secret possession of very wealthy lovers of the occult, unannounced to the public.`
 `The prime candidates for this are said to be items such as Leonardo da Vinci's notebooks, which are particularly popular among dilettantes.`
 `It is said that approximately five thousand pages of the notebooks currently exist, and over ten thousand have been lost,`
 ` but some researchers believe that a large part of this lost portion may be being monopolized by certain dilettantes and millionaires.`
 `It is said that because of this, even now,`
-` dilettantes who can't help but seek these spare no expense to search around for quietly hoarded‐away and unannounced notebooks...`
+` dilettantes who can't help but seek these spare no expense to search around for quietly hoarded-away and unannounced notebooks...`
 `There is probably no doubting that Ushiromiya Kinzo was himself one of those dilettantes.`
 `It is unknown what Kinzo went through to obtain these,`
 ` but undoubtedly he must have spent his vast wealth like water, to buy them off other rich people with the same hobby as him.`
@@ -70,7 +70,7 @@
 `"Yes.`
 ` A form of communication to an unspecified target by throwing an empty bottle with a letter sealed inside into the sea."`
 `"It is famous as a way of sending an SOS from a deserted island, but because of the influence of famous foreign detective novels,`
-` it has also become known as a method of confessing the truth after one's own death, like a time‐delayed will.`
+` it has also become known as a method of confessing the truth after one's own death, like a time-delayed will.`
 ` The Rokkenjima message bottle was certainly the latter."`
 `"......This is the thing everyone says a fisherman on a nearby island picked up?"`
 `"Correct.`
@@ -97,10 +97,10 @@
 `"......No.`
 ` I know about it, more or less."`
 `Several sheets of notebook paper had been stuffed into each of the two wine bottles.`
-`They were extensive accounts, written in a diary‐like fashion by some unknown person calling themselves Ushiromiya Maria, of the events of the day of the accident and the day before.`
+`They were extensive accounts, written in a diary-like fashion by some unknown person calling themselves Ushiromiya Maria, of the events of the day of the accident and the day before.`
 `And it was these that prompted the beginning of the "Witch Legend Serial Murder Case",`
 ` and "the mystery of the Golden Witch {f:5:Beatrice}".`
-`"These bizarre diary‐style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,`
+`"These bizarre diary-style accounts describe the Ushiromiya family members, pinned to the island by the typhoon,`
 ` becoming caught up in a ritual for the resurrection of a witch, and being killed one after another in inexplicable ways."`
 `"And at the end, the Golden Witch {f:5:Beatrice} revives, and swallows everything up into the Golden Land.`
 ` ......They were written almost as though {i:this} was the complete picture of the events of that day."`
@@ -120,8 +120,8 @@
 `"......If I remember correctly, I heard that the fisherman's pages and the police's pages had completely different contents."`
 `"Correct.`
 ` Due to that, the appeal of the Rokkenjima mystery increased even further.`
-` Inside each of the two bottles was a diary‐style account describing the events of the day of the accident and the day before.`
-` However, while they both cover the same two‐day period, the contents are completely different."`
+` Inside each of the two bottles was a diary-style account describing the events of the day of the accident and the day before.`
+` However, while they both cover the same two-day period, the contents are completely different."`
 `"As though one is true and one is untrue.`
 ` Or perhaps both are untrue.`
 ` ...However, the beginning and the end alone {i:do} match in both."`
@@ -132,7 +132,7 @@
 `Both diaries outline a serial murder following the epitaph of the witch, but the order of the sacrifices, the manners of their deaths, and even the "tale" of the two days are different.`
 `However, both depict the same ultimate conclusion: everyone dies and the witch revives.`
 `"Since the only survivor, {nobr:Mrs. Ushiromiya} Eva, remained silent about what happened on that island,`
-` the events of that entire two‐day period are shrouded in darkness."`
+` the events of that entire two-day period are shrouded in darkness."`
 `"These two diaries presented not just one, but {i:two} theories to wipe away that darkness.`
 ` You could explain those two days with either diary.`
 ` However, we don't know which is correct, or even if there is anything correct contained within them."`
@@ -147,8 +147,8 @@
 ` Considering this question is the real thrill of the Witch Hunt."`
 `"Witch Hunt...?"`
 `"Yes, the Rokkenjima Witch Hunt—it's the name of a group of enthusiasts endeavoring to explain the truth of that crime from an occult perspective."`
-`"From the Ushiromiya Library to the mysterious two‐day period, the legend of the Golden Witch and more, discussion of the mysteries that surround Rokkenjima is flourishing even today among enthusiasts."`
-`"For the ten‐year anniversary, an international convention was held in New York.`
+`"From the Ushiromiya Library to the mysterious two-day period, the legend of the Golden Witch and more, discussion of the mysteries that surround Rokkenjima is flourishing even today among enthusiasts."`
+`"For the ten-year anniversary, an international convention was held in New York.`
 ` I was there participating as well, representing Japan!`
 ` I was able to have a variety of interactions with zealous overseas Witch Hunters."`
 `"Witches are a very popular category overseas.`
@@ -158,7 +158,7 @@
 `After that, he just kept continuing on excitedly all by himself, even though I'd never asked.`
 `As I swirled the thin film on my potage with my spoon, I shrugged my shoulders and sighed.`
 `......Maybe it really had been a waste of time to research about the message bottle.`
-`No, if there was one thing I'd gotten out of this, it was the knowledge that those pages, supposedly written by Maria onee‐chan,`
+`No, if there was one thing I'd gotten out of this, it was the knowledge that those pages, supposedly written by Maria onee-chan,`
 ` had actually been written by a different person faking her name.`
 `And that person had taken it upon themselves to write an occult story, put it into a bottle as though it was the truth, and throw it into the sea.`
 `...This raised questions for me.`
@@ -220,7 +220,7 @@
 ` Do you still dream of being able to use magic at will?"`
 `"But of course.`
 ` Even though, at this age, I understand rationally that there is no such thing,`
-` I find myself unable to forget my child‐like dreams of flying in the sky and turning scrap iron into gold.`
+` I find myself unable to forget my child-like dreams of flying in the sky and turning scrap iron into gold.`
 ` ......Hahaha, if you would, please keep this a secret from my students."`
 `".........If I told you that actually, I {i:am} a witch,`
 ` would you believe it?"`
@@ -241,13 +241,13 @@
 `Ignoring him, Ange silently flipped through the pages, opened to one of them, and showed him.`
 `On that page was a handwritten paragraph beginning with "To my dear witch apprentice".`
 `......And at the end, there was a signature in {ruby:katakana:capitals} that said "{f:5:Beatrice}".`
-`"Wh‐what is............"`
+`"Wh-what is............"`
 `The instant he glanced at it,`
 ` his face went pale.`
 ` ......She knew the answer before asking, but Ange asked it aloud anyway.`
 `"Does the handwriting in the paragraph on this page match the handwriting in the message bottles...?"`
-`"W‐well, uhh...... I wou—I would have to take this home and investigate it in detail to, to...`
-` ...P‐pardon me for asking, but what in the world is this book?!`
+`"W-well, uhh...... I wou—I would have to take this home and investigate it in detail to, to...`
+` ...P-pardon me for asking, but what in the world is this book?!`
 ` Where did you...?!"`
 `The man stretched out his hand, but Ange nimbly pulled it out of his reach.`
 `{n}...As though telling him not to touch it with his filthy hands.`
@@ -256,7 +256,7 @@
 ` Thank you very much for today.`
 ` ......Here is the reward I promised."`
 `As she stood up, clutching Maria's diary,`
-` Ange casually tossed a wad of ten‐thousand‐yen notes wrapped with a band of paper onto the table.`
+` Ange casually tossed a wad of ten-thousand-yen notes wrapped with a band of paper onto the table.`
 `As she turned her back to him and made to leave, the man raised his voice as though clinging to her.`
 `But Ange never stopped walking.`
 `"I, I beg you...!!`
@@ -269,8 +269,8 @@
 ` It's too good for you.`
 ` Well then.`
 ` <Goodbye, gentlemen>. <Have a nice day>."`
-`"P‐please, wait...!!`
-` {i:Sumadera‐san}...!!!"`
+`"P-please, wait...!!`
+` {i:Sumadera-san}...!!!"`
 `His voice didn't reach her.`
 ` She had already joined up with Amakusa and gone into the car......`
 `"Did you find anything?"`
@@ -293,17 +293,17 @@
 `"According to the family, a young man and woman calling themselves Sumadera visited this morning,`
 ` took the professor out with them, and still have not returned.`
 ` ......There is a chance we were outmaneuvered."`
-`"..................What a bad child that Ange‐chan is.`
-` ......I wonder if that craftiness is from Nee‐san's blood.`
+`"..................What a bad child that Ange-chan is.`
+` ......I wonder if that craftiness is from Nee-san's blood.`
 ` ......To think that she would casually take on the name Sumadera after saying so often how she'd hate to call herself that..."`
-`"............Hoh‐hoh‐hoh‐hoh‐ho.`
+`"............Hoh-hoh-hoh-hoh-ho.`
 ` ...The professor should be returning soon.`
 ` When he does, we must serve him some tea..."`
-`"...Ye‐...yes.`
+`"...Ye-...yes.`
 ` Understood."`
 `"..................I wonder if she thinks she's leading me around by the nose.`
 ` She is such a naughty child.`
-` ............*giggle*giggle*, ......hoh‐hoh‐hoh‐ho{0}ho{0}ho{0}ho{0}hohoho!!"`
+` ............*giggle*giggle*, ......hoh-hoh-hoh-ho{0}ho{0}ho{0}ho{0}hohoho!!"`
 `With a demonic look on her face, Kasumi violently stamped her heel.`
 `I'll teach you.`
 `{n}About my Magic of Origins.`
@@ -312,9 +312,9 @@
 `{n}Did you forget......?`
 `You were also a witch apprentice, Ange, with your name entered into Mariage Sorcière, weren't you......?`
 `".........I also...joined in as one of the witches, didn't I..."`
-`I closed Maria onee‐chan's diary and flopped down on a very high‐class‐looking bed.`
+`I closed Maria onee-chan's diary and flopped down on a very high-class-looking bed.`
 `Since I had fallen into a pretty deep sleep in the car, it was taking longer than usual for drowsiness to set in, and I had been spending a long time reading the diary as I waited for that.`
-`This was a super‐expensive hotel in the city.`
+`This was a super-expensive hotel in the city.`
 ` ...Expensive hotels that are often used by the rich and famous have an abnormally strong duty of confidentiality, out of concern for their various circumstances.`
 `This made it a very convenient place for Ange, on the run from her pursuers.`
 `The idea that runaways spend their nights hiding in cheap hotels is a commoner's way of thinking.`
@@ -327,8 +327,8 @@
 ` ......I saw that it was almost 2 a.m.`
 `Still not getting sleepy.`
 ` ............I sighed deeply.`
-`Even though there was no wind, I suddenly got the feeling that Maria onee‐chan's diary had fluttered open.`
-`......Then, Onee‐chan appeared.`
+`Even though there was no wind, I suddenly got the feeling that Maria onee-chan's diary had fluttered open.`
+`......Then, Onee-chan appeared.`
 `{n}Her form was no longer the normal one that I knew.`
 `...She was wearing the dress that {f:5:Beatrice} had given her after acknowledging her status as a witch.`
 `".........If you don't get some sleep, it'll be tough tomorrow, you know?"`
@@ -351,25 +351,25 @@
 ` I'm happy that you remembered about magic one more time."`
 `..............................`
 `......It's been quite a long time since I last used magic.`
-`At one point, with Maria onee‐chan's introduction, ......I touched a corner of it, and opened the door a tiny bit.`
+`At one point, with Maria onee-chan's introduction, ......I touched a corner of it, and opened the door a tiny bit.`
 `So, ......I should still remember that sensation.`
 `"......Right now, your magical power has declined significantly, Ange.`
 ` ...If you don't stick to the basics, it'll be hard, okay?"`
 `"Sure.`
 ` ...............Checking all directions.`
 ` Quiet space secured."`
-`"What about Amakusa‐san?"`
+`"What about Amakusa-san?"`
 `".....................`
 ` ............He's sleeping."`
 `After opening the door to the living room a crack, I could see the blanket caterpillar on the sofa roll over in its sleep.`
-`"......With your magical power as weak as it is now, the anti‐magic power is affecting you too much.`
+`"......With your magical power as weak as it is now, the anti-magic power is affecting you too much.`
 ` ......Not just the sight of people,`
 ` but voices, sounds, and even the presence of people will get in the way of your magic."`
 `"......Sever those completely.`
 ` Like how ancient magicians shut themselves up in ateliers to preserve their isolation."`
 `"I remember.`
 ` ......The very existence of {y:0:Human}{n:0:human}s blocks magic.`
-` ...Therefore, the very act of showing magic to humans is the sign of a high‐level witch..."`
+` ...Therefore, the very act of showing magic to humans is the sign of a high-level witch..."`
 `Obtain a quiet space for yourself alone.`
 `{n}......That should cover it for the preparation of a space to use magic.`
 `".........Next is the vessel.`
@@ -405,25 +405,25 @@
 ` It should be possible for you to become her new master, Ange."`
 `Among the things that looked like good vessels, I took the one I thought might possess the strongest magical power,`
 ` and set it on the side table near the bed with a clunk.`
-`It was......a shady‐looking stake‐shaped weapon embellished with an occult design.`
+`It was......a shady-looking stake-shaped weapon embellished with an occult design.`
 `A stake of the "Seven Stakes of Purgatory", used by witches to offer sacrifices.`
 `In the course of their search for evidence, the police had collected a large amount of junk.`
 `{n}After the investigation had finished, this had been faithfully returned to the Ushiromiya family.`
 `......I found something there that I had seen in the illustrations in Maria's diary, and took it home with me.`
-`".........Originally, the Seven Stakes of Purgatory were a seven‐piece set.`
+`".........Originally, the Seven Stakes of Purgatory were a seven-piece set.`
 ` ......Poor girl.`
 ` She's the only one left now."`
-`Onee‐chan smiled, looking lonely...`
+`Onee-chan smiled, looking lonely...`
 `I pulled another book out of the knapsack.`
-`......This was another old‐fashioned, blatantly occult‐related book.`
+`......This was another old-fashioned, blatantly occult-related book.`
 `But this, too, was a book to be written in.`
-`{n}It was one of Maria onee‐chan's elaborate notebooks.`
+`{n}It was one of Maria onee-chan's elaborate notebooks.`
 `This one was not a diary.`
 `{n}......It was a grimoire, which she had written as a witch.`
 `The Seven Stakes of Purgatory were {f:5:Beatrice}'s furniture.`
 `{n}Created by her and employed only for her sake.`
 `But since {f:5:Beatrice} was a witch of Mariage Sorcière, they could also be employed by {f:5:Maria}, who was a witch of the same alliance.`
-`For that reason, the method of summoning the Seven Stakes of Purgatory and how to handle them was written about in great detail in Maria onee‐chan's grimoire...`
+`For that reason, the method of summoning the Seven Stakes of Purgatory and how to handle them was written about in great detail in Maria onee-chan's grimoire...`
 `And...`
 `as another person with her name in the same alliance, I was also permitted to employ them.`
 `".........This stake is...`
@@ -476,13 +476,13 @@
 `But that is only when it comes to demons.`
 `{n}To {y:0:Human}{n:0:human}s, even furniture is something to be feared.`
 `I fished through the knapsack again,`
-` took out a bracelet charm with a scorpion medal that I had gotten from Maria onee‐chan long ago, and put it on my arm.`
+` took out a bracelet charm with a scorpion medal that I had gotten from Maria onee-chan long ago, and put it on my arm.`
 `......I had no need for something like this in the past.`
 `{n}But I need insurance...`
 `".........It's alright.`
 ` That is still endowed with a sufficient amount of magic defense.`
 ` As long as you have it on, I'm certain you'll be fine."`
-`Maria onee‐chan's magical power, in particular the power she could put into charms, was enough to earn even {f:5:Beatrice}'s admiration.`
+`Maria onee-chan's magical power, in particular the power she could put into charms, was enough to earn even {f:5:Beatrice}'s admiration.`
 `......While it would only have looked like something cheap to a human who couldn't understand magic,`
 ` its magical worth was incalculable.`
 `"..............................`
@@ -492,7 +492,7 @@
 ` Mammon the Covetous."`
 `.....................`
 `I concentrated my mind.`
-`{n}I made the anti‐magic toxin that filled my body zero.`
+`{n}I made the anti-magic toxin that filled my body zero.`
 `Imagine a vast, untainted space.`
 `{n}......Doubts and common sense all resist magic.`
 `Make the resistance zero, and erase the burden towards magical power......`
@@ -505,7 +505,7 @@
 `Just then,`
 ` ......in that room where no wind could blow,`
 ` ......the free nighttime wind whirled around.`
-`That long‐forgotten sensation raced through my entire body.`
+`That long-forgotten sensation raced through my entire body.`
 `{n}............The unique feeling of exultation felt when using magic.`
 `From Mammon's stake, held out in my hand, I gradually began to feel a pale light.`
 `The cyclone gyred around the stake.`
@@ -525,7 +525,7 @@
 `......But I mustn't lose my mental concentration.`
 `Then, the stake, which had been flying around at an incredible speed, finally restrained itself and faced me.`
 `......It was in the air, just a few centimeters away from my forehead...held back by the defensive barrier created by the scorpion charm.`
-`It was trying to break the defensive barrier, eating into it with incredible power, but Maria onee‐chan's barrier wouldn't be broken so easily.`
+`It was trying to break the defensive barrier, eating into it with incredible power, but Maria onee-chan's barrier wouldn't be broken so easily.`
 `"...............No good...`
 ` I can't bite through it......"`
 `The stake muttered hatefully.`
@@ -534,15 +534,15 @@
 `When Mammon's stake realized that it was unable to gouge me, it gave up gracefully, and changed its form from that of a stake into that of a person.`
 `In her usual shameless outfit which I would never be seen walking outside in.`
 `{n}Although you could say it suited her, in a demonic sort of way.`
-`".................Ange‐sama, is that you?`
+`".................Ange-sama, is that you?`
 ` ............That's some pretty shabby magical power.`
-` ...Are you really Ange‐sama?"`
+` ...Are you really Ange-sama?"`
 `"It's been a long time, Mammon.`
 ` ......Have you been well?"`
 `"...........................`
 ` ...And here I was convinced that furniture which has already fulfilled its function would just be left to rust away in a closet.`
 ` ......So, what kind of sideshow is this?`
-` You aren't going to say that you're my owner, are you, Ange‐sama...?"`
+` You aren't going to say that you're my owner, are you, Ange-sama...?"`
 `".........Yep.`
 ` Ange is your master."`
 `"Lady {f:5:Maria}...`
@@ -552,8 +552,8 @@
 ` I thought that as Ange is now, she might just fall to you.`
 ` I lent her a talisman."`
 `".....................`
-` ......If I am told by Lady {f:5:Maria} that Ange‐sama is my master, I can hardly refuse.`
-` .........Ange‐sama, I am yours to command.`
+` ......If I am told by Lady {f:5:Maria} that Ange-sama is my master, I can hardly refuse.`
+` .........Ange-sama, I am yours to command.`
 ` Given that my assistance is required...is it a new ritual?`
 ` New sacrifices...?"`
 `"Of course, that's only if you're willing to handle me yourself and get your own hands dirty."`
@@ -565,7 +565,7 @@
 ` ...Yes, if that is what you desire.`
 ` Furniture is furniture because it is used.`
 ` It is an honor just to be summoned.`
-` Ange‐sama."`
+` Ange-sama."`
 `Mammon had a slightly complicated smile on her face.`
 `......She had accepted Ange as her new master because Maria had told her to,`
 ` but it looked like she hadn't gotten over her discontent at working for Ange with her frail magical power.`
@@ -586,7 +586,7 @@
 ` The stakes for the other six have been lost."`
 `"My apologies, Lady {f:5:Maria},`
 ` but I believe it may not be impossible to summon the Seven Sisters via my own stake.`
-` ......If Ange‐sama is to employ me, I would hope that she has at least that much power......?"`
+` ......If Ange-sama is to employ me, I would hope that she has at least that much power......?"`
 `Mammon giggled.`
 `......Apparently, she wanted me to summon the other sisters without a vessel.`
 `I see.`
@@ -608,7 +608,7 @@
 ` In for a penny, in for a pound.`
 ` I'll call as many as I can for you."`
 `"Really......?!`
-` Niiice, Ange‐sama!`
+` Niiice, Ange-sama!`
 ` Alright, go go go!"`
 `Even though she had said it, it seemed that Mammon hadn't really expected to be able to ask this of Ange.`
 `She hopped around, badgering Ange to summon the other sisters.`
@@ -618,7 +618,7 @@
 `"Mammon, don't make Ange overdo it.`
 ` She still isn't back to form yet..."`
 `"Whaaaa?!`
-` Ange‐sama said that she'd summon everyone!"`
+` Ange-sama said that she'd summon everyone!"`
 `Actually, I only said that I'd call as many as I could.`
 `{n}......Guess this is greed.`
 `"Don't overdo it, Ange.`
@@ -635,16 +635,16 @@
 ` ......the times I talked with them.........`
 `Once again, ......the power of magic began to fill me up.`
 ` It radiated as a faint, and yet distinct pale blue light from both of my hands......`
-`"Ange‐sama...!`
+`"Ange-sama...!`
 ` Keep it up, keep it up, do your best...!`
 ` Hey, Lady {f:5:Maria}.`
-` Ange‐sama will definitely summon everyone, right?`
+` Ange-sama will definitely summon everyone, right?`
 ` The Seven Sisters will get to be reunited again, right?`
 ` Right?!"`
 `"Yeah, I'm sure of it.`
 ` ......But there's no guarantee that it will happen tonight."`
-`"No, Ange‐sama can do it, I just know it...!`
-` Please, Ange‐sama...!`
+`"No, Ange-sama can do it, I just know it...!`
+` Please, Ange-sama...!`
 ` Start from the youngest sister, Asmo...!"`
 `".........Asmodeus.`
 ` The seventh sister.`
@@ -663,13 +663,13 @@
 ` Am I alive......?"`
 `"Asmo...!!`
 ` I'm so glad!!"`
-`"Mammon nee‐san!`
+`"Mammon nee-san!`
 ` ......Where in the world is this?`
 ` Who summoned me?"`
-`"Ange‐sama did...!`
-` Ange‐sama said she'd revive all of us...!"`
+`"Ange-sama did...!`
+` Ange-sama said she'd revive all of us...!"`
 `...No I didn't.`
-`"Ange‐sama, thank you!`
+`"Ange-sama, thank you!`
 ` Next is Belzie...!!`
 ` Do Belzie please...!"`
 `"......Beelzebub.`
@@ -682,7 +682,7 @@
 `The pale light made an outline, .........and formed into Beelzebub.`
 `"Beelzebub the Gluttonous, right here......"`
 `"Belzieee!!"`
-`"Ange‐sama, awesome, awesome!!"`
+`"Ange-sama, awesome, awesome!!"`
 `Mammon and Asmodeus jumped on Beelzebub, celebrating their reunion.`
 `......Summoning three people at once.`
 ` ...My head was throbbing.`
@@ -691,13 +691,13 @@
 ` One of the Seven Stakes of Purgatory, Belphegor the Slothful..."`
 `"Belphegor the Slothful, right here.`
 ` .........My, ...to think that I would still be needed..."`
-`"Belphe‐neeeeee!`
+`"Belphe-neeeeee!`
 ` I'm huuungryyy!`
 ` I mean—I'm so glad to see you again!!"`
 `"To think that the Seven Sisters would be able to meet again...`
-` Ange‐sama, we are truly thankful!"`
-`"Keep it up and do Satan‐nee next!`
-` And Levia‐nee and Luci‐nee...!!"`
+` Ange-sama, we are truly thankful!"`
+`"Keep it up and do Satan-nee next!`
+` And Levia-nee and Luci-nee...!!"`
 `".........Yes,`
 ` ...I know.`
 ` ......So please, try not to be so loud.`
@@ -706,14 +706,14 @@
 `"Ange, don't push yourself any more than this.`
 ` You did a great job summoning four of them after such a long time."`
 `"...Stop it, Mammon.`
-` Our summoning is placing a heavy strain on Ange‐sama right now.`
-` Ange‐sama, I beg you not to push yourself too hard..."`
+` Our summoning is placing a heavy strain on Ange-sama right now.`
+` Ange-sama, I beg you not to push yourself too hard..."`
 `"No way!`
-` Ange‐sama promised!`
+` Ange-sama promised!`
 ` She said she'd play with all of us again!"`
 `...No I d—...`
 `"Didn't you!`
-` Ange‐sama!`
+` Ange-sama!`
 ` You said we'd all meet again!`
 ` You promised we'd be able to see each other again soon!"`
 `"........................"`
@@ -732,16 +732,16 @@
 `...was, without a doubt, fun.`
 `"Satan the Wrathful, right here.`
 ` ............What the hell are you people doing!!`
-` Do you realize how much it's burdening Ange‐sama just for us to have an idle chat?!"`
+` Do you realize how much it's burdening Ange-sama just for us to have an idle chat?!"`
 `Satan, who had apparently figured out the situation immediately after being summoned, yelled out in a loud voice, telling her sisters off.`
 `......That loud voice made my consciousness fade again.`
 `"We are furniture that has been permitted rest by {f:5:Beatrice}, furniture that has finished its duty!`
 ` Not content to be graced with the opportunity to once again be of some use, you are putting a burden on your new master—this is a DISGRACE to furniture!!`
 ` Erase yourselves RIGHT NOW!!"`
-`"Yes, it's like Satan‐nee says.`
+`"Yes, it's like Satan-nee says.`
 ` I'll erase myself.`
 ` And you all vanish too.`
-` In this moment, that is the best way for us to be of use to Ange‐sama."`
+` In this moment, that is the best way for us to be of use to Ange-sama."`
 `"No way.`
 ` Not until everyone gets summoned!"`
 `"No way for me too!`
@@ -751,7 +751,7 @@
 ` Come on, hurry up and vanish!!`
 ` Come on, Asmo!`
 ` Disappear right now!!"`
-`"Waaaah, Satan‐nee's bullying me...!`
+`"Waaaah, Satan-nee's bullying me...!`
 ` It's always me first because I'm the youngest, it's not faaair!"`
 `".........Ahh, they really are lively.`
 ` ......They never make you.........bored......"`
@@ -770,7 +770,7 @@
 `......For a way to kill time until drowsiness comes to get me,`
 ` ......this will do............`
 `Feeling something warm and nostalgic in the sisters' liveliness, I sank into a world of deep sleep.........`
-`At the entrance to my dream world, I felt Maria onee‐chan,`
+`At the entrance to my dream world, I felt Maria onee-chan,`
 ` ......and Sakutarou, waiting to receive me.`
 `"...............`
 ` You worked hard.`

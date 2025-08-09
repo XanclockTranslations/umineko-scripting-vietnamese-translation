@@ -7,21 +7,21 @@
 `With a bottle in one hand, half of which I'd already drunk, I helped myself to some sliced ham.`
 `I wonder just how expensive this stuff is.`
 `Man, you ingredients are out of luck.`
-` If only you'd had Gohda‐san cook you, you could've been reborn as much more incredible food.`
+` If only you'd had Gohda-san cook you, you could've been reborn as much more incredible food.`
 `I looked at the clock.`
 ` Very soon, it would be midnight.`
 `{n}October 5th, the second day, would end.`
 `.........The insanity of yesterday's October 4th didn't seem real.`
-`{n}...That was how......little had happened after my so‐called test.`
+`{n}...That was how......little had happened after my so-called test.`
 `Nothing was happening.`
 `No phone calls, no letters.`
 `{n}No one coming to see me, no one coming to attack me.`
 `Not a goddamn thing.`
 `Gimme back all the time and energy I wasted being on edge.`
-` .........An entire day, a full twenty‐four hours.`
+` .........An entire day, a full twenty-four hours.`
 `......And aaaabsolutely nothing happened.`
 `{n}And I'm sure that nothing will continue to happen as well.`
-`.........A full twenty‐four hours ago...`
+`.........A full twenty-four hours ago...`
 `{n}...I was called to the front of the mansion by {f:5:Beatrice}.`
 `There, I was given some kind of weird test to do with determining the successor to the head or something.`
 `I gave a serious answer in my own way, but unfortunately, we just didn't seem to be {i:getting} each other.`
@@ -33,7 +33,7 @@
 `What, is she trying to say "Good work, your results will be mailed to you later" or something?`
 `{n}......Annoying bitch.`
 `In any case, I then headed to the chapel.`
-`......Both George‐aniki and Jessica had been killed after failing their tests.`
+`......Both George-aniki and Jessica had been killed after failing their tests.`
 `{n}I couldn't let Maria be killed too.`
 `......Besides, I thought this could be a chance to catch whoever it was while they were in the process of trying to kill Maria.`
 `When I was young, Jessica often told me that I'd get in trouble if I went near the chapel,`
@@ -52,7 +52,7 @@
 `But I'd grown completely used to it and stopped minding it by this point.`
 `It didn't feel like anything more than any old house where someone had burnt some meat.`
 `The stench knocked me back on first entering, but I ignored it and decided to head to the dining hall...`
-`......where I found all those corpses that were in such a sorry state that Gohda‐san and Kumasawa‐san had hesitated to speak of them in any detail.`
+`......where I found all those corpses that were in such a sorry state that Gohda-san and Kumasawa-san had hesitated to speak of them in any detail.`
 `They were the remains of the very first victims: Aunt Natsuhi and the rest.`
 `Each of them had half of their head dramatically splattered out,`
 ` and it was such a gruesome sight that even without knowing a thing about examining corpses, I could pronounce them one hundred percent dead...`
@@ -64,7 +64,7 @@
 `...............I cried.`
 `At the death of an innocent young girl.`
 ` And at the cruel way my dad and the others had died.`
-`I ran about the mansion swinging my hat‐stand spear, yelling "Come out here, you bastard".`
+`I ran about the mansion swinging my hat-stand spear, yelling "Come out here, you bastard".`
 `......But there was absolutely no sign of anyone else.`
 `......Thinking that they might be hiding somewhere and scheming to attack me from behind, I went around searching for possible hiding places,`
 ` sometimes being cautious,`
@@ -92,7 +92,7 @@
 `But there were signs that bubbles had been foaming from her mouth,`
 ` and it looked like a typical death by poisoning that you might see on a TV drama.`
 `Wasn't Maria called out to the chapel and given her test there...?`
-`......Then why is she here in the corpse‐filled dining hall, lying next to her mother, dead......?`
+`......Then why is she here in the corpse-filled dining hall, lying next to her mother, dead......?`
 `Assuming that the cause of death was poison, ......who gave it to her?`
 `Her clothes aren't disturbed at all.`
 ` It's hard to imagine that she was forcibly pushed down and given an injection of poison.`
@@ -101,7 +101,7 @@
 `With a gun, all you need to do is pull the trigger.`
 ` But poison, whether injected or made to be swallowed, would take a lot more effort.`
 `Bearing in mind the culprit's brutal nature, too, I felt that Maria's death alone had clearly been given special treatment.`
-`Why was Maria alone given a sleep‐like death?`
+`Why was Maria alone given a sleep-like death?`
 `.........She {i:was} killed, so in that sense, I still felt very sorry for her—there can be no doubt about that—`
 `but for some reason, the manner of Maria's murder in particular seemed very courteous to me......`
 `Maria had her hands joined on her chest, in the way that the dead often do.`
@@ -112,11 +112,11 @@
 `There are probably a lot of mysteries surrounding Maria's death, starting with the cause...`
 `And more than anything else.`
 `The biggest mystery of this dining hall......was the "pitfalls".`
-`{n}......The "pitfalls" that both Uncle Krauss's group and Gohda‐san's had mentioned.`
+`{n}......The "pitfalls" that both Uncle Krauss's group and Gohda-san's had mentioned.`
 `After the six had been killed, five more had fallen through "pitfalls" and been captured.`
 `.........What are pitfalls?`
 `{n}Those things that suddenly open and you fall through them, right......?`
-`The floor was firmly laid with a majestic, if a bit worn‐out, carpet.`
+`The floor was firmly laid with a majestic, if a bit worn-out, carpet.`
 `......It was clearly a single piece.`
 `If pitfalls are meant to open up in it, there would have to be a seam in that one place.`
 `......And anyway, if there was some trick like a pitfall, wouldn't it creak when you walked on it??`
@@ -136,8 +136,8 @@
 `I can't say for sure.`
 `Since they claimed that the pitfalls were there,`
 ` ......I can't ignore the pitfalls even if I can't find them......`
-`The next ones to be killed had been Jessica and George‐aniki.`
-`{n}I'd already discovered George‐aniki, when I was called out for my test.`
+`The next ones to be killed had been Jessica and George-aniki.`
+`{n}I'd already discovered George-aniki, when I was called out for my test.`
 `He was called out to the arbor in the rose garden, ......and shot in the forehead, probably with a gun.`
 `As for Jessica, she was called to her own room on the second floor of the mansion.`
 `I found the door to her room locked.`
@@ -179,31 +179,31 @@
 `Except for how Jessica was able to accurately predict the form of that final blow.`
 `And there was one more thing that bugged me about the phone call from Jessica.`
 `Jessica said this...`
-`"George nii‐san didn't make it either.`
+`"George nii-san didn't make it either.`
 ` Instant death, that was."`
-`......She said it almost as though she had witnessed George‐aniki being killed.`
+`......She said it almost as though she had witnessed George-aniki being killed.`
 `But while you certainly could see the rose garden from the window in Jessica's room,`
-` the arbor that George‐aniki had been called out to was very far away—you could only just make out the roof.`
+` the arbor that George-aniki had been called out to was very far away—you could only just make out the roof.`
 `Add on the fact that it was the night of a typhoon, and it's very hard to imagine that she was able to witness everything that happened by the arbor from this window.`
 `......And most important of all.`
-`Jessica left before George‐aniki.`
-`{n}So she shouldn't have known that George‐aniki's test had taken place by the arbor.`
-`How did Jessica know......that George‐aniki had been killed......?`
-`.........Then, in the course of my search of the entire mansion, I found Kyrie‐san's corpse as well.`
+`Jessica left before George-aniki.`
+`{n}So she shouldn't have known that George-aniki's test had taken place by the arbor.`
+`How did Jessica know......that George-aniki had been killed......?`
+`.........Then, in the course of my search of the entire mansion, I found Kyrie-san's corpse as well.`
 `She was in an old guest room tucked away on the first floor.`
 ` This was where all of us relatives used to stay before the guesthouse was built.`
-`......The situation with Kyrie‐san was just like Jessica's.`
+`......The situation with Kyrie-san was just like Jessica's.`
 `She was probably killed during her phone call with me.`
-` The receiver was hanging untidily, ......and Kyrie‐san was collapsed beside it.`
+` The receiver was hanging untidily, ......and Kyrie-san was collapsed beside it.`
 `But the way she had been killed was very different from Jessica.`
 `Her head wasn't smashed.`
-` ......Instead, something like a stake with an occult‐like design was buried into her forehead.`
+` ......Instead, something like a stake with an occult-like design was buried into her forehead.`
 `......It was too gruesome for me, ......so I pulled it out.`
 `It was only after pulling it that I realized that this might get me into trouble with the police later.`
-`So, even though it was probably a little late now, I laid it by Kyrie‐san's side.`
+`So, even though it was probably a little late now, I laid it by Kyrie-san's side.`
 `Its tip was sharp, and stained with enough blood that it must have penetrated fully to the brain.`
 `I didn't know what kind of metal it was made of, but it was about as heavy as a paperweight.`
-`{n}Certainly, if you were stabbed all‐out with something like this, it might cause a terrible wound.`
+`{n}Certainly, if you were stabbed all-out with something like this, it might cause a terrible wound.`
 `.........I...probably understood what this stake meant.`
 `......Yeah, I know this.`
 `{n}It's the method of killing from the fourth twilight onwards in the witch's epitaph.`
@@ -212,36 +212,36 @@
 ` .........Even with all one's strength, could you really pierce through it this sharply......?`
 `No.`
 ` ......The way I reason it, this stake wasn't the cause of death; it was just used to damage the corpse after death.`
-`She was probably killed by being shot with a gun or something, like George‐aniki,`
+`She was probably killed by being shot with a gun or something, like George-aniki,`
 ` .........and the stake was stuck into the hole left by the gun.`
 `......Thinking about it that way, everything works out.`
-`But......was Kyrie‐san really killed with a gun?`
-`She had said this on the phone as well—Kyrie‐san was under attack even though she was holed up inside a locked room.`
+`But......was Kyrie-san really killed with a gun?`
+`She had said this on the phone as well—Kyrie-san was under attack even though she was holed up inside a locked room.`
 `And this room actually {i:was} locked.`
 `......And...`
-`...she had said something about a golden thread‐like thing flying in through the keyhole and attacking her.`
-`And in fact, there {i:were} four places around Kyrie‐san's corpse with holes that could have been caused by some kind of attack.`
+`...she had said something about a golden thread-like thing flying in through the keyhole and attacking her.`
+`And in fact, there {i:were} four places around Kyrie-san's corpse with holes that could have been caused by some kind of attack.`
 `.........But still...`
 ` ...A golden thread...`
 `......attacked her through the keyhole...?`
-`I looked at the door from Kyrie‐san's perspective.`
+`I looked at the door from Kyrie-san's perspective.`
 `If it had been one of those old locks like you see in old mystery movies,`
 ` where you can peek through to the other side, then you could understand that something might potentially have come through it.`
-`But even though the doors in this mansion were old‐fashioned, the locks were the familiar, average cylinder style that you could find in any normal house.`
+`But even though the doors in this mansion were old-fashioned, the locks were the familiar, average cylinder style that you could find in any normal house.`
 `......In other words, there {i:was} no hole going all the way through, by construction.`
 `So no matter how thin an object it might have been,`
 ` it's impossible to imagine that it could have penetrated through the keyhole from the outside and attacked her.`
 `.........Cylinder lock.`
 ` .........Keyhole.........?`
-`But Kyrie‐san had definitely said that something like a golden thread had flown in through the keyhole,`
+`But Kyrie-san had definitely said that something like a golden thread had flown in through the keyhole,`
 ` ......and spun around and around, aiming for her, attacking her......`
 `"A golden thread attacking through the keyhole".`
 ` .........I couldn't understand what it meant at all.`
 `Wait, actually.`
-` ......Kyrie‐san predicted that I probably wouldn't be able to understand all this.`
-`And not just Kyrie‐san.`
+` ......Kyrie-san predicted that I probably wouldn't be able to understand all this.`
+`And not just Kyrie-san.`
 ` Jessica said it over the phone too.`
-`......No, since the very beginning, from the time we talked with Gohda‐san and Kumasawa‐san, and got the phone call from Uncle Krauss's group,`
+`......No, since the very beginning, from the time we talked with Gohda-san and Kumasawa-san, and got the phone call from Uncle Krauss's group,`
 ` everyone has been saying the same, consistent thing.`
 `.........Grandfather is summoning witches and demons, and killing people with magic.`
 `We witnessed it happening with our very own eyes.`
@@ -260,12 +260,12 @@
 `Then, right next to the back door, I found Uncle Krauss with his head half destroyed.`
 `......Even though he'd escaped the dungeon of Kuwadorian,`
 ` and somehow made it out of the secret underground passage and all the way here, ......he was killed.`
-`Buried into the gruesome cross‐section of his half‐destroyed head...`
-`...was a stake with an occult design, just like the one that was driven into Kyrie‐san's forehead.`
+`Buried into the gruesome cross-section of his half-destroyed head...`
+`...was a stake with an occult design, just like the one that was driven into Kyrie-san's forehead.`
 `And in this situation, it was very hard to imagine that this stake was the murder weapon.`
 `......He was killed with a powerful gun like the six in the dining hall,`
-` and after death, he was stuck with a stake, like Kyrie‐san.`
-`I wonder if the golden threads that Kyrie‐san spoke of attacked Uncle Krauss too.`
+` and after death, he was stuck with a stake, like Kyrie-san.`
+`I wonder if the golden threads that Kyrie-san spoke of attacked Uncle Krauss too.`
 `Does there exist some kind of tool, like an endoscope, which is very thin but can be moved about at will.........?`
 `And that can also attack people......?`
 `{n}No way. I've never even heard of anything like that.`
@@ -275,11 +275,11 @@
 ` my only options are either to accept this completely incomprehensible weapon, or else,`
 ` ......to accept that these murders were committed with magic.`
 `To find the next corpse, I had to go out through the back door and search around outside a bit.`
-`Behind the mansion, in the wild‐grown bushes that were almost swallowed up by the forest, there was something like an old well,`
-` ......and right next to it were the corpses of Doctor Nanjo and Shannon‐chan.`
+`Behind the mansion, in the wild-grown bushes that were almost swallowed up by the forest, there was something like an old well,`
+` ......and right next to it were the corpses of Doctor Nanjo and Shannon-chan.`
 `Both corpses had their heads smashed.`
 `......And there was a stake lying right next to each of their destroyed heads, though they weren't stuck in.`
-`......All of the corpses were atrocious, but having to look directly at Shannon‐chan's lovely face, half of which was blown off, was very painful......`
+`......All of the corpses were atrocious, but having to look directly at Shannon-chan's lovely face, half of which was blown off, was very painful......`
 `Then, there was the well.`
 `Inside which, I was told, was a secret underground passage to the mysterious mansion, Kuwadorian.`
 `...By this time, I was beginning to think that {f:5:Beatrice} and her accomplices...`
@@ -296,26 +296,26 @@
 `......By this time, I had entirely lost my fear of being killed if I happened to come across the enemy.`
 `Screwing with me like this...!`
 `{n}This time I'll march into your mansion...!`
-`".........Ah...... ...Wh‐what the hell...?!`
-` D‐......damn it...!!"`
+`".........Ah...... ...Wh-what the hell...?!`
+` D-......damn it...!!"`
 `The old well had a firm cover on it.`
 `The cover was an iron grill.`
 `The gaps between the bars were perhaps twenty centimeters square.`
 ` You could peer inside, but it really wasn't something a human could pass through.`
 `If I hadn't known better, I wouldn't have thought it to be anything more than a simple cover to protect against falling in.`
-`......But from what Kyrie‐san had told me, I knew that it had been made to prevent intruders from entering the secret underground passage at the bottom...!`
+`......But from what Kyrie-san had told me, I knew that it had been made to prevent intruders from entering the secret underground passage at the bottom...!`
 `But the cover was fixed in place extremely firmly, and no matter how much I pushed or pulled, I couldn't even get close to removing it.`
 `I couldn't find any obvious lock.`
 ` Maybe it was sealed by some mechanism.`
 `But no matter how much I investigated it, I couldn't find anything to release it.`
-`.........The underground passage in this well is the biggest piece of information I have, that Kyrie‐san gambled her last moments trying to tell me about...!`
+`.........The underground passage in this well is the biggest piece of information I have, that Kyrie-san gambled her last moments trying to tell me about...!`
 `"Don't think you can stop me with something like this cover...!`
 ` I'll smash it to bits...!`
 ` I'll search for a tool...!"`
 `I had an idea of where to get one.`
-` ......Because I'd seen the various tools in the gardening shed when we locked Gohda‐san and Kumasawa‐san in there.`
+` ......Because I'd seen the various tools in the gardening shed when we locked Gohda-san and Kumasawa-san in there.`
 `But the shutter to the gardening shed was locked.`
-`{n}On top of that, the key was with Gohda‐san, who was inside, dead.`
+`{n}On top of that, the key was with Gohda-san, who was inside, dead.`
 `......In other words, this gardening storehouse was a locked room.`
 `{n}There was no way to open it from the outside.`
 `In that case, I would have to break the shutter.`
@@ -344,18 +344,18 @@
 `Now that I had obtained a tool, I thought about immediately taking on the cover to the well,`
 ` but I decided to break the shutter to the gardening shed first.`
 `......I had plenty of time to kill anyway.`
-` I thought I should check on the condition of Gohda‐san and Kumasawa‐san's corpses.`
+` I thought I should check on the condition of Gohda-san and Kumasawa-san's corpses.`
 `I hit the shutter with the hatchet, breaking into it,`
 ` stuck the bolt cutter into the crack,`
 ` and scissored it around, opening up a hole.`
-`Then, I came face to face with Gohda‐san and Kumasawa‐san's corpses once more......`
+`Then, I came face to face with Gohda-san and Kumasawa-san's corpses once more......`
 `As a result, I learned some new facts.`
 `First, they did not die by being hanged.`
 `{n}Their feet were solidly on the floor.`
 `......And both of their foreheads showed signs that they had been shot with a gun.`
 `When I thought about what a normal noose was like, the ropes seemed considerably on the long side.`
 `On top of that, the length was different on each to match the height of each person.`
-`In other words, the lengths had been adjusted so that both Gohda‐san, who was tall, and Kumasawa‐san, who was short,`
+`In other words, the lengths had been adjusted so that both Gohda-san, who was tall, and Kumasawa-san, who was short,`
 ` had their feet solidly but barely on the ground.`
 `Also, while the ropes carried both of their weights as their heads lolled, both of them had some slack below their knees.`
 `This meant that if they stood upright with these nooses around their necks, there would be some extra length.`
@@ -370,7 +370,7 @@
 `To make the deaths of these two known to the rest of us who couldn't get inside,`
 ` they had to hang them like this so we could tell from the outside.`
 `.........Was this......to get back at us for thinking that the two of them would surely be safe if we left the key with them......?`
-`I wonder where the shutter key we gave Gohda‐san, which should have ensured their safety, is now...`
+`I wonder where the shutter key we gave Gohda-san, which should have ensured their safety, is now...`
 `That key.........was in his trouser pocket.`
 `{n}The gardening shed key had been kindly left there, and even the tag was still attached.`
 `In other words, the gardening storehouse was a locked room after all.`
@@ -380,12 +380,12 @@
 `......It might have been possible to shoot them through the window, but I really can't imagine that someone could have tied two ropes to the beam from the outside.`
 `And on top of that, they would have had to lift up the heavy corpses—there's just no way.`
 ` In other words, to do all of this, they would have had to go inside.`
-`But the key was in Gohda‐san's pocket, and the shutter was still locked.`
+`But the key was in Gohda-san's pocket, and the shutter was still locked.`
 `In other words, the gardening storehouse was a locked room.`
-`Gohda‐san had said that there was only one key for this shutter.`
+`Gohda-san had said that there was only one key for this shutter.`
 `......But is it possible that there was a copy,`
 ` ......and that the culprit was in possession of it......?`
-`If we're allowed to theorize that there were actually multiple gardening storehouse keys, and that Gohda‐san just didn't know about them,`
+`If we're allowed to theorize that there were actually multiple gardening storehouse keys, and that Gohda-san just didn't know about them,`
 ` then this isn't even close to a locked room.`
 `.........But why is it that, despite the fact that almost all of the other corpses were shot to death and left almost completely alone,`
 ` these two corpses alone were intentionally hoisted up?`
@@ -394,11 +394,11 @@
 ` ......the deaths of 16 people had now been confirmed.`
 `There were 18 people on this island.`
 ` There's me, and 16 corpses.`
-`Kanon‐kun's corpse was the only one I hadn't been able to confirm yet.`
-`According to Kyrie‐san, he was killed while climbing out of the well, and fell down into it.`
+`Kanon-kun's corpse was the only one I hadn't been able to confirm yet.`
+`According to Kyrie-san, he was killed while climbing out of the well, and fell down into it.`
 `So with the well closed up like this, it was impossible to check.`
 `I tried shining a flashlight through the bars, down into the darkness in the depths of the well.`
-`But it seemed that the jet‐black darkness had no intention of showing me its innermost depths with this inadequate light...`
+`But it seemed that the jet-black darkness had no intention of showing me its innermost depths with this inadequate light...`
 `It looked like I'd have to break the bars after all.`
 `Using the hatchets and things I'd dragged out of the boiler room and the gardening shed, I tried breaking the cover of the well.`
 `But the metal bars were extraordinarily sturdy, and breaking them wasn't easy.`
@@ -407,7 +407,7 @@
 ` If they were at least wood, I might have been able to break them.`
 `{n}But this metal...`
 `Yeah, there's no way you can slice through metal bars like butter with a human's strength.`
-`......I can't even begin to understand......that story about how Kanon‐kun cut through the metal bars.`
+`......I can't even begin to understand......that story about how Kanon-kun cut through the metal bars.`
 `She told me that a light like a red laser beam grew out of his arm,`
 ` and he used it to slice through the metal bars like a knife through butter.`
 `Cutting through metal bars like butter...?`
@@ -417,18 +417,18 @@
 `Still, just what kind of laser.........could cut through metal bars like {i:butter}?`
 `...It sounds exactly like the kinds of laser beams that showed up in those robot anime I loved as a kid.`
 `Does stuff like that actually exist......?`
-`{n}And how did Kanon‐kun get that laser beam......?`
+`{n}And how did Kanon-kun get that laser beam......?`
 `As much as I want to ask him, he's already been killed.`
 `{n}Plus, even his corpse is now at the bottom of the well, beyond this cover.`
-`If Kanon‐kun managed to slice through those metal bars, I'm sure he could handle this metal cover in a single swing.`
-`......It kind of feels like the locked room just now, with Gohda‐san locked inside the gardening storehouse holding the key.`
+`If Kanon-kun managed to slice through those metal bars, I'm sure he could handle this metal cover in a single swing.`
+`......It kind of feels like the locked room just now, with Gohda-san locked inside the gardening storehouse holding the key.`
 `Only one person can open the door, but they're locked inside......`
-`......If only I had that power of Kanon‐kun's, I could do something about this cover myself......`
+`......If only I had that power of Kanon-kun's, I could do something about this cover myself......`
 ` .................................`
-`Just who is Kanon‐kun?`
+`Just who is Kanon-kun?`
 ` He couldn't really be......an inhuman being capable of using a strange power, right?`
-`Even Kyrie‐san told me to believe in witches, and I've also met an insane woman calling herself one.`
-`...Could Kanon‐kun possibly be...`
+`Even Kyrie-san told me to believe in witches, and I've also met an insane woman calling herself one.`
+`...Could Kanon-kun possibly be...`
 `...a human on the witch side...?`
 `{n}......Or else...`
 `......the culprit?`
@@ -442,33 +442,33 @@
 `{p:1:Among the five in Kyrie's group, he was the first to die}.`
 `{p:1:In short, he was the ninth victim}.`
 `"......Since there's no corpse, ......I can't say for sure...`
-`that Kanon‐kun is dead."`
+`that Kanon-kun is dead."`
 `So, my whispering in red does not reach the piece you.......`
 `{n}.........But it did reach {i:you}, right.........?`
 `At a glance, this appeared to be a mass murder committed using something strange that could only be thought of as magic.`
 `......Golden threads that attacked through keyholes.`
 ` No, we even had testimony that something gold had flown around the dining hall during the first six murders.`
 `The two might have been the same weapon.`
-`Then there was the locked‐room murder of the garden shed, and the laser beam that could cut metal bars.`
+`Then there was the locked-room murder of the garden shed, and the laser beam that could cut metal bars.`
 `......And that wasn't all.`
 `There was much, much more...like the group of goat monsters,`
-` the talk of a witch who could create pitfalls just by snapping her fingers, the rabbit‐like demons who had fired golden threads...`
+` the talk of a witch who could create pitfalls just by snapping her fingers, the rabbit-like demons who had fired golden threads...`
 `I think there were more, .........and each and every one of them was ridiculous.`
 `I couldn't possibly accept it, and was forced to suspect that there was some kind of trick or mistake.`
 `......But why in the world had everyone spoken with one voice, saying the same thing without contradictions in their testimony...?`
 `It's not only the magic.`
 `Maria's mysterious death.`
-`Jessica somehow knowing that George‐aniki had been killed.`
-`The mysterious burnt corpse which I couldn't confirm actually belonged to my piece‐of‐shit grandfather.`
+`Jessica somehow knowing that George-aniki had been killed.`
+`The mysterious burnt corpse which I couldn't confirm actually belonged to my piece-of-shit grandfather.`
 `......And more, and more.`
 `All stuff I just don't get......!`
 `I tilted the bottle and glugged it down noisily.`
 `{n}......I didn't have a clue what was going on.`
 `After dinner last night, we kids were shooed out of the mansion and told to go back to the guesthouse,`
 ` .........and then there was a massacre in the dining hall.`
-`Kyrie‐san and the rest were dropped through pitfalls and captured.`
-`Then Jessica and George‐aniki were called out to a test or whatever and killed.`
-`Kyrie‐san's group managed to escape the dungeon somehow, but all of them were killed in the end.`
+`Kyrie-san and the rest were dropped through pitfalls and captured.`
+`Then Jessica and George-aniki were called out to a test or whatever and killed.`
+`Kyrie-san's group managed to escape the dungeon somehow, but all of them were killed in the end.`
 `And at the very, very end, even Maria was killed, leaving me all alone.`
 `.........In short, I had done nothing except be locked up in the guesthouse.`
 `During that time, a huge incident had occurred, and ended, before I knew it.`
@@ -480,7 +480,7 @@
 ` I can't be bothered to look for you anymore."`
 `"You show me your true form yourself......!`
 ` I won't run or hide, so come at me with arrows or bullets or whatever...!"`
-`I haven't had any sleep since yesterday, and I'm tired as all get‐out.`
+`I haven't had any sleep since yesterday, and I'm tired as all get-out.`
 `{n}You wanna kill me, be my guest.`
 `I decided to return to the guesthouse and boldly rest on the bed.`
 `......As I exited the kitchen and passed through the lobby,`
@@ -489,7 +489,7 @@
 `{n}......At that very moment, it was exactly midnight.`
 `And the sound of the bell, proclaiming that it was midnight, rang out......`
 `As I listened, ......I looked up at {f:5:Beatrice}'s portrait.`
-`Exactly twenty‐four hours ago, I met you.`
+`Exactly twenty-four hours ago, I met you.`
 `What were you trying to say to me...?`
 `{n}And where did you go?`
 `Just who in the world are you.........?`
@@ -513,7 +513,7 @@
 `"Don't you...speak Ange's name."`
 `"............That brutal death was something that you needed.`
 ` If you hadn't seen that death, you would not have grown serious.`
-` Without the wake‐up call of Ange's ill‐fated future, the tenacity for victory would not have arisen within you."`
+` Without the wake-up call of Ange's ill-fated future, the tenacity for victory would not have arisen within you."`
 `"I told you not to speak Ange's name...!!"`
 `"............In short, she was a necessary sacrifice.`
 ` Otherwise, an anger great enough to kill me would not have been born within you.`
@@ -566,7 +566,7 @@
 `.........That must be why...the roses are red.`
 `But in the language of flowers, roses are passion.`
 `{n}......Not truth.`
-`The flower for truth is a forget‐me‐not.`
+`The flower for truth is a forget-me-not.`
 `{n}That flower......is blue.`
 `"I'll pierce through everything with my blue truth.`
 ` .........From the very beginning of it all.`
@@ -608,7 +608,7 @@
 `"No, it was impossible for the culprit to obtain one.`
 ` {p:1:All of the master keys were under Rosa's control}!"`
 `"But that's meaningless if Aunt Rosa was an accomplice to the culprit!`
-` {p:2:Aunt Rosa handed a key over to culprit X by some method, assisting in the locked‐room murder}!`
+` {p:2:Aunt Rosa handed a key over to culprit X by some method, assisting in the locked-room murder}!`
 ` {p:2:And after that, she retrieved the key by a similar method}!"`
 `"You'll have to do better than that, Beato!!`
 ` I already put forward that theory at the time!"`
@@ -632,7 +632,7 @@
 ` {p:2:the murder of Doctor Nanjo, can be explained with an 18th unknown person X}.`
 ` Now I've broken through the entire third game!!! Can you counter that?!"`
 `"Mgh, gh...!!`
-` ......O‐of course......!`
+` ......O-of course......!`
 ` This much is......nothing to worry about......!"`
 `"In that case, how do you explain George's disappearance from the guesthouse?`
 ` I shall add to the red truth.`
@@ -655,7 +655,7 @@
 ` George had no technique by which to lock them...!"`
 `"I will repeat the blue truth.`
 ` I said it myself at the time.`
-` {p:2:In that case, everything works out as long as someone locked the window after George‐aniki escaped through it}!`
+` {p:2:In that case, everything works out as long as someone locked the window after George-aniki escaped through it}!`
 ` Nothing difficult about it!!"`
 `"Gwaaaaaaaahhaaaaah...!!`
 ` Gguuuuhhh...... Is this not......enough to resist...... Is it not enough......?"`
@@ -670,8 +670,8 @@
 `"There's nothing strange about the six murders in the dining hall.`
 ` {p:2:The 18th person X went wild with a gun and killed everyone}.`
 ` {p:2:Regarding the pitfalls, there is every chance that pitfalls truly were hidden there,`
-` and it's also possible to explain them with Kyrie‐san's theory hypothesizing the existence of a poison‐dart‐shooting device X which can knock a person out instantly}."`
-`"{p:2:The murders of George‐aniki, Jessica, and those who escaped from the dungeon can also be explained with guns, just like the dining hall}.`
+` and it's also possible to explain them with Kyrie-san's theory hypothesizing the existence of a poison-dart-shooting device X which can knock a person out instantly}."`
+`"{p:2:The murders of George-aniki, Jessica, and those who escaped from the dungeon can also be explained with guns, just like the dining hall}.`
 ` There's nothing strange about it!"`
 `"But I know you, you've got a counterattack, right?`
 ` Bring it on!!"`
@@ -680,7 +680,7 @@
 ` That is why I took Kinzo out of his study."`
 `"Everyone at the family conference welcomed that Kinzo, did they not?`
 ` {p:1:All of those present at the family conference acknowledged the existence of Kinzo}!"`
-`"Uh‐huh.`
+`"Uh-huh.`
 ` But Grandfather's supposedly been seriously ill, confined to his bed, hovering on the verge of death for ages, right?`
 ` Even if he was so worn out that he looked like a different person, maybe no one would have paid that any notice, what about that?"`
 `"I'll come back at you with this.`
@@ -713,7 +713,7 @@
 ` Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!`
 ` Your shallow logic cannot even surpass me alone!`
 ` Die!!!"`
-`Kinzo's jet‐black cape spread as though it would swallow the world,`
+`Kinzo's jet-black cape spread as though it would swallow the world,`
 ` becoming the snout of a vast black dragon, which came at me, trying to swallow me in one mouthful.`
 `......As I faced the roaring of the black dragon, I calmed my breathing and closed my eyes lightly......`
 `"I'll swallow you up in a single gulp!!`
@@ -730,7 +730,7 @@
 `"What...?"`
 `"See ya, my old old bastard.`
 ` This is goodbye.`
-` .........I lay out the following theory to demonstrate that I can apply the dead‐Kinzo hypothesis even to the fourth game!"`
+` .........I lay out the following theory to demonstrate that I can apply the dead-Kinzo hypothesis even to the fourth game!"`
 `"So be it! Come at me with all you have, my descendant!!"`
 `"Here I go, you sack of old bones!!`
 ` {p:2:My theory is that Kinzo's name is passed on as the title of the Ushiromiya family head}!"`
@@ -764,7 +764,7 @@
 ` ......Rest...in peace......`
 ` I will not forget......the days I spent with you........."`
 `Dispersing along with the shadow of the black dragon as golden flower petals scattered,`
-` ......Ushiromiya Kinzo became a gold‐colored cyclone and disappeared......`
+` ......Ushiromiya Kinzo became a gold-colored cyclone and disappeared......`
 `Even after death, you fought for the sake of the woman you loved.`
 `{n}......Your love and madness were, without a doubt, the real thing......!`
 `"...............ngh, ............Battler............"`
@@ -785,8 +785,8 @@
 ` ......I will not run or hide—at this point, even dodging is beyond my capabilities!!`
 ` Come ooo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}oon, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eer!!!"`
 `"You got it!!`
-` With the 18th person X from the dead‐Kinzo theory, everything remaining is pierced through!"`
-`"{p:2:George‐aniki and Jessica's deaths in the fourth game can also be explained by culprit X}!!`
+` With the 18th person X from the dead-Kinzo theory, everything remaining is pierced through!"`
+`"{p:2:George-aniki and Jessica's deaths in the fourth game can also be explained by culprit X}!!`
 ` {p:2:And the five who escaped from the dungeon and were killed, and the two in the gardening shed, and Maria in the end}!`
 ` {p:2:All of those can be explained with an 18th person X}!!`
 ` {p:2:There's nothing strange at all}!!"`
@@ -824,10 +824,10 @@
 ` That is itself......proof that my magic exists...!!`
 ` How do you......explain that, Ushiromiya Battleee{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eerr.........!!!"`
 `".........Stalemate."`
-`"...............Wh‐......whaat......?"`
+`"...............Wh-......whaat......?"`
 `"‘Magic exists because magic exists’.`
 ` I believe the rules of our Braun tube trial say that that kind of argument doesn't work."`
-`".........Ye‐......s, ...you're right.........`
+`".........Ye-......s, ...you're right.........`
 ` ......Heh.........mmhk...ghhh..."`
 `"No matter who—!!`
 ` Or how many people—!!`
@@ -1052,7 +1052,7 @@
 ` {p:2:There is nothing strange about the murder of the six relatives that were found in the gardening shed in the beginning}!`
 ` {p:2:The crime was possible for any of those who didn't have an alibi}!!"`
 `"Valid.`
-` Continue—what about the next locked‐room murder, with Eva and Hideyoshi?!`
+` Continue—what about the next locked-room murder, with Eva and Hideyoshi?!`
 ` Even the chain was set for that locked room!`
 ` I shall add to the red truth."`
 `"{p:1:Both deaths were homicides}!`
@@ -1063,7 +1063,7 @@
 ` {p:2:In other words, the dead}!`
 ` {p:2:Among the first six corpses, there were some made unidentifiable because their faces were smashed}."`
 `"{p:2:One possible theory is that one was actually a fake corpse, and that some culprit X killed those two after pretending to be a victim and hiding away}!`
-` {p:2:Then, after the locked‐room murder was constructed, the culprit hid under the bed, and waited for all of us to leave}!!"`
+` {p:2:Then, after the locked-room murder was constructed, the culprit hid under the bed, and waited for all of us to leave}!!"`
 `"Very well, next!`
 ` Kanon, killed in the boiler room, correct?`
 ` I shall add to the red truth.`
@@ -1071,17 +1071,17 @@
 ` {p:1:Let us include the dead as well}!!`
 ` {p:1:In short, no kind of human or dead person on the island could have killed Kanon}!"`
 `"{p:2:If no one could kill him, then he might have been the one to kill}!!`
-` {p:2:Meaning Kanon‐kun might have killed himself}."`
+` {p:2:Meaning Kanon-kun might have killed himself}."`
 `"Repetition requested!`
-` "Kanon‐kun did not commit suicide"!"`
+` "Kanon-kun did not commit suicide"!"`
 `"{p:1:Kanon did not commit suicide}."`
 `"One more."`
-`"Repetition requested, "Kanon‐kun's death was a homicide"."`
+`"Repetition requested, "Kanon-kun's death was a homicide"."`
 `"I decline to repeat."`
 `"That refusal still admits the possibility of a homicide, but you've already declared in red that no one could have killed him.`
 ` In other words, it wasn't a homicide.`
 ` This is the same as the linked locked rooms from the third game."`
-`"{p:2:Kanon‐kun died for a reason that was neither suicide nor homicide}.`
+`"{p:2:Kanon-kun died for a reason that was neither suicide nor homicide}.`
 ` {p:2:Though the circumstances are unclear, he died from an accident}."`
 `"{p:2:By the Devil's Proof, I refuse to explain what kind of blunder could have led to an accidental death where a stake was driven into his chest}!!"`
 `"Hohoh, now that you have borrowed the power of the devil, you are without peer!`
@@ -1092,14 +1092,14 @@
 ` {p:1:And of course, their three deaths were homicides}!"`
 `"{p:2:We can explain it with the one who carried out the murder being a culprit X who used an unidentifiable corpse to disappear}.`
 ` {p:2:In the first place, their three faces were also pulverized}.`
-` {p:2:It's completely possible that one of them was a body‐double corpse}!"`
+` {p:2:It's completely possible that one of them was a body-double corpse}!"`
 `"{p:1:I guarantee the identities of all unidentified corpses}.`
-` {p:1:Therefore, there were no body‐double tricks}!"`
+` {p:1:Therefore, there were no body-double tricks}!"`
 `"{p:2:Then I can explain it with simultaneous murders}.`
 ` {p:2:Each of the three had a gun, pointed it at another in a clockwise pattern, and they blew each others' faces off at the same time}!`
 ` {p:2:After that, Maria collected those guns and hid them}!!`
 ` How about that?!!!"`
-`"Wha‐......what a ridiculous argument!!!`
+`"Wha-......what a ridiculous argument!!!`
 ` I, I like it...!!`
 ` Then what about Natsuhi in the end?!"`
 `"I shall add to the red truth!`
@@ -1135,24 +1135,24 @@
 `"Bastaaaaaard!!`
 ` No pity, no mercy! Here goes the second game!!`
 ` I'll start with the first crime!"`
-`"I already saw through the locked‐room murder where the six were killed in the chapel at the time.`
+`"I already saw through the locked-room murder where the six were killed in the chapel at the time.`
 ` {p:2:Someone secretly borrowed Maria's key, and secretly returned it to Maria's bag after the crime was over}!!"`
 `"{p:1:From the time Maria received her key to the instant Rosa unsealed the envelope the next day, the key did not pass into anyone's hands}!!"`
-`"{p:2:There is the possibility that the door to the chapel had an auto‐lock just like Gramps's study}.`
+`"{p:2:There is the possibility that the door to the chapel had an auto-lock just like Gramps's study}.`
 ` {p:2:In other words, it was unlocked before the crime, with a rock or something wedged in so that it couldn't close completely}.`
 ` {p:2:Then they gave the key to Maria}.`
 ` {p:2:Because the lock was automatic, it is possible to make a theory where the key wasn't needed}!"`
-`"{p:1:No door with an auto‐lock exists other than Kinzo's study}!"`
+`"{p:1:No door with an auto-lock exists other than Kinzo's study}!"`
 `"{p:2:The victims locked the door from the inside}.`
 ` {p:2:One of the six was the culprit, and this person killed the other five, then pretended to be dead}!!"`
 `"{p:1:The six were all already dead by the time they were discovered}!`
 ` {p:1:All of their deaths were homicides}!`
 ` {p:1:All six were pure victims; they did not take part in a mutual murder}!`
 ` {p:1:There were no simultaneous mutual murders}!!"`
-`"{p:2:There existed humans with no alibi at the time, e.g. Kumasawa‐san}.`
+`"{p:2:There existed humans with no alibi at the time, e.g. Kumasawa-san}.`
 ` {p:2:If we assume that such a person killed the six, and was hiding inside, then there are no problems}!"`
 `"{p:1:There was no one hiding in that chapel}.`
-` {p:1:Therefore, your ‘killer hiding in the building’ locked‐room scenario does not hold}!"`
+` {p:1:Therefore, your ‘killer hiding in the building’ locked-room scenario does not hold}!"`
 `"What's wrong, Ushiromiya Battleer, is that all?!`
 ` It's not so easy once you get to the second game, riiiight?!"`
 `A tremendous exchange of red and blue truth.`
@@ -1170,10 +1170,10 @@
 ` {p:2:In other words, the crime is possible through trap X}!`
 ` {p:2:The details of a bomb that they could swallow without noticing and that could blow open their stomachs is a Devil's Proof}!`
 ` {p:2:I refuse to explain}!!"`
-`"Bfft...hahha{0}ha{0}ha{0}haha‐hahhaha‐hahha!!`
+`"Bfft...hahha{0}ha{0}ha{0}haha-hahhaha-hahha!!`
 ` What the hell is thaaaaaat?!`
 ` Small bommmmmmmbs?!`
-` Waa‐hahhahaha‐hah‐hah‐hah!!"`
+` Waa-hahhahaha-hah-hah-hah!!"`
 `But Beato failed to knock down the blue wedge as it flew at an angle like a curveball.`
 `It let out a loud {i:thunk}, and gouged itself deeply into her left shoulder.`
 `However, despite being on the receiving end of it, it seemed she couldn't stop laughing at how much of a curveball it was.`
@@ -1189,11 +1189,11 @@
 `"After that, there was an attack in the servant room from a mystery person who seemed to be Kanon, and Nanjo and Kumasawa were killed, right?!`
 ` I had already declared Kanon's death in red before that time.`
 ` Then who was that Kanon?!"`
-`"{p:2:If Kanon‐kun's death was declared with the red, there's no way he was alive}.`
-` {p:2:Therefore, there is a chance that it was someone else in a disguise that would make the group that was attacked mistake this person for Kanon‐kun}!"`
+`"{p:2:If Kanon-kun's death was declared with the red, there's no way he was alive}.`
+` {p:2:Therefore, there is a chance that it was someone else in a disguise that would make the group that was attacked mistake this person for Kanon-kun}!"`
 `"{p:1:They would never mistakenly think any other person was Kanon}!"`
 `"{p:2:Then, just like the heredity of Kinzo's name, there is a possibility that Kanon's name was inherited by someone}.`
-` {p:2:You could suppose that Kanon‐kun was killed, a different person succeeded his name, and this person attacked them}!!"`
+` {p:2:You could suppose that Kanon-kun was killed, a different person succeeded his name, and this person attacked them}!!"`
 `A sound like a watermelon being squashed rang out, and a blue wedge was buried deep into Beato's left flank...`
 `It looked like she felt that one—maybe it hit her in a bad spot.`
 `After leaning over and moaning for a while,`
@@ -1228,7 +1228,7 @@
 ` Uhhya{0}hhya{0}hya{0}hya{0}hhya{0}a{0}a{0}a{0}a{0}aahhh!!"`
 `"Compared to having your entire body torn to bits and turned into a pile of scrap meat, like your sister, that iiiiiiiiiiis?!`
 ` I'll make you scrap meat too, then you two siblings can be all mixed together like ground beef and pork, aaakkya{0}kkya{0}kkya{0}a{0}a{0}a{0}a{0}a{0}aahhh!!"`
-`"U‐......uuurrraaaaaaaaaaaagggh!!`
+`"U-......uuurrraaaaaaaaaaaagggh!!`
 ` I'll beat you to death, I'll tear you to bits the same way!!`
 ` Next!`
 ` The third game!!`
@@ -1525,7 +1525,7 @@
 `{p:1:You are all alone on this island}.`
 ` {p:1:And of course, I am not you}.`
 ` {p:1:Yet I am here, now, and am about to kill you}."`
-`"Like a souped‐up version of the mystery of Doctor Nanjo's murder......`
+`"Like a souped-up version of the mystery of Doctor Nanjo's murder......`
 ` .........So......?"`
 `".........Who...am I...?"`
 `"Is that...............your final question?"`

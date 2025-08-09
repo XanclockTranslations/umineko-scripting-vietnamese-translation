@@ -6,7 +6,7 @@
 `Rosa regained consciousness bit by bit......`
 `And the first thing she thought...was that it would have been better if she hadn't.`
 `After all, her body was so cold and hurt so much, ......and it became worse the more her consciousness returned.`
-`It felt like she had been sleeping in the darkness for a long time now, face‐down on ice‐cold marble.`
+`It felt like she had been sleeping in the darkness for a long time now, face-down on ice-cold marble.`
 `......Aaah, this is why I always tell myself.`
 `{n}Even if it's just a nap, at least get on the sofa.`
 `I always know that if I naively try and close my eyes for just a second,`
@@ -74,7 +74,7 @@
 ` Could you stop saying that "uryu"...?"`
 `‘Uryu......’`
 `"Hhhk, ......excuse me, I asked you to stop..."`
-`‘U‐...au, ...uu!`
+`‘U-...au, ...uu!`
 ` Sorry......’`
 `This time, I got the feeling that his words of apology made me feel a sharp pain in my forehead.`
 `.........What is...this child......?`
@@ -136,9 +136,9 @@
 `A fierce, sharp pain struck me.`
 `{n}It came from the palm of the hand he was grasping.`
 `I instinctively knocked his hand away, and when I looked at my palm...`
-`.........a hole the size of a thumb had opened there, and thick, deep‐red blood was gushing out.`
+`.........a hole the size of a thumb had opened there, and thick, deep-red blood was gushing out.`
 `...It was a hole so big that I could see through to the other side......`
-`‘U‐uryu......!`
+`‘U-uryu......!`
 ` Are you okay?!`
 ` Are you okay?!`
 ` What happened...?!’`
@@ -172,7 +172,7 @@
 ` Sakutaroooooooo, Sakutaroooooooooo, waaa{0}a{0}a{0}ahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aauuhhhh!!`
 ` Waa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aauu{0}uuhhhh!!"`
 `Like a flood from a broken dam, or like a broken TV...`
-`{n}......Maria wailed in a high‐pitched voice.`
+`{n}......Maria wailed in a high-pitched voice.`
 `.........Maria's voice, which made the ears throb, brought up two emotions...`
 `The first was regret: "Aahh, I let my emotions get the better of me and committed a terrible mistake..."`
 `A mother's desire to kneel down right away, hold Maria's head, cry with her and apologize.`
@@ -186,7 +186,7 @@
 `{n}It welled up rapidly.`
 ` ......And then burst.`
 `I mean, she won't come around even when I apologize, and there's nothing I can do now anyway, and it's all Maria's fault in the first place...!!`
-`I mean she can't make any friends because since she's forever taken up with this make‐believe stuffed animal thing, and that's why she's treated like a weirdo, and, you know...!!`
+`I mean she can't make any friends because since she's forever taken up with this make-believe stuffed animal thing, and that's why she's treated like a weirdo, and, you know...!!`
 `This is a good opportunity...for instructive guidance!`
 ` It's not like I was pampered all the time myself...!!`
 `Things eventually break, are stolen, are broken!`
@@ -213,7 +213,7 @@
 ` hiiiiIiiIiIiiiiii...!!!"`
 `There was no pain.`
 ` But the shocking sight of both my hands breaking off at the wrists made me scream......`
-`"Wh‐what?!`
+`"Wh-what?!`
 ` What?!`
 ` My hands, ......hands, hands...!!`
 ` Eeee{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}e{0}eekkkk!!!"`
@@ -249,7 +249,7 @@
 `"He read books with me, watched TV with me, ate meals with me!!`
 ` He was a much, MUCH more important friend than YOU!!!"`
 `"...I, ......I'm not proud of it...!`
-` Bu‐but it can't be helped, can it?!`
+` Bu-but it can't be helped, can it?!`
 ` Mama's busy with work—work!!`
 ` You know that Mama's busy with work, right?!`
 ` What am I supposed to do?!!`
@@ -330,14 +330,14 @@
 ` I'll be waiting.`
 ` ............Do your best at work, Mama......`
 `"Hohoh.`
-` It's a lonely story, but this is good mother‐daughter love, with each showing consideration for the other, is it not?`
+` It's a lonely story, but this is good mother-daughter love, with each showing consideration for the other, is it not?`
 ` Do you see any problem with it, Maria? Rosa?"`
 `"..............................`
-` ......Th‐that promise, ......I believe I kept it.`
+` ......Th-that promise, ......I believe I kept it.`
 ` The next evening, didn't I do as I promised and return earlier than usual with the cake I bought?"`
 `"That's not it, I knew......`
 ` .........That evening.`
-` A pay‐on‐delivery package came for you, but there wasn't enough money in my wallet,`
+` A pay-on-delivery package came for you, but there wasn't enough money in my wallet,`
 ` so I called your company to ask you what to do."`
 `"......I'd been told only to call at special times,`
 ` ......but thought it'd be bad if the package was something important for your work...`
@@ -371,7 +371,7 @@
 `"......If you're worried about your daughter, surely you didn't have to force this into your schedule?"`
 `"But that way, we'd never get our schedules to match...`
 ` Didn't I say not to worry about that?"`
-`The slender, middle‐aged man clad in a white robe gave a small sigh.`
+`The slender, middle-aged man clad in a white robe gave a small sigh.`
 `Rosa reacted sensitively to that slight action......`
 `"Come on!`
 ` Let's not talk about my daughter.`
@@ -382,14 +382,14 @@
 `"Aren't I always asking you not to worry about my relationship with my daughter...?!`
 ` I make sure not to talk about her when I'm alone with you, don't I?`
 ` I wouldn't even have phoned from up here if it weren't for the noisy drunks laughing stupidly in the lobby downstairs...!"`
-`"Rosa‐san.`
+`"Rosa-san.`
 ` Couldn't you reconsider sudden vacations like this in the future, for your daughter's sake...?`
 ` Isn't it alright if we only do it when our schedules match?"`
 `"But then our schedules won't match at all......!`
 ` Don't you understand, I......want to be with you all the time......!"`
 `"That's how a child behaves when they're in love.`
 ` Love between adults should be a little more stoic.`
-` ......Rosa‐san, I feel sad too that I can never stay with you for very long.`
+` ......Rosa-san, I feel sad too that I can never stay with you for very long.`
 ` But I think we're enjoying a very full adult romance with the limited time and opportunities we have."`
 `"So you're telling me to be with my daughter more.`
 ` ......Don't be a woman, be a mother?"`
@@ -409,7 +409,7 @@
 ` ......I...thought you understood about my daughter,`
 ` .........but it looks like you really don't like women with children......"`
 `"That's not what I'm saying.`
-` Of course I like you, Rosa‐san.`
+` Of course I like you, Rosa-san.`
 ` I'm just trying to say to take better care of your daughter—`
 `you must want that yourself—so I don't want you to hurt yourself by lying to your daughter.`
 ` That's all I'm saying."`
@@ -478,7 +478,7 @@
 ` When did I ever scold you for that?!`
 ` Never, did I?!?!?!"`
 `"The day after one man left me, when I wanted to drink myself dead drunk, was Parent's Day at your school!!`
-` I was there, my tear‐stained eyes disguised with heavy makeup,`
+` I was there, my tear-stained eyes disguised with heavy makeup,`
 ` and the way I felt when you said something off the mark and the whole class laughed at you...`
 `is something I expect you and everyone else on this planet couldn't possibly understand!!"`
 `"I hate you, loathe you...!!!`
@@ -495,7 +495,7 @@
 `"Ugly.`
 ` Aaaaaaaahh, how ugly is a woman drowning in lust...!!`
 ` This is this woman's true nature!!`
-` Even I, as a thousand‐year‐old witch who has explored the depths of evil, find this most difficult to watch!!"`
+` Even I, as a thousand-year-old witch who has explored the depths of evil, find this most difficult to watch!!"`
 `"Aaah, {f:5:Maria}, now is the time for you and her to part ways!!`
 ` Smash the ugly lump of meat that calls herself your mother...!!`
 ` There is no meaning in your pure soul being bound any longer by the chains of parent and child!`
@@ -513,7 +513,7 @@
 ` Get out of my liiiiiife, uaaaoo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahhhh!!"`
 `"......ggyah—"`
 `As Rosa howled, her upper body was crushed in a way that can only be described by the word "splat",`
-` and in an instant, was turned into something similar to a wrung, blood‐stained towel.`
+` and in an instant, was turned into something similar to a wrung, blood-stained towel.`
 `"Get crushed.`
 ` Can't forgive, ......can't forgive...!!"`
 `"Kuhhahhahha......!!`
@@ -534,7 +534,7 @@
 ` Push out all of the wedges that have been driven into your chest, and fling them back!!!"`
 `"Uugaaaaaaaaaaaaaahhoooooooooooooohhhh!!!"`
 `Maria's howl was colored by the ugly sound of flesh and bone being simultaneously crushed...`
-`As Rosa, who had foully insulted Maria, lay spread‐eagled,`
+`As Rosa, who had foully insulted Maria, lay spread-eagled,`
 ` a neat, perfectly circular area of her chest was squashed into a pulp, as though it had been trampled by an invisible elephant.`
 `Her heart and her lungs and her ribs were trampled so mercilessly that they were completely indistinguishable.`
 `......That might have symbolized the pain in Maria's heart up until today.`
@@ -615,7 +615,7 @@
 `Again and again she revived her.`
 ` Again and again she returned her to a lump of meat.`
 `In all kinds of ways, she crushed her, smashed her, beat her, and tore her to bits.`
-`{n}Flying blood spatter and flesh had by now turned the once pitch‐black world into a mix of red and black.`
+`{n}Flying blood spatter and flesh had by now turned the once pitch-black world into a mix of red and black.`
 `Maria's anger was still not settling down.`
 `It was as though she was disgorging all of the rage she had suppressed from the time of her birth until today.`
 `If all that was poison to her heart...`
@@ -726,48 +726,48 @@
 `"What the heck, it's my fault?`
 ` Sorry, Maria.`
 ` You can go back to sleep.`
-` Night‐night."`
+` Night-night."`
 `Maria was looking a bit hazy, with drowsy eyes.`
-`{n}......She was probably still half‐asleep, and couldn't think straight.`
+`{n}......She was probably still half-asleep, and couldn't think straight.`
 `".....................Uu.`
 ` ......Had enough.`
 ` Won't sleep."`
 `"It's OK, sleep.`
-` You're still half‐asleep right now.`
+` You're still half-asleep right now.`
 ` Ihihi."`
-`"......Not half‐asleep!`
+`"......Not half-asleep!`
 ` ............Uu!!"`
-`"Oh come on, you're blatantly half‐asleep.`
+`"Oh come on, you're blatantly half-asleep.`
 ` Lie back down, lie back down."`
-`"Not half‐asleep! Not half‐asleep!!`
-` Uu‐uu!!`
-` Uu‐uu‐uu‐uu!!"`
+`"Not half-asleep! Not half-asleep!!`
+` Uu-uu!!`
+` Uu-uu-uu-uu!!"`
 `"Quit it, Battler, you dumbass...!`
 ` Ugh, god, what are you thinking, getting a kid who's just woken up into a bad mood...!"`
-`"Not half‐asleep!`
-` Not half‐asleep!`
-` Uu‐uu‐uu‐uu‐uu‐uu‐uu‐uu!!!"`
-`"I understand, Maria‐chan...`
-` You aren't half‐asleep.`
+`"Not half-asleep!`
+` Not half-asleep!`
+` Uu-uu-uu-uu-uu-uu-uu-uu!!!"`
+`"I understand, Maria-chan...`
+` You aren't half-asleep.`
 ` So calm down......"`
-`"Not half‐asleep not half‐asleep!!`
+`"Not half-asleep not half-asleep!!`
 ` Uu!!`
-` Uu‐uu‐uu‐uu‐uu‐uu!!"`
+` Uu-uu-uu-uu-uu-uu!!"`
 `Maybe it was because of her dubious mental state after waking up, but Maria suddenly threw a tantrum.`
 `In Battler's mind, he had only been teasing her a little bit,`
 ` so he was taken aback by this extreme overreaction.`
 `George hugged her and held her head, trying to calm her down, but Maria's tantrum wasn't quelled easily.`
 `Battler and Jessica were trying to push the blame on each other, saying "It's your fault", "It's your fault too".`
 `"Hey, be quiet, you two...!`
-` Jessica‐chan, there was still some hot water in the pot, right?`
+` Jessica-chan, there was still some hot water in the pot, right?`
 ` Could you make some tea for her?`
 ` .........Did you calm down?`
-` Maria‐chan."`
+` Maria-chan."`
 `"...............Uuuu."`
 `It looked like her tantrum was dying down bit by bit,`
 ` but she was still glaring at Battler, who had made fun of her, with sharp eyes.`
-`"Battler‐kun was just messing around.`
-` He doesn't really think you're half‐asleep.`
+`"Battler-kun was just messing around.`
+` He doesn't really think you're half-asleep.`
 ` So calm down.`
 ` Alright?`
 ` ........................?"`
@@ -786,9 +786,9 @@
 ` Maria stopped her bizarre quiet laugh, and pushed George's arm aside, as though telling him to let go.`
 `".........Uu.`
 ` Forgive him."`
-`"R‐really?`
-` You're such a good girl, Maria‐chan.`
-` ......Battler‐kun, Maria‐chan forgave you.`
+`"R-really?`
+` You're such a good girl, Maria-chan.`
+` ......Battler-kun, Maria-chan forgave you.`
 ` Make up with her."`
 `"Uhh, sorry for teasing you.`
 ` Forgive me..."`
@@ -816,8 +816,8 @@
 ` Aaaaaaah, what shall I do, what shall I do...!"`
 `When George opened the door, the two of them tumbled in, sopping wet.`
 `It looked like they had dashed here from the mansion without an umbrella.`
-`"Wh‐what's gotten into you two......`
+`"Wh-what's gotten into you two......`
 ` What's happened......?!"`
-`"I‐it was, it was...!!`
-` Th‐th‐the Master—{nobr:Krauss‐sama}—{nobr:everyone, he}—`
+`"I-it was, it was...!!`
+` Th-th-the Master—{nobr:Krauss-sama}—{nobr:everyone, he}—`
 `awawa{0}wa{0}wa{0}wa{0}wa{0}wawawa..."`

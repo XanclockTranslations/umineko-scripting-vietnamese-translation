@@ -5,7 +5,7 @@
 `Even though Kinzo had heard of the six deaths, his emotions did not waver.`
 `The expression on his face as he gazed out the window......was a smile, as though his opponent in a chess game had just made a spectacular move.`
 `...It was unimaginable that this expression could appear on a father who had lost many children at once.`
-`"......Under Rosa‐sama's orders, Gohda and Kanon are calling the police.`
+`"......Under Rosa-sama's orders, Gohda and Kanon are calling the police.`
 ` Also, she has ordered us to follow your orders, my lord...`
 ` ......What shall we do?"`
 `"...............This island has already been cut off from the real world.`
@@ -15,14 +15,14 @@
 ` Let them do as they like."`
 `"............Yes."`
 `"...Umm......`
-`...what should I tell Rosa‐sama?"`
+`...what should I tell Rosa-sama?"`
 `"I say again, what they do to pass the time is up to them!!`
 ` They can sing if they want, dance if they want!`
 ` They're even free to hang themselves by the neck or jump into a boiling cauldron!!`
 ` Until thirteen people die, they can spend their time as they like.`
-` If they are that bored, then they can spend their time wondering why six times nine is forty‐two!!`
+` If they are that bored, then they can spend their time wondering why six times nine is forty-two!!`
 ` That's the answer to the mystery of man and the universe!!"`
-`"Y‐yes...!`
+`"Y-yes...!`
 ` My, my apologies......!"`
 `Shannon cowered in fright at this sudden rage.`
 ` ...Genji made a gesture as though telling her not to say too much.`
@@ -32,7 +32,7 @@
 ` ......Genji.`
 ` And Shannon.`
 ` You have done well serving me until today."`
-`"Y‐...your words are too good for me......`
+`"Y-...your words are too good for me......`
 ` ...But, umm........."`
 `"...............We are furniture who have sworn to serve you, my lord.`
 ` ......At any and all times, we will be waiting by your side.`
@@ -45,7 +45,7 @@
 ` Please copy what I say.`
 ` ...Genji, please, my usual drink."`
 `"huh...`
-` ...............Ye‐............yes......!"`
+` ...............Ye-............yes......!"`
 `Nanjo had often recommended that Kinzo write a will because of his health, but each time, Kinzo had gone mad with rage.`
 `......Since that time, "will" had been the word Kinzo took most exception at.`
 `Because that word had come out of his own mouth, Shannon couldn't help doubting her ears for an instant.`
@@ -74,13 +74,13 @@
 ` .........and we each swore to our parents that we'd definitely catch the killer.`
 `It would be a lie to say we weren't still bitter.`
 `...Even now, if we gave in just a little, we'd feel like going on a rampage like Jessica, and resorting to some kind of violence.`
-`According to what Gohda‐san said after he got back, right now, Kanon‐kun was looking after Jessica.`
-`...Apparently, she was still very emotionally high‐strung.`
+`According to what Gohda-san said after he got back, right now, Kanon-kun was looking after Jessica.`
+`...Apparently, she was still very emotionally high-strung.`
 `"......I see.`
 ` Thank you.`
 ` ...Maybe a young kid would be better at understanding a young kid's feelings.`
 ` ......It would probably be better if we left them alone for now."`
-`"Rosa‐san...`
+`"Rosa-san...`
 ` ......There is nothing more we can accomplish by remaining here.`
 ` ......The telephones may not be working, but tomorrow the boat will come, and we should be able to reach the police.`
 ` We should leave this place as it is for the police's investigation."`
@@ -89,11 +89,11 @@
 ` ......Let us return and make some black tea..."`
 `".........Yes.`
 ` ...I'm all for that too.`
-` ......Battler‐kun, George‐kun, are you ready...?`
+` ......Battler-kun, George-kun, are you ready...?`
 ` Let's close this place up.`
 ` We should leave this place as it is, for when the police come if nothing else."`
 `"You're right.`
-` .........Battler‐kun, ...are you alright...?"`
+` .........Battler-kun, ...are you alright...?"`
 `"......Yeah.`
 ` ...I've cried all I can.`
 ` .........I'm fine now."`
@@ -106,7 +106,7 @@
 ` ...Maria, we're going.`
 ` ......Don't keep staring at it...!"`
 `"......Uu."`
-`"Come, come, Maria‐sama.`
+`"Come, come, Maria-sama.`
 ` Let us return...`
 ` It is cold here."`
 `"............Mother, Father.`
@@ -114,7 +114,7 @@
 ` ...I will definitely become a man who doesn't betray your expectations..."`
 `George spoke his last words of farewell to his parents.`
 `......After seeing that, Battler followed suit.`
-`"...Dad, Kyrie‐san."`
+`"...Dad, Kyrie-san."`
 `Taken on their own, their faces...made it look like they were sleeping, ......which made it all the more bitter......`
 `".........Forgive me for leaving you in such a chilly place.`
 ` .........I'll definitely get whoever did this...`
@@ -142,7 +142,7 @@
 ` I will offer to you the sacrifice of thanksgiving, and will call on the name of the Lord"."`
 `"......Sacrifice of thanksgiving...?`
 ` Are you telling me that killing Father and the rest was so that they could be sacrifices for this magic circle...?!"`
-`"Calm yourself, George‐kun...!`
+`"Calm yourself, George-kun...!`
 ` This is the killer trying to provoke us.`
 ` ...It doesn't mean anything.`
 ` Just thinking about it poisons the heart."`
@@ -151,10 +151,10 @@
 ` ......I see.`
 ` And the key to open this door was handed over to Maria, ...is that what this is?"`
 `"...But this is the chapel.`
-` ...Maybe "Maria" doesn't mean Maria‐chan, but the Virgin Mary.`
+` ...Maybe "Maria" doesn't mean Maria-chan, but the Virgin Mary.`
 ` ......In that case, you could read this as a blasphemy against God, in the name of Halloween."`
 `"They say that witches who make contracts with demons swear to always defile God's name.`
-` ......In that sense, this really is a witch‐like crime."`
+` ......In that sense, this really is a witch-like crime."`
 `"...You sure know a lot.`
 ` ......Did you hear that from Maria?"`
 `"......Yeah, something like that."`
@@ -205,7 +205,7 @@
 `"What does that mean?`
 ` .........What goes on in a chapel?`
 ` He couldn't mean his own funeral, right?"`
-`"I wouldn't believe that of Kinzo‐san.`
+`"I wouldn't believe that of Kinzo-san.`
 ` ...He was a man much more focused on the now, while he still lives, rather than things after death.`
 ` .........However, it does seem that this was the root of all the complexity in the inheritance problem."`
 `"What else is there you do in a chapel?`
@@ -218,7 +218,7 @@
 `"How can you tell that...?"`
 `"See, ...it's clearly written up there.`
 ` ......Look, up there."`
-`George‐aniki pointed to a relief with rusted gold letters on the arch above the door.`
+`George-aniki pointed to a relief with rusted gold letters on the arch above the door.`
 `It looked like some message was written there in English.`
 ` ...The rust showed that the message had been there since construction.`
 `".........I'm bad at English.`
@@ -234,7 +234,7 @@
 ` You couldn't even count close to that with all the fingers on both hands.`
 ` It really would be impossible unless a miracle occurred."`
 `"......Certainly.`
-` It is very much like how Kinzo‐san used to talk, when he would tend to relate everything in terms of gambling."`
+` It is very much like how Kinzo-san used to talk, when he would tend to relate everything in terms of gambling."`
 `"What, what, you could all read it?`
 ` Someone tell me what it means too."`
 `"Kihihihihihihi.`
@@ -261,11 +261,11 @@
 ` ......Whether or not the witch {f:5:Beatrice} really was a witch, she's whispered to have actually existed several decades ago,`
 ` ......and been Grandfather's mistress."`
 `"This is, umm, just my imagination, but...`
-`......I imagine the Master really did truly love {f:5:Beatrice}‐sama.`
+`......I imagine the Master really did truly love {f:5:Beatrice}-sama.`
 ` However, he was already married, so they couldn't be united."`
 `"...I see.`
 ` .........If the dead {f:5:Beatrice} could be revived with the magic of a miracle, then now that Grandmother is dead, he could marry her with his head held high.`
-` And he'd marry her in this chapel......... Could it be a fairy‐tale story like that?"`
+` And he'd marry her in this chapel......... Could it be a fairy-tale story like that?"`
 `"......I don't think that sounds so preposterous.`
 ` ...It is a well known fact that Father still loves {f:5:Beatrice} deeply."`
 `"......Also, even though I said it was creepy,`
@@ -275,14 +275,14 @@
 `"......But he prayed for the witch to be revived by some miracle.`
 ` And he thought that if that miracle occurred, they could be married here..."`
 `"......I see.`
-` ...If you think of it that way, this would be a place of utmost significance to {f:5:Beatrice}‐sama as well...`
+` ...If you think of it that way, this would be a place of utmost significance to {f:5:Beatrice}-sama as well...`
 ` All the while knowing it was a chapel that would never be opened.`
 ` ......A story of sad love."`
-`Even though Gohda‐san's body was even bigger than mine, his words were touching.`
+`Even though Gohda-san's body was even bigger than mine, his words were touching.`
 `...Everyone was silent, but it seemed that they agreed with that view.`
 `"Even though he knew it was a chapel never to be opened,`
 ` ......he still probably dreamed of the day that a miracle would occur.`
-` .........Kinzo‐san was a great romantic in his younger days.`
+` .........Kinzo-san was a great romantic in his younger days.`
 ` ...I feel as though I understand him."`
 `"Ihihi.`
 ` I wonder.`
@@ -295,15 +295,15 @@
 `"..................Huh?`
 ` ............Wha?!`
 ` ...............Wait, .........what on Earth?"`
-`"Wh‐what do you mean "what on Earth"..."`
+`"Wh-what do you mean "what on Earth"..."`
 `I thought all I'd done was mess around because I didn't like the way the atmosphere had turned all sappy.`
 ` ......But Auntie Rosa had suddenly jumped on me, with a really serious face.`
 `Auntie Rosa's face grew increasingly pale.`
 ` ...She looked at the magic circle on the door, then at her hand, back and forth, back and forth.`
-`"Wh‐......what seems to be the matter, Rosa‐sama...?"`
-`"Hey, Gohda‐san!`
+`"Wh-......what seems to be the matter, Rosa-sama...?"`
+`"Hey, Gohda-san!`
 ` The key to this chapel!`
-` Didn't Genji‐san say it?`
+` Didn't Genji-san say it?`
 ` {i:He said there was only one}!"`
 `".....................Huh?`
 ` ............"`
@@ -313,12 +313,12 @@
 `...When a kid pulls a prank, it sometimes goes unnoticed by the adults, and the kid who did it loses heart.`
 `......If one of those pranks catches someone later on, it makes that kid really happy.`
 `......Maria's celebration just now looked a lot like that...`
-`"...Y‐......yes, that's right.`
+`"...Y-......yes, that's right.`
 ` There is only one of those keys.`
 ` It is the key to the Master's treasured chapel, so there is only one, with no duplicates.`
 ` ...It is normally kept safe in the key box in the servant room, but..."`
 `"That's right.`
-` And Genji‐san said that it had gone missing.`
+` And Genji-san said that it had gone missing.`
 ` ......Someone stole it, ......put it in that envelope, and handed it to Maria!`
 ` And that was yesterday!"`
 `"............What...?`
@@ -326,7 +326,7 @@
 ` .........that makes no sense, doesn't it?"`
 `"...That's absurd.`
 ` .........This is getting strange."`
-`"Wh‐what do you all mean...?`
+`"Wh-what do you all mean...?`
 ` I don't have a clue what you're talking about..."`
 `"Me neither.`
 ` ......Would someone be so kind as to explain it for us...?"`
@@ -416,7 +416,7 @@
 ` You don't, do you?!"`
 `"{i:What trick did they use to make this look like a locked room}!`
 ` That's what you think."`
-`"In other words, out of all the locked‐room murders humanity has built up over a hundred years, not a single one has ever been made complete!!"`
+`"In other words, out of all the locked-room murders humanity has built up over a hundred years, not a single one has ever been made complete!!"`
 `"Oooh!!`
 ` That's some talk—mystery fans are pretty scary, you know?!`
 ` Christie is probably grinding her teeth in her grave!"`
@@ -470,7 +470,7 @@
 `"That's right.`
 ` So from now on,`
 ` {p:1:when I speak the truth, I will use red}."`
-`"Wh‐what is this......?!`
+`"Wh-what is this......?!`
 ` Keep explaining!"`
 `"No matter what magic move I use,`
 ` you can always keep running away by repeating "lack of information" and "denying the basis"."`
@@ -497,7 +497,7 @@
 `"Then I shall repeat what I said.`
 ` "{p:1:Regardless of whether they were alive or dead,`
 ` the six definitely entered through the door}"!"`
-`".........I‐is there any proof?!"`
+`".........I-is there any proof?!"`
 `"<Stop>!!`
 ` I will supplement the rule."`
 `"......When I speak the truth, I will use red,`
@@ -508,7 +508,7 @@
 ` So for any impossible crime, all I have to do is wave my magic staff before your eyes."`
 `"But that wouldn't make a game!`
 ` It would be like the barbarism of ignoring victory and defeat in a chess game and punching your opponent!"`
-`"W‐......well, that is true.`
+`"W-......well, that is true.`
 ` ...If you were a witch,`
 ` {i:there'd be no need for you to show proof}.`
 ` ......Because you could do anything with magic... That's nasty...`
@@ -518,12 +518,12 @@
 ` I unlocked it with magic.`
 ` ......How will you defeat this magic, this locked room?!"`
 `"......The, the key!`
-` Genji‐san and the others said there was only one key, but that's impossible to prove!`
+` Genji-san and the others said there was only one key, but that's impossible to prove!`
 ` The culprit secretly made a duplicate key...!"`
 `"*cackle*cackle*cackle*cackle*!`
 ` {p:1:Only one key to the chapel exists}!"`
 `"Arg......`
-` Th‐then what about this.`
+` Th-then what about this.`
 ` The culprit used something other than a legitimate key to open it!`
 ` I don't know what, but maybe a wire!`
 ` A tool for picking locks!!"`
@@ -574,7 +574,7 @@
 ` Ushiromiya Battleeeeeeeeeeer...????"`
 `Damn iiiiiiiiiiiit, what should I do, what?!!`
 ` I can see it, I can see myself facing checkmate...!!`
-`Aaaaaaaaah, it's no good, it's no good, all of my hard‐fought moves are nothing more than desperately moving my king, running away from check.`
+`Aaaaaaaaah, it's no good, it's no good, all of my hard-fought moves are nothing more than desperately moving my king, running away from check.`
 ` ......No matter how many times I move, I can't escape from being checked.`
 ` So even without waiting for the next several moves, I can see mate in my future!!`
 ` Aaaaaaaaaaaaaaaaaaaaahhh, damn iiiiiiiiiiiiiiiiiiiit.........!!`
@@ -583,7 +583,7 @@
 `......Don't give up, Ushiromiya Battler.`
 `{n}If I can see myself getting closed in upon...`
 `......Then if I flip over the chessboard......I can anticipate the next move, right...?`
-`Kyrie‐san told me...`
+`Kyrie-san told me...`
 ` When considering something, the closer you get to the very, very end, ......the easier it becomes to anticipate.`
 `Flip it over.`
 `{n}......Flip over...the chessboard...!!`
@@ -630,7 +630,7 @@
 `"I understand that the only way to enter the chapel is through the door, and that there was only one key.`
 ` .........But hold it right there.`
 ` ...Was that key really handed over to Maria yesterday before noon?"`
-`".........Long‐winded.`
+`".........Long-winded.`
 ` Summarize it."`
 `"It's something like this.`
 ` ...We've been under the impression that since midday yesterday, the key was unusable.`
@@ -664,7 +664,7 @@
 ` That when I entrusted Maria with a key, that key was a fake?`
 ` And then, by the time Rosa obtained it, it had been switched with the real thing...?"`
 `"Yeah, that's it.`
-` ......What's wrong, {f:5:Beatrice}‐sama?`
+` ......What's wrong, {f:5:Beatrice}-sama?`
 ` Looks like you haven't been feeling good for a while...?"`
 `"......Those close to me sometimes call me Beato.`
 ` Beato is fine."`
@@ -680,7 +680,7 @@
 `"...If it's impossible, then state that you decline.`
 ` Check."`
 `"............kh, ...............I decline."`
-`"Now the one‐turn advantage has flipped over.`
+`"Now the one-turn advantage has flipped over.`
 ` ...Now it's time for your king to run, Beato."`
 `"......Ehh, I have a reason for declining.`
 ` That is regarding the definition of the phrase "under her supervision".`
@@ -718,14 +718,14 @@
 `"Can you say it in red?!"`
 `"Repetition requested—say it if you can!!`
 ` It's check again!!!"`
-`"H‐......hold on.`
+`"H-......hold on.`
 ` I'll remove the check...`
 ` ...The envelope with the key in it should have been sealed with wax...!`
 ` Rosa took it from an unopened envelope—"`
 `"Really! Let's hear it, then!!"`
 `"Repetition requested!!`
 ` "The envelope handed over midday yesterday and the envelope that Auntie Rosa opened are the same thing"."`
-`"Th‐that I can repeat.`
+`"Th-that I can repeat.`
 ` {p:1:The envelope I handed over to Maria and the one Rosa opened are the same thing}!!"`
 `"......Haah...!`
 ` ...Aaaaah, that's no good, that's no goddamn good at all.`
@@ -734,7 +734,7 @@
 ` ......If you had resigned here, I would have thought of you as someone pretty good at reading between the lines.`
 ` ......So I'm disappointed.`
 ` ............{i:You've betrayed my expectations}."`
-`"Wh‐............wha......aat.........!!"`
+`"Wh-............wha......aat.........!!"`
 `"It isn't important whether the envelopes are the same thing.`
 ` ......Because envelopes can be sealed with wax over and over!`
 ` The key inside should be the important thing."`
@@ -749,7 +749,7 @@
 `...............how...`
 `............!`
 ` How.........`
-`c‐`
+`c-`
 `......could I.........`
 `to a lowly human.........!!"`
 `"I'll keep on saying it, {f:5:Beatrice}!!!"`

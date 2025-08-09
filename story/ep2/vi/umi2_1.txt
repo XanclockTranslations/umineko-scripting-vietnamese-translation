@@ -28,7 +28,7 @@
 `"People who don't get this will spend the rest of their lives with rocks for brains, totally unable to absorb knowledge.`
 ` They might get full marks in math and language, but they'll be useless for their company!"`
 `"Mmhm, that is exactly right.`
-` Hideyoshi‐san, your education policy is always truly excellent."`
+` Hideyoshi-san, your education policy is always truly excellent."`
 `"You're not a full man yet, George!`
 ` Always keep that in mind, and embrace your studies."`
 `"Oh, stop that, honey.`
@@ -55,11 +55,11 @@
 `"......Haah...`
 ` My headache is truly trying today."`
 `"Are you alright?`
-` Aunt Natsuhi, your face looks off‐color."`
+` Aunt Natsuhi, your face looks off-color."`
 `"Thank you, I am all right.`
 ` ......But time really has flown.`
-` It feels like just yesterday when you would run around half‐naked by the beach and come back soaked."`
-`"Wasn't Jessica‐chan the same?`
+` It feels like just yesterday when you would run around half-naked by the beach and come back soaked."`
+`"Wasn't Jessica-chan the same?`
 ` And now she's a lady who fusses over how to put on makeup.`
 ` You really are particular about your eyebrows... You look really cute today."`
 `"Thank you very much.`
@@ -67,9 +67,9 @@
 `A full smile rose to Jessica's face as the results of her own "studies" were finally noticed.`
 `Eva smiled back just as widely.`
 `{n}...Then, she turned that smile towards Natsuhi.`
-`"Come on, Natsuhi nee‐san!`
+`"Come on, Natsuhi nee-san!`
 ` You must take notice of small changes in your own child.`
-` Poor Jessica‐chan.`
+` Poor Jessica-chan.`
 ` She must have wanted her mother to notice first, su~rely?"`
 `"It's fine, it's fine.`
 ` She never notices anything like that."`
@@ -89,14 +89,14 @@
 `Jessica, making to leave the parlor in a bad mood, and Shannon, pushing a serving cart loaded with tea, bumped into each other.`
 `"Ah, Shannon. Don't bother with my tea.`
 ` I'm just going to wander around the garden."`
-`"...Mi‐Milady..."`
+`"...Mi-Milady..."`
 `"Shannon, the tea is getting cold.`
 ` Serve it quickly."`
 `"My, my apologies..."`
 `Shannon hadn't actually done anything wrong,`
 ` but Natsuhi, who felt like some shame to herself had been shown, lashed out at her emotionally.`
 `...This was something that often happened in the Ushiromiya family.`
-`{n}But it seemed that Shannon wasn't strong‐willed enough to accept it that way.`
+`{n}But it seemed that Shannon wasn't strong-willed enough to accept it that way.`
 `She shrunk back, and nervously prepared the black tea.`
 `She had the unfortunate habit of making more mistakes when she felt intimidated.`
 `Her pitiful appearance dispersed the peaceful atmosphere that had been there until just a moment ago.`
@@ -119,11 +119,11 @@
 ` It probably is Earl Grey.`
 ` When you get back to the kitchen, check the can."`
 `"Hoh.`
-` George‐kun, are you knowledgeable about black tea?"`
+` George-kun, are you knowledgeable about black tea?"`
 `"I'm currently in the service of a company president who knows a lot about black tea.`
 ` After enough time listening to his expositions, I picked up a little of it."`
 `"Oh yeah, the president of Okonogi Foods.`
-` That sort of in‐depth knowledge is his specialty!"`
+` That sort of in-depth knowledge is his specialty!"`
 `"The names of tea often refer to the place where it's made, right?`
 ` So is this something cultivated from a place called Earl Grey?"`
 `"I have heard that long ago in England, there was an earl called Grey, and it was named after him."`
@@ -135,13 +135,13 @@
 ` With luxuries, you've gotta appreciate the romance.`
 ` Knowledge like this deepens the taste."`
 `"It's the same with the advertising on medicine.`
-` Natsuhi nee‐san, you should try reading the explanation on your favorite headache medicine someday.`
+` Natsuhi nee-san, you should try reading the explanation on your favorite headache medicine someday.`
 ` *giggle*giggle*giggle*giggle*."`
 `"Hahahaha!`
 ` A fine idea.`
 ` Try it tonight."`
 `"...Yes, I shall."`
-`"Shannon‐chan, open that pot and have a look.`
+`"Shannon-chan, open that pot and have a look.`
 ` You should be able to find some dried bergamot mixed in with the tea leaves."`
 `"Ah, ......yes.`
 ` It is in there.`
@@ -156,7 +156,7 @@
 ` Thank you very much..."`
 `George gave her a small wink.`
 `Shannon finally realized that George had been doing her a favor by calming down the atmosphere in the room.`
-` And he had been doing it for her sake as she had lost her self‐confidence.`
+` And he had been doing it for her sake as she had lost her self-confidence.`
 `The Ushiromiya family did not pamper their servants.`
 `{n}So if there was any awkwardness, they would be harshly punished.`
 `So it didn't often happen that they were given a helping hand like this.`
@@ -166,12 +166,12 @@
 ` the room was completely back to how it had been, in a peaceful mood, as everyone praised George's knowledge.`
 `Shannon wanted to thank him for saving her, but it didn't look like she would get the chance.`
 `So she at least thanked him inside her heart, praying to God that George would hear it, and pushed the serving cart away.`
-`"George nii‐san has always lent a helping hand in times like that.`
+`"George nii-san has always lent a helping hand in times like that.`
 ` By changing the topic or something."`
 `Shannon and Jessica could be seen in the rose garden.`
 `Jessica, having gotten into a fight with her mother, now felt unable to simply nonchalantly wander back into the parlor, and so found herself here, killing time.`
 `"......When I think back on it, I feel that maybe this wasn't the first time he has helped me like that."`
-`Whenever I made a careless mistake, and George‐sama was there,`
+`Whenever I made a careless mistake, and George-sama was there,`
 ` he would always naturally smooth things over and make things harmonious, I think.`
 `...Maybe it wasn't something as direct as picking up a fork that had been dropped.`
 `But that was his way of caring.`
@@ -179,18 +179,18 @@
 ` They want to fix their own mistakes by themselves.`
 `...Because if a guest helped them out with that, they would lose face.`
 `"He's really good at reading between the lines in those kinds of situations.`
-` Well, maybe that's George nii‐san's aesthetic take on things.`
-` That guy's more of a show‐off than he looks.`
+` Well, maybe that's George nii-san's aesthetic take on things.`
+` That guy's more of a show-off than he looks.`
 ` Ahahahahaha."`
-`"Tha‐that's not true...`
+`"Tha-that's not true...`
 ` ...I think he is a really wonderful person."`
 `"Hmmmm...?!`
-` ......Shannon, you haven't fallen in love with George nii‐san, have you?"`
+` ......Shannon, you haven't fallen in love with George nii-san, have you?"`
 `Shannon had refuted Jessica's words uncharacteristically forcefully, so Jessica caught on immediately.`
 `"No, ...that's not it, I...think......"`
-`"Come to think of it, I've never heard any of that kind of gossip about George nii‐san.`
+`"Come to think of it, I've never heard any of that kind of gossip about George nii-san.`
 ` Wait...`
-` Actually, didn't I hear him say that family‐oriented girls were his type?`
+` Actually, didn't I hear him say that family-oriented girls were his type?`
 ` Nice, that fits you perfectly, Shannon!"`
 `"It, it, it does...?!`
 ` I don't—`
@@ -227,7 +227,7 @@
 `Of course, this was not money to lend because they had gotten themselves into financial trouble.`
 `{n}...How would they expand their business, using the vast amount of money that they borrowed?`
 `How much interest would be attached, and how soon could it be repaid?`
-`This wasn't a loan for the have‐nots.`
+`This wasn't a loan for the have-nots.`
 `{n}It was a loan for those who were on the offense.`
 `Kinzo judged strictly whether it was worth lending out his fortune, and afterwards, he strictly oversaw its use.`
 `So there was occasionally this spectacle where relatives visited Rokkenjima and explained their business to Kinzo.`
@@ -244,11 +244,11 @@
 `"......Really, I would have liked to watch alongside and learn.`
 ` But Mother chased me out.`
 ` I'm a little let down."`
-`"......It seems that the Master still scolds Krauss‐sama and Eva‐sama in just the same way he did when they were kids.`
+`"......It seems that the Master still scolds Krauss-sama and Eva-sama in just the same way he did when they were kids.`
 ` I'm sure she didn't want to show that to you, her son."`
 `As Shannon hung her head, she thought back on those scenes she had grown used to seeing while working in the mansion.`
 `Even Krauss, who acted haughtily towards his siblings, was still treated like a child by Kinzo.`
-`...Shannon herself had often seen Kinzo slapping Krauss, or making him sit in {c:86EF9C:{i:seiza}}‐style.`
+`...Shannon herself had often seen Kinzo slapping Krauss, or making him sit in {c:86EF9C:{i:seiza}}-style.`
 `......It was probably deeply humiliating to have that forced upon him at his age.`
 `In the Ushiromiya family, taking care not to be present when this happened was one of the great tasks of the servants.`
 `...Of course, that did mean that Shannon had been making mistakes by being witness to it.`
@@ -289,10 +289,10 @@
 `It seemed that George's response had been more or less predictable to Jessica.`
 ` She burst out laughing uncontrollably.`
 `"Seeee?`
-` This is it, isn't he a show‐off?"`
-`"N‐no...`
+` This is it, isn't he a show-off?"`
+`"N-no...`
 ` I don't think that's......"`
-`Jessica made fun of Shannon as she remained silent, red‐faced.`
+`Jessica made fun of Shannon as she remained silent, red-faced.`
 `{n}George didn't know the details, but he naturally joined in, laughing the same way.`
 `The three of them lazily walked around the garden, talking about what was new.`
 `George, as the oldest cousin, talked about his life experiences.`
@@ -319,12 +319,12 @@
 `...But Jessica didn't miss that slight change in Shannon.`
 `So she turned the discussion around to the topic Shannon wanted to hear about most.`
 `"......Oh yeah, come to think of it!`
-` George nii‐san, did you finally get a girlfriend yet or what?"`
-`"Wha‐what is this, out of the blue..."`
+` George nii-san, did you finally get a girlfriend yet or what?"`
+`"Wha-what is this, out of the blue..."`
 `Normally, just George's reaction would have been answer enough.`
 `But for some reason, as she was now, Shannon found herself unable to understand it unless he said it clearly.`
 `"Um, ...umm...`
-` George‐sama is very nice,`
+` George-sama is very nice,`
 ` ......so I'm sure...`
 `umm......he must be very popular with the girls......"`
 `"No, err, ...hahahahahahahahahaha."`
@@ -338,28 +338,28 @@
 ` And I can't speak wittily in a way that can entertain a girl."`
 `"I, I don't think that's true.`
 ` ......And...I think that a man's charm is decided by things you can't measure on the outside.`
-` Tha‐that's why, umm,`
-` ......I think that you might be a, um, ...very charming man, George‐sama..."`
+` Tha-that's why, umm,`
+` ......I think that you might be a, um, ...very charming man, George-sama..."`
 `Shannon was uncharacteristically verbose.`
 `{n}Compared to her normal self, she was being very wordy indeed.`
 `George looked fairly pleased about hearing his own charm described, but he was just a little surprised at this high praise.`
 `Jessica, sure now that her own imagination was right on, acted as though she could barely hold back her laughter.`
-`"Thank you, Shannon‐chan.`
+`"Thank you, Shannon-chan.`
 ` I hope I soon run into a girl gracious enough to find me attractive."`
 `"Yes, I'm sure you will.`
 ` ......I'm sure there's a girl not—`
 `I mean, a, a, a lot of girls who will recognize your real charm."`
 `She probably wanted to say "there's a girl not very far away".`
 `...She avoided saying that much, drawing a final line as a servant.`
-`"Re‐......really.`
+`"Re-......really.`
 ` ...I guess I'm kind of...embarrassed..."`
 `Maybe he had never been praised this much by a girl.`
 `{n}George's face turned just as bright red as Shannon's.`
 `As she watched the two of them, Jessica giggled sadistically.`
-`"Well, I'm sure you'll eventually find a wonderful partner, George nii‐san.`
+`"Well, I'm sure you'll eventually find a wonderful partner, George nii-san.`
 ` But I don't think you'll be able to escort your partner as you are now, riiiight?`
 ` Your Braininess may be a diligent worker, but it looks like you're totally clueless when it comes to {i:that} aspect of your studies."`
-`"...E‐excuse me for being ignorant.`
+`"...E-excuse me for being ignorant.`
 ` I'll start studying that bit by bit."`
 `"How would you do that by yourself?`
 ` Are you gonna watch movies about love?`
@@ -371,13 +371,13 @@
 `Normally, when George and Jessica got together, their parents would say "George is diligent and admirable", and "Jessica is lazy and rude".`
 `So it was probably irresistible fun for Jessica when their roles were finally reversed.`
 `George also realized that, so this time, he was content with being the one who was teased.`
-`"Then, George nii‐san, as long as you're okay with it, why not practice a bit with Shannon?`
+`"Then, George nii-san, as long as you're okay with it, why not practice a bit with Shannon?`
 ` Keep Shannon entertained all day long on a date!`
 ` What do you think?!"`
-`"Wh‐wha‐what are you...!`
-` Mi‐Milady...!"`
+`"Wh-wha-what are you...!`
+` Mi-Milady...!"`
 `When she heard Jessica's audacious plan, Shannon's face turned bright red, and a donut of smoke rose from it with a "poof".`
-`"Tha‐that's a very attractive plan, but...I'd feel bad for Shannon‐chan.`
+`"Tha-that's a very attractive plan, but...I'd feel bad for Shannon-chan.`
 ` I wouldn't just be wasting her precious day off,`
 ` I'd also be butting in on the ideal moment when she'd be able to be alone with someone she really has feelings for.`
 ` I couldn't do something so boorish."`
@@ -387,8 +387,8 @@
 `Shannon's blood had all rushed to her head, and it looked like even she didn't know what she was babbling about.`
 `Jessica, who knew how Shannon normally was, seemed to find that really comical.`
 `She couldn't hide her cackling laugh anymore.`
-`"...I‐is that true...?`
-` I can't believe that a cute girl like you would be single, Shannon‐chan..."`
+`"...I-is that true...?`
+` I can't believe that a cute girl like you would be single, Shannon-chan..."`
 `"I, I, I,`
 ` ...I'm a servant, so, umm,`
 ` ......I don't have any opportunities to meet boys, and, umm..."`
@@ -397,15 +397,15 @@
 ` So you each want the same thing.`
 ` Alright, that'll work nice, *cackle*!"`
 `Jessica irresponsibly cheered the two of them on.`
-`{n}Now, George was also hanging his head, red‐faced.`
+`{n}Now, George was also hanging his head, red-faced.`
 `"George, I've been calling for you.`
 ` Couldn't you hear me?"`
 `Since Eva appeared in what was already an embarrassing situation, both of them became even more flustered.`
 ` Jessica was in stitches.`
-`"Ah, M‐M‐Mother...!`
+`"Ah, M-M-Mother...!`
 ` Sorry, our conversation got complicated.`
 ` I didn't notice...!"`
-`"Oh, Eva‐sama... My deepest apologies..."`
+`"Oh, Eva-sama... My deepest apologies..."`
 `"It sounds like you young kids were getting really excited.`
 ` You're all about that age.`
 ` I remember well what that's like—you must have no end of things like that to talk about.`
@@ -416,7 +416,7 @@
 ` *giggle*giggle*giggle*.`
 ` You're all so young.`
 ` *giggle*giggle*giggle*."`
-`"S‐so, what is it, Mother?`
+`"S-so, what is it, Mother?`
 ` You called because you wanted something, right?"`
 `"Your father and the rest have finished talking.`
 ` We're going to talk to Grandfather about you, so come on."`
@@ -427,15 +427,15 @@
 `"Oh, ...oh, that topic.`
 ` That isn't really something we need to talk to Grandfather about, is it...?"`
 `"What are you talking about?`
-` Wait, George nii‐san, you aren't getting married to someone?!"`
-`"Con‐...congratulations...!"`
+` Wait, George nii-san, you aren't getting married to someone?!"`
+`"Con-...congratulations...!"`
 `"No, no...!`
 ` Didn't I just say I don't have a special woman?"`
 `"That isn't something to brag about, is it?`
 ` ...Seriously."`
 `Eva smiled bitterly, looking a little exasperated.`
 `"...Ah, ...I got it!`
-` George nii‐san, it's one of those, right? A marriage meeting!"`
+` George nii-san, it's one of those, right? A marriage meeting!"`
 `"A marriage meeting...?"`
 `"......nn, ......well, yeah.`
 ` ......Hahahaha..."`
@@ -456,7 +456,7 @@
 ` *cackle*!"`
 `"I love him, you know.`
 ` I want to always be with him, and to live my life by his side."`
-`"......Eva‐sama, that's wonderful.`
+`"......Eva-sama, that's wonderful.`
 ` Truly splendid..."`
 `"Thank you.`
 ` But we built up those feelings while we were husband and wife, you see?`
@@ -468,10 +468,10 @@
 ` But your life as a married couple after that is very, very long."`
 `"So you should search with prudence, and not leave it up to momentary emotions.`
 ` And don't you think that your mother and the rest of us would be better at that than a person inexperienced in life like yourself?"`
-`"......Tha‐that may be true, but..."`
+`"......Tha-that may be true, but..."`
 `"You are my pride and joy—my only son.`
 ` You have grown into a fine man who could match up to anyone.`
-` ...And with Battler‐kun leaving the register, you are the only grandson to carry Father's blood.`
+` ...And with Battler-kun leaving the register, you are the only grandson to carry Father's blood.`
 ` ......We must prudently choose a fitting partner for you."`
 `As everyone related to the Ushiromiya family knew, Eva adored George so much that he was the apple of her eye.`
 `But that didn't mean she had pampered him.`
@@ -491,27 +491,27 @@
 ` See you later."`
 `George bowed to the two of them, ...and after bowing once more to Shannon, he dashed off to the mansion.`
 `"I'll be going as well, then.`
-` Sorry for cutting your fun conversation short, Jessica‐chan, Shannon‐chan."`
+` Sorry for cutting your fun conversation short, Jessica-chan, Shannon-chan."`
 `"Ah, no no.`
 ` Please don't worry about it.`
 ` Come on, Shannon.`
 ` Let's go."`
-`"Ye‐yes...!"`
+`"Ye-yes...!"`
 `"It's alright.`
-` I'm sure you'll meet someone wonderful soon too, Jessica‐chan.`
+` I'm sure you'll meet someone wonderful soon too, Jessica-chan.`
 ` A wonderful person suitable for you."`
 `"So if he's at the same level as me, hahaha, you mean a guy with bad grades?`
 ` Well that kinda frickin' sucks, hahaha!"`
-`"And of course, you too, Shannon‐chan.`
+`"And of course, you too, Shannon-chan.`
 ` I'm sure that a wonderful man suitable for you will appear."`
-`"Ye‐yes!!`
+`"Ye-yes!!`
 ` Thank you very much..."`
 `As Eva giggled and smiled, she approached Shannon's ear with a hand over her mouth, as though she was trying to tell her a secret.`
 `".........Huh?"`
 `"I'm sure you'll find a perfect match for a lowly servant like yourself.`
 ` ......Have you forgotten to be grateful for your schooling?`
 ` Know your place."`
-`".........Th‐...that's not what I... ...I didn't..."`
+`".........Th-...that's not what I... ...I didn't..."`
 `"George is the eldest grandson carrying Father's blood.`
 ` He's a person who may bear the burden of the Ushiromiya family someday in the future."`
 `"To answer that expectation, he has studied tirelessly, entered a wonderful college, and is getting wonderful grades.`
@@ -528,7 +528,7 @@
 ` I'm sure that you'll find a partner just "perfect" for you.`
 ` Right?`
 ` *giggle*giggle*giggle*giggle*.`
-` ...Alright, Jessica‐chan.`
+` ...Alright, Jessica-chan.`
 ` See you later."`
 `"Yeah, see you later!`
 ` And then, please tell me some stories about you and Uncle Hideyoshi~~!!"`
@@ -546,12 +546,12 @@
 `Even if people develop affection for furniture that they're used to using,`
 ` that is an emotion on the human's side, and the furniture has no right to hope for that.`
 `......They should just serve with simple honesty every day.`
-`But that feeling I felt when talking with George‐sama and Jessica‐sama...is a forbidden drug for me.`
+`But that feeling I felt when talking with George-sama and Jessica-sama...is a forbidden drug for me.`
 `In other words, it may have been an emotion I must not know.`
 `"......Shannon.`
 ` You have been too distracted for a while now.`
 ` Are you feeling ill?"`
-`"N‐no.`
+`"N-no.`
 ` My apologies..."`
 `Natsuhi's words "too distracted" were right on the mark.`
 `...Even Shannon couldn't believe that she hadn't noticed Natsuhi until she had been called.`
@@ -587,7 +587,7 @@
 ` Of course, you will finish today.`
 ` Until you finish and report to me, you will not be permitted any food or rest.`
 ` Understood?"`
-`"Ye‐.........yes, Madam."`
+`"Ye-.........yes, Madam."`
 `"That is good.`
 ` Servants should endeavor to use only those words.`
 ` The next time you talk back, I will give you an even more severe punishment, so keep that in mind.`
@@ -604,7 +604,7 @@
 `Not only was I unable to perform a single bit of cleaning well,`
 `{n}but just now, when Natsuhi was scolding me...`
 `.........I was envisioning him appearing and rescuing me.`
-`If only George‐sama had been here,`
+`If only George-sama had been here,`
 `{n}perhaps he would have casually stepped in and saved me.`
 `I'm sure he would show up cheerfully, intentionally acting like he doesn't know what's going on, nimbly change the subject, and make me forget I was ever reprimanded by Natsuhi...`
 `I kept envisioning him...`
@@ -614,10 +614,10 @@
 `And I envisioned how unfitting I am for him.`
 `Eva had told me that clearly.`
 `{n}It had repeated endlessly through my dreams...`
-`".........You're still as clumsy as always, Nee‐san.`
+`".........You're still as clumsy as always, Nee-san.`
 ` Madam has been in a bad mood since this morning.`
 ` You spoke out of turn when you should have hung your head in silence."`
-`"......Kanon‐kun..."`
+`"......Kanon-kun..."`
 `Kanon was suddenly there.`
 `{n}......His footsteps were always quieter than a cat's, and he left no trace of his presence.`
 `She probably wouldn't have noticed him no matter how long he stood there...`
@@ -630,18 +630,18 @@
 `".........She wasn't cleaning in any real sense of the word.`
 ` ...She's just the worst kind of parasite, leeching off of your thorough work."`
 `"You mustn't use such dirty words...`
-` Dirty words pollute your clean soul, Kanon‐kun.`
+` Dirty words pollute your clean soul, Kanon-kun.`
 ` So don't use those words in front of me at least.`
 ` ......Alright?"`
 `"............Hmph."`
 `Kanon faced away, acting sulky.`
-`It was a dishonest reaction, very like Kanon‐kun, ...but I was a little happy.`
+`It was a dishonest reaction, very like Kanon-kun, ...but I was a little happy.`
 `He got angry in my place.`
 `"......Cleaning the reception hall will be tough.`
 ` I'll help."`
 `"Thank you.`
 ` But I was the one Madam ordered, so don't worry.`
-` ......Don't you also have your own work, Kanon‐kun?"`
+` ......Don't you also have your own work, Kanon-kun?"`
 `"...............It's a filthy job.`
 ` My soul was corrupted long ago."`
 `Kanon then hung his head, and bit his lower lip...`
@@ -655,15 +655,15 @@
 ` but he realized that in the end, going too far would also cause her pain, and he gave a single, small sigh.`
 `"............`
 ` ...Fine.`
-` ......Do your best, Nee‐san."`
+` ......Do your best, Nee-san."`
 `"Yes.`
 ` .........Besides, I am also partly to blame."`
-`"You aren't at fault at all, Nee‐san...!"`
+`"You aren't at fault at all, Nee-san...!"`
 `"...No.`
 ` I am.`
 ` ......So go now."`
-`Kanon‐kun's face showed that he still hadn't completely accepted it, but he stopped being persistent, and disappeared.`
-`......Even though Kanon‐kun had given me words of comfort when I was down...`
+`Kanon-kun's face showed that he still hadn't completely accepted it, but he stopped being persistent, and disappeared.`
+`......Even though Kanon-kun had given me words of comfort when I was down...`
 `...Even so, I was still dejected because it hadn't been "him".`
 `{n}That was, simply, a sin.`
 `Far beyond any dream the likes of me could be permitted to see—know your place.`
@@ -700,10 +700,10 @@
 `Of course, the witch didn't answer.`
 `{n}She never consoled, and she never laughed it off.`
 `{n}......Shannon could only interpret that silence as she liked, as though the witch was at least listening attentively.`
-`...{f:5:Beatrice}‐sama.`
+`...{f:5:Beatrice}-sama.`
 `......Please listen to me, worthless as I am.`
 `As Shannon wiped the dust from the witch's portrait, she spoke inside her heart.`
-`.........Just as Eva‐sama says, I truly am incompetent and uncultured furniture.`
+`.........Just as Eva-sama says, I truly am incompetent and uncultured furniture.`
 `......I am not a person.`
 `...So maybe I have no right to love...`
 `......But in that case, why was I given a heart which can know love?`
@@ -735,8 +735,8 @@
 ` Do you know what it is......?"`
 `"...............e...`
 `.........a...`
-`.........wh‐`
-`............wh‐who........."`
+`.........wh-`
+`............wh-who........."`
 `Shannon fearfully turned around...`
 `Right there, ......she "existed".`
 `Not as an illusion—in reality.`
@@ -756,7 +756,7 @@
 `But without saying anything, ...Shannon knew this person's name, so she refrained.`
 `No, ......surely, as a person of this island, asking this person for her name would be the greatest disrespect.`
 `Because...she was the other master of this island in addition to Kinzo.`
-`"B‐.........{f:5:Beatrice}‐sama..............."`
+`"B-.........{f:5:Beatrice}-sama..............."`
 `"Indeed.`
 ` I am {f:5:Beatrice}.`
 ` .........The face people make when they first see me hasn't changed after one thousand years.`
@@ -945,12 +945,12 @@
 `"To answer that expectation, he has studied tirelessly, entered a wonderful college, and is getting wonderful grades.`
 ` Do you reeeally think you're in his league, you incompetent, unqualified, uncultured seeerrrrvant?"`
 `"*giggle*giggle*, *cackle*cackle*cackle*ahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!!"`
-`"Sto‐............stop it, don't bully Shannon!!`
+`"Sto-............stop it, don't bully Shannon!!`
 ` Who the hell are you?!!"`
 `At that time, as Shannon held her head, trying to protect her heart from the blade of {f:5:Beatrice}'s words, Kanon ran in front of her.`
 `Kanon didn't care who this woman was.`
 `{n}As long as he knew she was an enemy tormenting Shannon, who he loved and respected as a sister, nothing else mattered.`
-`".........Kanon‐kun—`
+`".........Kanon-kun—`
 `stay back...!`
 ` This person is......!"`
 `"................................."`
@@ -975,8 +975,8 @@
 `Even though they couldn't comprehend what it was, they immediately realized it to be something terrifying...`
 `If you were swimming in the ocean, and something large went by in the water beneath you, you would want to escape to the land even before you learned what it was.`
 ` ...This was the same as that!`
-`"Ple‐......please stop, {f:5:Beatrice}‐sama!!`
-` Kanon‐kun is still a child.`
+`"Ple-......please stop, {f:5:Beatrice}-sama!!`
+` Kanon-kun is still a child.`
 ` I apologize for his language!"`
 `"..........................."`
 `"........................!"`
@@ -1002,12 +1002,12 @@
 `It was a strange sensation, as though only their left hands had become someone else's.`
 `It felt like their left hands alone had become puppets,`
 ` pulled by strings hanging down from the ceiling.`
-`"Wh‐what......`
+`"Wh-what......`
 `do you think you're doing...?!"`
 `Kanon resisted, but he couldn't take back the freedom of his left hand.`
 `"Don't struggle.`
 ` It will not take long."`
-`{f:5:Beatrice} held her pipe aloft, and from inside the smoke, gold‐colored sparkling dust hovered in the air.`
+`{f:5:Beatrice} held her pipe aloft, and from inside the smoke, gold-colored sparkling dust hovered in the air.`
 `......That glitter eventually became several gold butterflies.`
 `The beautiful butterflies danced freely throughout the reception hall, creating a fantastical and beautiful world.`
 `...And two of those butterflies alighted on the palms of Shannon's and Kanon's hands.`
@@ -1019,7 +1019,7 @@
 ` What is......"`
 `On the palm of her hand, a small burn mark had been made, the size of a pea.`
 `...Furthermore, it was shaped like a butterfly...`
-`"Wha‐...what is this supposed to be..."`
+`"Wha-...what is this supposed to be..."`
 `Apparently, Kanon had the same bruise on his hand.`
 ` He stared at the witch hatefully.`
 `"It is a simple greeting.`

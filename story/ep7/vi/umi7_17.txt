@@ -240,7 +240,7 @@
 `"................................."`
 `".........You......"`
 `"......Did you reach this place by your power alone?"`
-`"I‐......indeed..."`
+`"I-......indeed..."`
 `"................................."`
 `For some time, Genji stared at Beato in silence, as though he was calculating something.`
 `Then, he slowly clapped his hands together.`
@@ -256,7 +256,7 @@
 `I didn't really understand what Genji was saying.`
 `The shock of seeing the gold still had me paralyzed...`
 `"......Come this way."`
-`"O‐okay......"`
+`"O-okay......"`
 `Genji opened a closet.`
 `Inside it was a dress form wearing a beautiful dress made of black cloth and golden stitching.`
 `When I saw it, I understood immediately.`
@@ -287,7 +287,7 @@
 `"......You will go to the Master.`
 ` Ready yourself."`
 `".........Wait here."`
-`"......O‐...okay."`
+`"......O-...okay."`
 `"My lord.`
 ` It is Genji."`
 `After Genji knocked, the sound of the study's door unlocking could be heard.`
@@ -296,7 +296,7 @@
 ` Fate can be such a strange thing......"`
 `Kumasawa was with us too.`
 `I thought this dress, which didn't really suit me, would lead to a lot of jokes, ......but she didn't laugh at me at all.`
-`On the contrary, when she saw me, ......her expression had turned stern, as though a long‐awaited day had finally come.`
+`On the contrary, when she saw me, ......her expression had turned stern, as though a long-awaited day had finally come.`
 `......My heart raced.`
 `It wasn't supposed to matter who solved the epitaph.`
 ` There shouldn't be anything strange about me solving it......`
@@ -304,18 +304,18 @@
 `The suffocating silence continued.`
 `Eventually, the door opened, and Genji peeked out.`
 `".........Please enter,`
-` .........{f:5:Beatrice}‐sama."`
+` .........{f:5:Beatrice}-sama."`
 `He was saying those words to me, ......but not to the person I had been until a short while ago.`
 `"....................."`
 `"Go ahead,`
-` ......{f:5:Beatrice}‐sama..."`
+` ......{f:5:Beatrice}-sama..."`
 `Kumasawa also urged me forward with a respectful bow.`
 `{n}Kinzo was probably waiting for me inside.`
 `What expression should I wear as I go in...?`
 ` How should I greet him...?`
 `{n}I don't have a clue...`
 `As the two of them motioned me forward, it was all I could do to avoid tripping over my dress as I walked.`
-`".........Kinzo‐san.`
+`".........Kinzo-san.`
 ` She is here."`
 `Kinzo was before the portrait of {f:5:Beatrice}, crouched on the ground as though kneeling.`
 `At Nanjo's words, he slowly turned, still crouching...`
@@ -370,7 +370,7 @@
 ` ......By her own power, without anyone's help,`
 ` ......she solved the epitaph before anyone else."`
 `"You did well.........to solve that convoluted epitaph......"`
-`"Th‐.........thanks......"`
+`"Th-.........thanks......"`
 `"......Yes.`
 ` ......Your voice resembles your mother's.`
 ` Even your face reminds me of that mother and daughter......`
@@ -378,17 +378,17 @@
 `"Yes.`
 ` ......The traces of the lady of Kuwadorian in her youth are right there."`
 `Who......are they saying I look like......?`
-`"......{f:5:Beatrice}‐sama,`
+`"......{f:5:Beatrice}-sama,`
 ` please forgive me for keeping what I am about to tell you a secret for all this time.`
-` You are the child of {f:5:Beatrice}‐sama and the Master."`
+` You are the child of {f:5:Beatrice}-sama and the Master."`
 `"........................What......?"`
 `"It's true.`
 ` ......You have been raised as a child without parents.`
 ` However, your true father is the Master.`
-` And your true mother......is {f:5:Beatrice}‐sama."`
+` And your true mother......is {f:5:Beatrice}-sama."`
 `"......Is that, ......umm, ......really............?"`
 `"Yes.`
-` You truly are a descendant of {f:5:Beatrice}‐sama."`
+` You truly are a descendant of {f:5:Beatrice}-sama."`
 `Is such a strange fate.........really possible......?`
 `I've dreamed about it.`
 ` Dreamed about what it'd be like to be the Golden Witch, {f:5:Beatrice}.`
@@ -426,7 +426,7 @@
 ` I will now return to you everything that {f:5:Beatrice} gave me.`
 ` ......I return to you the gold, as well as everything of the Ushiromiya family, which was created by it."`
 `Kinzo stuck out a wrinkled hand.`
-`On his finger was a ring with the One‐winged Eagle crest, which was the symbol of the Ushiromiya family head.`
+`On his finger was a ring with the One-winged Eagle crest, which was the symbol of the Ushiromiya family head.`
 `He pulled it off, grasped it tightly, and then held it out to me.`
 `......I didn't know what to do.`
 `Slowly, as though they were being drawn forward, ......I held out my hands, palms up.`
@@ -439,10 +439,10 @@
 ` I ask that you use it as you please, and hope that it will be enough to heal some small part of the pain you have suffered...`
 ` That trifling amount of gold may be nothing in comparison with the sin I committed,`
 ` .........but even so, it should be enough to bring you some comfort."`
-`"Th‐.........thank...you........."`
+`"Th-.........thank...you........."`
 `".........Lion.`
 ` .........I have one.........final request."`
-`"Wh‐......what is that.........?"`
+`"Wh-......what is that.........?"`
 `"Could you..................`
 `.........call me........."`
 `"......Huh? ......Sorry, what did you say......?"`
@@ -462,7 +462,7 @@
 `Only God can truly forgive sins.`
 `But, ......though it may be temporary,`
 ` people can be saved by the forgiveness of others.`
-`".........F‐....................."`
+`".........F-....................."`
 `"........................"`
 `"..................`
 ` .........Fath......er............"`
@@ -488,9 +488,9 @@
 `...like a puppet with its strings cut...`
 `............and slowly...`
 `......fell to the ground.........`
-`"......M‐.........my lord......"`
+`"......M-.........my lord......"`
 `"Doctor Nanjo......"`
-`"Y‐......yes........."`
+`"Y-......yes........."`
 `Though their master had fallen, ......they walked up to him slowly.`
 `They already knew.`
 `{n}Kinzo's soul......had already burned itself out.`
@@ -499,19 +499,19 @@
 ` ......I don't think he had any regrets at all."`
 `"It may be......that the Master died long before now.`
 ` ......It was only his magic and tenacity that kept him here so long.`
-` ......And.........once he finally had a chance to apologize to {f:5:Beatrice}‐sama for everything, .........he finished everything he had to do..."`
+` ......And.........once he finally had a chance to apologize to {f:5:Beatrice}-sama for everything, .........he finished everything he had to do..."`
 `".........Please, ......rest in peace.`
 ` ............I believe that you have redeemed yourself."`
 `".................................Father........."`
 `That was...`
-`...the one‐night reunion...`
+`...the one-night reunion...`
 `...between me and my father...`
 `...and also our final farewell......`
 `".........This gold all belongs to you now.`
 ` ......If you wish to exchange it for money, I can arrange for that."`
 `"I hear it's worth 20 billion yen.`
 ` .........All of your dreams in this world can now be granted with money."`
-`"Hoh‐hoh‐hoh‐ho......`
+`"Hoh-hoh-hoh-ho......`
 ` It must be tough to think of what to do with this much money when it suddenly comes your way."`
 `"............There is nothing I desire among the things money can buy.`
 ` ......So, for the present, I would like to leave this here."`
@@ -544,7 +544,7 @@
 ` It's probably worth taking a trip over there sometime."`
 `"My......mother............"`
 `I've lived alone my whole life.`
-`The only person I've ever felt like calling "Mother" is Kumasawa‐san, who always helped me out.`
+`The only person I've ever felt like calling "Mother" is Kumasawa-san, who always helped me out.`
 `The mansion where a mother I've never met nor seen lived...`
 `.........Who in the world.........am I......?`
 `"Ask any questions you wish.`
@@ -554,35 +554,35 @@
 ` ......But I'm sure......I'll think of plenty of things to ask about.`
 ` ......When I do, please tell me..."`
 `"As you wish."`
-`"A‐......also,`
+`"A-......also,`
 ` ......being treated so respectfully like that...`
 `is a bit uncomfortable.`
 ` I'd be happier if you could talk to me the same way you've always done."`
 `"If that is what you wish, then I will do so."`
-`"Hoh‐hoh‐hoh‐ho.`
+`"Hoh-hoh-hoh-ho.`
 ` That's easier for me too."`
 `".........Well now.`
-` What will we do now, Genji‐san?`
-` ......Kinzo‐san is dead."`
-`"I will tell Krauss‐sama and Madam that he has passed away.`
-` ......Then, we must tell them that Lion‐sama is the official successor to the headship.`
+` What will we do now, Genji-san?`
+` ......Kinzo-san is dead."`
+`"I will tell Krauss-sama and Madam that he has passed away.`
+` ......Then, we must tell them that Lion-sama is the official successor to the headship.`
 ` After all, from this point forth, you are the Ushiromiya family head."`
-`"M‐me as the head? That's......`
-` And isn't Krauss‐sama the successor......?"`
+`"M-me as the head? That's......`
+` And isn't Krauss-sama the successor......?"`
 `"The one who solves the epitaph's riddle is the successor.`
 ` .........There exists a will specifying this.`
 ` .........The Master's final order was that you were to inherit everything."`
-`"P‐please wait...!`
+`"P-please wait...!`
 ` I appreciate the sentiment, ......but I can't do the job of being the successor,`
 ` ......and I can't accept such a big responsibility.`
-` I think it would be better for Krauss‐sama to inherit that role......"`
+` I think it would be better for Krauss-sama to inherit that role......"`
 `".........Are you certain?"`
 `"Today, ......I have learned who I am.`
 ` ......Everyone knows about their parents,`
 ` but I didn't, since the time of my birth.`
 ` ......And here, today, I finally learned the truth.`
 ` ......That alone is enough for me."`
-`If I suddenly became the Ushiromiya family head, how would Krauss‐sama react?`
+`If I suddenly became the Ushiromiya family head, how would Krauss-sama react?`
 ` How angry would Madam be?`
 `I don't want to become the head if it means making them feel like that.`
 `Today, I learned who I am.`
@@ -593,7 +593,7 @@
 ` ......And I am the Golden Witch, {f:5:Beatrice}.`
 ` Knowing that is enough for me.`
 ` ......I don't plan on calling myself the head.`
-` ......Krauss‐sama can take that job."`
+` ......Krauss-sama can take that job."`
 `"Is that your order, as the Ushiromiya family head?"`
 `".........Yes."`
 `".....................`
@@ -613,7 +613,7 @@
 ` Doctor Nanjo.`
 ` That is the wish of the new head."`
 `"......If that's what you want, I have no objections.`
-` Kinzo‐san's will entrusts everything to you.`
+` Kinzo-san's will entrusts everything to you.`
 ` If this is what you want to do, none of us will complain."`
 `"You say "exactly the same as it was",`
 ` ......but do you really mean exactly the same...?`
@@ -626,11 +626,11 @@
 `"As you wish.`
 ` The mechanism leading to this place and the key both belong to you.`
 ` ......And all of us swear to keep the events of this night a secret.`
-` .........Krauss‐sama will be the successor,`
+` .........Krauss-sama will be the successor,`
 ` ......but in my heart, you will be the only true successor."`
 `"......As you have ordered, we will behave the same way we always have, but please order us whenever it suits you.`
 ` You are my only master."`
-`"..................Th‐.........thank you very much..."`
+`"..................Th-.........thank you very much..."`
 `A vast mountain of gold and the ring of the Ushiromiya family head.`
 `{n}The dress of the portrait {f:5:Beatrice}.`
 `And.........I became the true {f:5:Beatrice}, the Golden Witch.`

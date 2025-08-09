@@ -44,7 +44,7 @@
 `I was intimately familiar with that, which is why I couldn't do anything but shake like this and cry...`
 `"I hold no magic to scoop up your fallen tears, princess,`
 ` but if you want magic that will make it possible for you to avoid being scolded by the Master, I might be able to do something."`
-`"R‐really...?"`
+`"R-really...?"`
 `"If you will believe in my power, princess.`
 ` The basis of magic power is the power of belief.`
 ` ......Miracles will only appear before those who strongly believe."`
@@ -81,7 +81,7 @@
 ` But that doesn't mean that I caused the vase to avoid its fate of being broken.`
 ` I did nothing but make the broken vase remember how it was before it broke for the time being.`
 ` Magic power that can repair a broken fate to its original form is at a very high level that even I have yet to reach."`
-`At that time, the high‐pitched scream of a servant could be heard from inside the mansion.`
+`At that time, the high-pitched scream of a servant could be heard from inside the mansion.`
 `When I went to see what had happened,`
 ` ......I noticed that several of the servants had gathered, and were cleaning up the remains of the broken vase.`
 `From what they said, it seemed that a black cat had sneaked in from somewhere, climbed up on the vase, and toppled it over.`
@@ -132,7 +132,7 @@
 ` ......In other words, it is eternal bliss...`
 `"I wonder......if I could become a witch like you, and gain eternal happiness."`
 `"You, princess...?`
-` Hoh‐hoh‐ho... That would be a long, long, difficult path, you know?"`
+` Hoh-hoh-ho... That would be a long, long, difficult path, you know?"`
 `"I want to be a witch.`
 ` ......I want to be happy.`
 ` I want to be your disciple."`
@@ -187,17 +187,17 @@
 `Some painfully shrill laughter could be heard.`
 `It was from my furniture.`
 ` ...Did they break their toy again?`
-`"{f:5:Beatrice}‐samaaa.`
+`"{f:5:Beatrice}-samaaa.`
 ` This guy's stopped moving agaaain."`
 `"Even though I haven't played enough at all.`
 ` What a pathetic man."`
 `"I hadn't even played at alllll!`
 ` Let me play, let me playyyy!"`
 `"Be silent, you filth!`
-` No matter how well {f:5:Beatrice}‐sama fixes him, he just breaks right away, because you all devour him like starving dogs."`
-`"You broke him the most, Satan‐nee.`
+` No matter how well {f:5:Beatrice}-sama fixes him, he just breaks right away, because you all devour him like starving dogs."`
+`"You broke him the most, Satan-nee.`
 ` 'Cause you don't know restraint."`
-`"My apologies, {f:5:Beatrice}‐sama.`
+`"My apologies, {f:5:Beatrice}-sama.`
 ` Please forgive my cretinous younger sisters."`
 `"Fix him quicklyyy!`
 ` I'm next, I'm neeext!"`
@@ -258,7 +258,7 @@
 `"Didn't I say you're done, you're done, I'm next!`
 ` Back off, waaah!"`
 `"Huhuhuhuhu.`
-` Wonderful, isn't it, Battler‐kuuun?`
+` Wonderful, isn't it, Battler-kuuun?`
 ` You're so popular, aren't you?"`
 `"It's hard being a popular guy.`
 ` Get in line, you beasts."`
@@ -268,9 +268,9 @@
 `"Alright, let's not break him easily this time.`
 ` Well?! Do you hear me?!"`
 `"You aren't in control!"`
-`"So, Battler‐kun.`
+`"So, Battler-kun.`
 ` Let's continue where we left off, alright?`
-` After locking Jessica‐chan's room with the master key, how did they return the key to the pocket of the corpse which was inside the room?"`
+` After locking Jessica-chan's room with the master key, how did they return the key to the pocket of the corpse which was inside the room?"`
 `"......For example...`
 ` ...That's it, they used a fishing line or something, and just the key went back into the room through the crack of the door..."`
 `"Kyahhahahahahahaha!!`
@@ -289,7 +289,7 @@
 `"Ga...gagah......!!"`
 `"Why, why, let me do it too, let me strike too!`
 ` Waaah!!"`
-`"You're just slow, Levia‐nee, "you snooze you lose" has always been how we've done things!`
+`"You're just slow, Levia-nee, "you snooze you lose" has always been how we've done things!`
 ` Then, I'll take the top of his foot!"`
 `"Ugwaahh......!!"`
 `"Waaah!!`
@@ -312,7 +312,7 @@
 ` Even now, he really wants to kneel down on the ground pitifully and beg our forgiveness!"`
 `"Ugaah, guahgehgehgyahh...!!"`
 `"Aahhhh, he's broken already!`
-` {f:5:Beatrice}‐samaaa!"`
+` {f:5:Beatrice}-samaaa!"`
 `"......Dear me.`
 ` Since they know that I can revive him over and over, my pieces of furniture don't even hesitate to break him.`
 ` How troublesome."`

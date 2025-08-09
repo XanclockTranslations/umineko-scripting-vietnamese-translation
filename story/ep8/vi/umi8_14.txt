@@ -39,7 +39,7 @@
 `{n}And, first and foremost, here's a woman that I've never seen......`
 `"To start off, let me introduce myself.`
 ` I'm Hachijo Ikuko.`
-` I don't mind if you address me in a friendly manner as Ikuko, or if you prefer to call me Hachijo‐san and keep things more formal."`
+` I don't mind if you address me in a friendly manner as Ikuko, or if you prefer to call me Hachijo-san and keep things more formal."`
 `......Hachijo.........Ikuko.`
 `"The Hachijo family owns a lot of land and is well known in these parts.`
 ` ......Unlike my accomplished brothers, I'm what you might call a little eccentric.`
@@ -78,7 +78,7 @@
 `".........Eighteen..."`
 `"I look like I'm eighteen...?!"`
 `"......I'm............eighteen............"`
-`"O‐oh, so that was your age...!`
+`"O-oh, so that was your age...!`
 ` Well now, I thought you were being a bit too flattering.`
 ` Hahahaha."`
 `When I asked myself how old I was, the number "eighteen" floated into my mind.`
@@ -164,7 +164,7 @@
 `Gradually, my interest shifted from myself to Ikuko.`
 `Hachijo Ikuko.`
 `A very strange woman.`
-`First off, she was apparently the daughter of a very well‐off family, just as she had said.`
+`First off, she was apparently the daughter of a very well-off family, just as she had said.`
 `However, she was considerably eccentric,`
 ` and the "various mischievous incidents" she spoke of had apparently gotten her within an inch of being disowned.`
 `As a result, she had been given this house, and had been ordered to live here quietly and alone.`
@@ -183,7 +183,7 @@
 `With me as the sole exception, it didn't look like she gave them to anyone else to read.`
 `A novelist is someone who writes novels for other people to read.`
 `So, I figured you could hardly call her a novelist when she kept writing novels no one would ever read.`
-`"......Ikuko‐san, why don't you ever show these to anyone?"`
+`"......Ikuko-san, why don't you ever show these to anyone?"`
 `"I show them to you.`
 ` Only the better ones, of course."`
 `"Haven't you ever thought of sending one to some publishing company?`
@@ -192,7 +192,7 @@
 ` I sent one in once, but it was absolutely no good.`
 ` I understand my position.`
 ` This is just an amateur's pastime."`
-`"I don't think "amateur" is a fitting word for someone who's so well‐versed in detective novels from all times and places across the world."`
+`"I don't think "amateur" is a fitting word for someone who's so well-versed in detective novels from all times and places across the world."`
 `"Being a big eater doesn't mean you'll make a good cook.`
 ` Reading every detective novel you can get your hands on provides no guarantee of being a good detective novelist.`
 ` That's how it is.`
@@ -232,7 +232,7 @@
 ` ......Even as I was writing it, I was excited to be the first person in the world who got to read it.`
 ` ......I've never felt that before."`
 `"I just mentioned some ideas.`
-` You're the one who turned them into such a fascinating story, Ikuko‐san."`
+` You're the one who turned them into such a fascinating story, Ikuko-san."`
 `Before I knew it, she had roped me in as well, and I too had dipped my toe into the world of detective novel writing.`
 `......Apparently, the old me had possessed some knowledge of mysteries and detective novels and the like.`
 `And my talent seemed to be of a fairly unorthodox kind.`
@@ -249,7 +249,7 @@
 ` Let's celebrate."`
 `Ikuko called for some champagne over the internal phone line.`
 `Joined by the servant who happened to be working that day and the cat Bern, we raised our glasses high and toasted our accomplishment.`
-`".........Ikuko‐san.`
+`".........Ikuko-san.`
 ` I have an idea, if you don't mind."`
 `"Let's hear it.`
 ` There is never a wrong time for your ideas, as long as I'm not in the shower or on the can...!"`
@@ -258,25 +258,25 @@
 ` I'm sure lots of other people will want to read it."`
 `"......You think so?`
 ` I tried once in the past, thinking the same thing, but the result was......"`
-`"I believe in your talent, Ikuko‐san.`
+`"I believe in your talent, Ikuko-san.`
 ` ......What about you?"`
 `"Of course, I believe in your talent."`
 `"Then it's decided.`
-` ......To Ikuko‐san's big debut."`
+` ......To Ikuko-san's big debut."`
 `"To Tohya's big debut!"`
 `We clinked our glasses once more.`
 `{n}The evening wore on.........`
 `We must've had way too much to drink.`
 `Before I knew it, I must have passed out on the sofa.`
 `There was a blanket covering me.`
-` ......Ikuko‐san must've put it there.`
+` ......Ikuko-san must've put it there.`
 `The lights were out in the study, but it wasn't dark.`
 `{n}The computer's monitor was glowing.`
 `Outside, it had started to rain.`
-`{n}......It reminded me of the day Ikuko‐san found me and took me in.`
+`{n}......It reminded me of the day Ikuko-san found me and took me in.`
 `Because of that, ......whenever it rains, I find myself wondering who I was, ......and I usually get headaches.`
 `So, I wasn't sure whether the pain was because of the rain or because I drank too much.`
-`"......Ikuko‐san.`
+`"......Ikuko-san.`
 ` Turn on the lights.`
 ` ......Using a computer in the dark is bad for your eyes."`
 `"Oh, did I wake you up?"`
@@ -290,7 +290,7 @@
 `"......I just had them cleaned the other day, so they should be fine for a while."`
 `Her answer sounded a little abstracted.`
 `{n}Apparently, her attention was absorbed by the computer.`
-`"You've been pretty hooked by that computer lately, Ikuko‐san.`
+`"You've been pretty hooked by that computer lately, Ikuko-san.`
 ` Did you find an interesting article or something?"`
 `".........It may be a bit juvenile, but it's still pretty interesting.`
 ` ......You know, that Rokkenjima incident."`
@@ -359,7 +359,7 @@
 ` .........That was why......they were holding me tight, .........to make sure I didn't head down the wrong path......`
 `As my eyes adjusted, I could see other people besides my parents.`
 `Everyone was there.`
-` George onii‐chan, Jessica onee‐chan, Maria onee‐chan.`
+` George onii-chan, Jessica onee-chan, Maria onee-chan.`
 `My uncles and aunts.`
 `......Even Sakutarou.`
 ` ......And then, there was the witch {f:5:Virgilia}, and Ronove, and...............`
@@ -403,7 +403,7 @@
 `Mom gave me a push from behind, ............and I stumbled forwards.`
 `Towards my...other mother.`
 `".........Eva...... ...............Mom............"`
-`"......Ange‐chan..............."`
+`"......Ange-chan..............."`
 `"If only............I'd called you that on that day,`
 ` .........I might never have messed up......`
 ` ......We might have been able......to create a new world together......"`
@@ -412,7 +412,7 @@
 ` .........You don't need to say anything else..."`
 `"Mom......`
 ` ............Mom.................."`
-`"Welcome home, Ange‐chan...`
+`"Welcome home, Ange-chan...`
 ` ............You're my precious daughter......"`
 `"Mom......`
 ` ............You were always, ......to the very end, .........the one looking out for me the most............"`
@@ -447,8 +447,8 @@
 `To thank the cousins for always playing with me even though I was so selfish.`
 `......And to thank the creatures of fantasy......and apologize to them.`
 `I think I said something horrible to Sakutarou once, in the past.`
-`And to Maria onee‐chan too.`
-`"......Maria onee‐chan, you really were a witch, weren't you?"`
+`And to Maria onee-chan too.`
+`"......Maria onee-chan, you really were a witch, weren't you?"`
 `"I've always been a witch.`
 ` ......You approached that level yourself once, didn't you?"`
 `"No.`
@@ -456,13 +456,13 @@
 ` ......I felt sorry for you and your magic.`
 ` ......I could {i:only} feel sorry for you...`
 ` .........So, ......I couldn't pick up a fragment of happiness, couldn't even find one.`
-` .........You told me that yourself once, Onee‐chan......"`
+` .........You told me that yourself once, Onee-chan......"`
 `"......It can't be helped.`
 ` It takes two to create a universe.`
 ` ......I had Beato, but you were all alone."`
 `"No.`
 ` ......If only I could have called Aunt Eva "Mom", there would have been two of us.`
-` ......I'm sure I'd have been able to create a new world with the same magic you used, Maria onee‐chan."`
+` ......I'm sure I'd have been able to create a new world with the same magic you used, Maria onee-chan."`
 `".........All of it is my fault.`
 ` The message bottles I threw into the sea for fun caused a distortion in your future and wore you down.`
 ` ......I bear responsibility for that."`
@@ -513,7 +513,7 @@
 ` ......I hereby retract your expulsion from Mariage Sorcière."`
 `"Uryuu!`
 ` I knew Ange would come back...!"`
-`"Congratulations, Ange‐sama!"`
+`"Congratulations, Ange-sama!"`
 `"......Back in the days when I traveled together with you all, I remember thinking I understood all this...but I didn't.`
 ` ......I'm sorry.`
 ` I'm really sorry......"`
@@ -525,7 +525,7 @@
 ` ......With everyone.`
 ` And I'll live in the future.`
 ` I swear to keep living, so that I can pass on the magic of Mariage Sorcière."`
-`"Maria onee‐chan's magic has saved me too.`
+`"Maria onee-chan's magic has saved me too.`
 ` .........There are a lot of people out there who need magic.`
 ` Teaching it the right way and saving as many people as I can...`
 `...is my mission as the final witch of Mariage Sorcière."`
@@ -540,7 +540,7 @@
 `Everyone surrounded Ange with their kind, warm smiles......`
 `Battler stood alone in the rose garden maze, letting the rain quietly fall on him......`
 `After searching for some time, Ange found him.`
-`"............Onii‐chan........."`
+`"............Onii-chan........."`
 `".............................."`
 `Ange, who was feeling guilty, sensed anger in her brother's expression.`
 `So, ......she thought he was going to hit her.`
@@ -613,7 +613,7 @@
 ` ......You've just taken a peek at what's inside.`
 ` So now...you must be the lid yourself."`
 `"And, this time, you'll be the one to protect everyone inside the cat box.`
-` Me and Dad and Kyrie‐san, the cousins and the uncles and the aunts.`
+` Me and Dad and Kyrie-san, the cousins and the uncles and the aunts.`
 ` Grandfather and the servants.`
 ` ......And all of the fantasy people."`
 `"...............Yeah.`
@@ -690,7 +690,7 @@
 ` ......Why......?"`
 `If Battler was holding the bell, where did that sound come from......?`
 `Ange hurriedly searched through her pockets.`
-`When she did, ......another blue‐ribboned bell came out of a different pocket than the first one.`
+`When she did, ......another blue-ribboned bell came out of a different pocket than the first one.`
 `"These are......the same, aren't they...?"`
 `"......No way......`
 ` Why are there two?`

@@ -17,7 +17,7 @@
 `"Don't say that, can't you see this kid's working hard...?`
 ` Come on, quickly.`
 ` I'll wait for you."`
-`O‐okay......`
+`O-okay......`
 `Not wanting to hear the servants complain even more, I spun around and headed off.`
 `If you lose a tool, you get in trouble.`
 ` If no one knows who did it, we all get yelled at,`
@@ -42,19 +42,19 @@
 `{n}It goes somewhere else. Vanishes.`
 `I've come to think that these might be pranks by the witch {f:5:Beatrice}.`
 `The ghost of the witch {f:5:Beatrice} borrowed the power of Rokkenjima's evil spirits to become reborn.`
-`Until Kumasawa‐san told me, I never knew the meaning of the shrine on the rocks by the sea.........`
+`Until Kumasawa-san told me, I never knew the meaning of the shrine on the rocks by the sea.........`
 `"Kumasawa told an old, old tale, passed down among the local fishermen.`
 ` Rokkenjima used to be known as Akujikijima,`
 ` and terrible evil spirits who ate human souls lived there......"`
 `"Hey, Kumasawa!`
 ` Let us hear too!"`
 `"Tell us the scary, scary tale of Rokkenjima's evil spirits!"`
-`"Hoh‐hoh‐ho, very well, very well.`
+`"Hoh-hoh-ho, very well, very well.`
 ` Rokkenjima used to be called Azukijima.`
 ` However, even deeper in the distant past, it was known as Akujikijima.`
 ` It was rumored that sailors who got too near the island were dragged down to the bottom of the sea and had their souls eaten."`
 `"......Those frightening spirits do exist on this island, you know?`
-` Hoh‐hoh‐hoh‐ho."`
+` Hoh-hoh-hoh-ho."`
 `"It was Kumasawa's favorite ghost story.`
 ` Every new servant who came to the island heard about it.`
 ` .........Normally, such a story would be laughed away; however, on Rokkenjima, an island home to nothing but the Rokkenjima mansion,`
@@ -62,11 +62,11 @@
 `"So the shrine by the coast is there to seal evil spirits away!"`
 `"And the Master has that weird occult hobby, too!"`
 `"And the mansion is so creepy, something must be lurking around somewhere!"`
-`"Hoh‐hohoho.`
+`"Hoh-hohoho.`
 ` True, true.`
 ` Sealing up the spirits was all that the traveling ascetic could manage.`
 ` The seal just manages to hold them, but to this very day, they wander through the mansion, night after night, searching for a victim.`
-` Hoh‐hoh‐hoh‐ho......"`
+` Hoh-hoh-hoh-ho......"`
 `"Have you seen the Master's study?!"`
 `"I have!`
 ` It's like some kind of demon laboratory!"`
@@ -77,9 +77,9 @@
 ` What will I do if the Master asks me to come into the study alone?!"`
 `"I heard that, long ago, one kid went into the study and never came out!"`
 `"She must have been a victim of an experiment to give Beatrice's ghost a new body!"`
-`"Hoh‐hoh‐ho.`
-` Yes, {f:5:Beatrice}‐sama has become a ghost, and wanders around searching for a body.`
-` The VIP room on the second floor is where {f:5:Beatrice}‐sama dwells...`
+`"Hoh-hoh-ho.`
+` Yes, {f:5:Beatrice}-sama has become a ghost, and wanders around searching for a body.`
+` The VIP room on the second floor is where {f:5:Beatrice}-sama dwells...`
 ` You must always be respectful when cleaning that room...`
 ` Otherwise...`
 `.........uhi{0}hi{0}hi{0}hi{0}hhi{0}hhi~!"`
@@ -90,11 +90,11 @@
 ` That process was an old one that had repeated many times as the story was passed down."`
 `"That's right.`
 ` Back when I first started work at Rokkenjima,`
-` I heard that story from Kumasawa‐san and the older servants."`
-`"I heard about it too, mostly from Nee‐san."`
+` I heard that story from Kumasawa-san and the older servants."`
+`"I heard about it too, mostly from Nee-san."`
 `"I heard it too.`
-` From Kumasawa‐san, mainly."`
-`"So, not only the timid‐looking Shannon,`
+` From Kumasawa-san, mainly."`
+`"So, not only the timid-looking Shannon,`
 ` but a boy, Kanon, and a big adult, Gohda, believed in the ghost story?"`
 `"Well, I didn't really {i:believe}..."`
 `"There are tales of ghost stories and jinxes in all jobs.`
@@ -105,7 +105,7 @@
 ` Ghost stories and jinxes are all the local rules of your workplace.`
 ` If a newcomer turns his nose up at them, he can't expect to blend in."`
 `"Exactly.`
-` ......If I said witches couldn't exist, that it was ridiculous, then I'd get into a fight with Nee‐san.`
+` ......If I said witches couldn't exist, that it was ridiculous, then I'd get into a fight with Nee-san.`
 ` It was easier if I just appeared to go along with it."`
 `"Come on. If you look at it that way, you'll be cursed...`
 ` There was one servant who got seriously injured..."`
@@ -282,7 +282,7 @@
 `...grasped my form......?"`
 `The demonic lips......twisted in an ugly curve.`
 `{n}It was clearly a challenging, repulsive, ......demon's smile...`
-`She wore a blood‐red dress and hat.`
+`She wore a blood-red dress and hat.`
 ` The design was completely different from anything {y:0:Humans}{n:0:humans} wore.`
 `Her hair was blonde.`
 ` It had countless beautiful curls, like a princess from a picture book,`
