@@ -228,7 +228,7 @@
 `"Ô kìa, thế à?`
 ` Bác cứ tưởng là với ngoại hình như thế thì cháu lại làm cho các em gái khóc thút thít suốt..."`
 `"Không-không-không-không-không!`
-` B‐b‐`
+` B-b-`
 `bác đang đùa thôi phải không ạ?!`
 ` Tất nhiên là chưa từng có chuyện gì kỳ cục như thế xảy ra với cháu đâu ạ!`
 ` Ngược lại thì, bác mà quen "em" nào thì giới thiệu cho cháu với ạ!"`
@@ -549,9 +549,9 @@
 ` Đúng không nè Maria?!`
 ` Tụi mình là bạn thân mà, cứ gọi tên thoải mái đi!"`
 `"Battler, Battler, Battleeerrr!`
-` Uu‐uu!"`
+` Uu-uu!"`
 `"Đúng rồi, Maria, Maria, Mariaaa!`
-` Uu‐uu!!"`
+` Uu-uu!!"`
 `Tụi tôi đã chơi đùa một lúc để bù đắp lại khoảng cách sáu năm không gặp.`
 `Có lẽ với em ấy, tôi chỉ là một người bạn mới quen to xác, nhưng rồi chúng tôi sẽ lại thân thiết thôi.`
 `Nhưng tôi cũng thấy bất ngờ.`

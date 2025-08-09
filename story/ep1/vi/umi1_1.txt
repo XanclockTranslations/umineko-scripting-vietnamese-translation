@@ -2,7 +2,7 @@
 `......thuyền......"`
 `"Rơi mất thuiii!`
 ` Rơi mất thuiii!`
-` Uu‐uu‐uu‐uu!!"`
+` Uu-uu-uu-uu!!"`
 `"Maria, đủ rồi đấy!"`
 `"......Nhưng mà cô cũng thấy bất ngờ quá.`
 ` Cô tưởng không có gì làm Battler sợ nổi chứ."`
@@ -24,7 +24,7 @@
 `"Wahhahaha, nào, nào. Ai cũng có điểm mạnh điểm yếu riêng.`
 ` Cười người ta là không tốt đâu.`
 ` Wahhahaha...!"`
-`"B‐Bố, bố cũng cười nữa kìa.`
+`"B-Bố, bố cũng cười nữa kìa.`
 ` Này, Maria ơi, em cũng không nên cười nữa nhé."`
 `"Không nên cười nữa?`
 ` Uu!"`
@@ -87,7 +87,7 @@
 `"Chị bảo mày rồi, vếu chị không phải để cho mày bóp!!`
 ` Phải nói về mày nữa chứ! Cao to như người lớn rồi, thế mấy chỗ khác đã lớn chưa, hử?!"`
 `"Dừng lại, đồ ngốc này! Em sẽ không lấy được vợ mấtttttt! Đừng chạm vào chỗ đó màààààà!!"`
-`"Đ‐đừng nói mấy câu dễ gây hiểu lầm như thế!!"`
+`"Đ-đừng nói mấy câu dễ gây hiểu lầm như thế!!"`
 `Thật lòng thì tôi đã sốc vì Jessica trông nữ tính đến mức tôi phải làm trò lố để che giấu sự lúng túng ấy.`
 `......Ừ thì, nghĩ lại cái hồi chị còn là con bé ngang ngược cách đây sáu năm, ai mà chẳng bất ngờ.`
 `Và chắc là chị ấy cũng bất ngờ không kém.`
@@ -126,7 +126,7 @@
 `"Làm sao mà em quên được bà Kumasawa chứ!`
 ` Sáu năm rồi mà trông bà chẳng già đi chút nào.`
 ` Khoan đã, đừng nói là bà trẻ ra đấy nhé~?"`
-`"Hoh‐hoh‐ho!`
+`"Hoh-hoh-ho!`
 ` Dạo này da tôi cứ láng mịn như da em bé ấy!`
 ` Với lại, cậu nhìn xem, ngực tôi còn to hơn trước nữa đấy.`
 ` ...Có muốn sờ thử không?"`
@@ -142,15 +142,15 @@
 `"Bà Kumasawa ơi, thôi đi ạ.`
 ` Sắp xuống lỗ đến nơi rồi mà còn đùa dai làm gì nữa."`
 `"Chơi đùa cùng người trẻ là thuốc trường sinh tốt nhất đấy.`
-` Hoh‐hoh‐ho!"`
+` Hoh-hoh-ho!"`
 `"Hiếm khi thấy bà ra tận đây đón tụi tôi nhỉ, bà Kumasawa.`
 ` Có chuyện gì lạ à?`
 ` Thường thì cứ được giao việc là y như rằng bà than đau lưng mà."`
 `"*cười khúc khích*"`
-`"Hoh‐hoh‐ho, phu nhân Eva vẫn sắc bén như ngày nào.`
+`"Hoh-hoh-ho, phu nhân Eva vẫn sắc bén như ngày nào.`
 ` Tôi có chút đồ cần mua gấp, tiện thể thì ra đón mọi người luôn.`
 ` Nhưng đúng là để một bà lão già khọm như tôi đứng đón khách thì nhìn có phần kém sang thật.`
-` Hoh‐hoh‐ho...!"`
+` Hoh-hoh-ho...!"`
 `Bác Eva tuy mỉa mai ghê đấy, nhưng kinh nghiệm dày dạn của bà Kumasawa thì cũng không đùa được đâu.`
 ` Bà ấy có thể xử lý tình huống một cách trơn tru và nhẹ nhàng như thường lệ.`
 `Thật ra thì... tuy không muốn nói ra, nhưng bà Kumasawa chắc cũng qua thời đỉnh cao làm hầu gái rồi.`
@@ -182,7 +182,7 @@
 ` Còn cái lưng thì sao rồi bà?"`
 `"Dù có uống thuốc rồi, nó cũng chẳng khá lên tí nào đâu.`
 ` Bác sĩ bảo là bó tay rồi.`
-` Là bệnh nan y đấy, hoh‐hoh‐ho!"`
+` Là bệnh nan y đấy, hoh-hoh-ho!"`
 `"Nhìn cháu càng ngày càng xinh đẹp như vậy làm chú giật mình đó nha Jessica.`
 ` Hãy vui vì cháu đã trở thành người giống như chị Natsuhi nhé."`
 `"T-thật ạ...?`
@@ -208,7 +208,7 @@
 `"Ôi chà chà, Rudolf ơi là Rudolf, lúc nào chú cũng được các quý cô quan tâm thôi.`
 ` Anh phát ghen với chú đấy!`
 ` Wahahahaha!"`
-`"Hoh‐hoh‐ho!`
+`"Hoh-hoh-ho!`
 ` Như thường lệ, ngài được quan tâm đến mức tôi cũng phải ghen tị đó.`
 ` Bây giờ thì, tất cả đã sẵn sàng lên thuyền luôn chưa nào?`
 ` Nào bé Maria ơi, cùng lên thuyền với bà nhé?"`
@@ -251,18 +251,18 @@
 `"Này Battler, hay là mày nhảy xuống mà bơi qua đảo luôn đi con."`
 `"Battler à, em đừng có thò đầu qua lan can nhiều quá.`
 ` Rơi xuống biển bây giờ."`
-`"Uu‐uu!!`
+`"Uu-uu!!`
 ` Rơi mất thuiii rơi mất thuiii!!"`
 `"Chết tiệt... Hèn chi nãy giờ mấy anh em tụi bây cứ cười tủm tỉm!"`
 `Chiếc thuyền siêu tốc, được độ tới bến bởi chính thuyền trưởng như một thú vui cá nhân, đúng là không giống tẹo nào với cái thuyền đánh cá cũ nát của sáu năm trước.`
 `"Whooooooooa, nó lắc quá nó lắc quá nó lắc quá!!`
 ` Em rơi xuống mất em rơi xuống mất em rơi xuống mất!!"`
-`"Uu‐uu‐uu!!`
+`"Uu-uu-uu!!`
 ` Rơi mất thui rơi mất thui rơi mất thui!!"`
 `"Em mà rơi xuống biển thì sẽ chết đuối mất – cái dù đâu – à không, cái phao đâu?!`
 ` Đưa em một cái áo phaooooooo!!"`
-`"Waah‐hah‐hah‐hah‐ha!`
-` Cái gì thế hả Battler, làm cái trò gì vậy... waah‐hah‐hah‐hah‐ha!"`
+`"Waah-hah-hah-hah-ha!`
+` Cái gì thế hả Battler, làm cái trò gì vậy... waah-hah-hah-hah-ha!"`
 `"Jessica, Maria, trêu người khác là không hay đâu.`
 ` Battler à, nếu em sợ thì đừng có đứng ở ngoài boong nữa.`
 ` Anh nghĩ là ở trong khoang thuyền có thể em sẽ đỡ sợ hơn đấy."`
@@ -274,7 +274,7 @@
 ` Em rơi mất bây giờờờờờ!!`
 ` Whooooaaaaaahhh!!"`
 `"Lắc và rơiiiiiii!!`
-` Uu‐uu‐uu!!"`
+` Uu-uu-uu!!"`
 `"Maria à, mẹ đã bảo là con phải ngoan rồi cơ mà!`
 ` ......Nhưng mà Battler à, cô thấy là cháu không chịu được nổi nữa rồi đó...`
 ` Để cô bảo thuyền trưởng cho tàu đi chậm lại nhé."`
@@ -311,7 +311,7 @@
 `"Chết tiệt... Chị cứ cười đi.`
 ` Một ngày nào đó em sẽ tìm ra điểm yếu của chị và báo thù cho chị xem... lúc đó thì cẩn thận hai quả vếu của chị đó......"`
 `"Ahahaha, ừ rồi, chị cứ chờ mày nhé?!`
-` Waah‐hah‐hah‐ha!"`
+` Waah-hah-hah-ha!"`
 `"Uu.`
 ` Battler mệt lắm rồi."`
 `"Ừm, Battler mệt lắm rồi...`
@@ -367,7 +367,7 @@
 `Khi ông bà ngoại lần lượt qua đời, tôi cũng chẳng còn lựa chọn nào khác ngoài việc quay về sống với lão già đó.`
 `Đừng hiểu nhầm. Không chỉ đơn giản là tôi bỏ nhà đi hay gì đâu.`
 `{n}Người duy nhất sai ở đây là bố tôi.`
-`......Còn cô Kyrie‐san thì tôi chẳng oán trách gì mấy.`
+`......Còn cô Kyrie thì tôi chẳng oán trách gì mấy.`
 `{n}Có thể cầm cương mà điều khiển được lão đó thì đã là một chuyện phi thường rồi.`
 `...Nhưng còn vụ lão phản bội mẹ tôi...`
 ` ......Thì tiếc là tôi vẫn chưa thể bỏ qua được."`
@@ -386,7 +386,7 @@
 `"Uu!`
 ` Battler ơi, thấy hòn đảo rồi, thấy hòn đảo rồi!`
 ` Ở kia ở kia ở kia!`
-` Uu‐uu‐uu!"`
+` Uu-uu-uu!"`
 `"Nó ở đâu nhỉ... ồ, anh thấy rồi nè.`
 ` Dù cho sáu năm đã trôi qua rồi, thì hòn đảo vẫn không thay đổi chút nào luôn."`
 `Bóng dáng của hòn đảo nhỏ trước mắt đã ở rất gần.`
@@ -428,9 +428,9 @@
 ` ......Mất tiêu rồi."`
 `"Sao thế, Maria?`
 ` Em đánh rơi gì à?"`
-`"Uu‐uu!`
+`"Uu-uu!`
 ` Mất tiêu rồi, mất tiêu rồi!`
-` Uu‐uu‐uu‐uu!!"`
+` Uu-uu-uu-uu!!"`
 `Maria cứ hét lên "mất rồi, mất rồi".`
 `Nếu chỉ nghe, người ta sẽ nghĩ rằng chắc em ấy đã đánh rơi thứ gì đó. Nhưng thực tế, khi nhìn vào sự việc, có thể thấy rằng em ấy đang chỉ tay ra ngoài đại dương và hét lớn.`
 `"Sao vậy?`
@@ -455,7 +455,7 @@
 ` Anh chắc chắn là năm ngoái vẫn còn mà."`
 `"Mất tiêu rồi.`
 ` Mất tiêu rồi."
-` Uu‐uu‐uu!"`
+` Uu-uu-uu!"`
 `"Có thể nó bị sóng đánh bay mất rồi?`
 ` Mỏm đá đó nhỏ mà, chắc do lâu ngày bị sóng nước bào mòn."`
 `"Chị cũng nghĩ vậy.`
@@ -515,9 +515,9 @@
 ` Không sao đâu, Maria."`
 `"...............Uu.`
 ` ...Uu!!`
-` Uu‐uu‐uu!!`
-` Uu‐uu‐uu!!"`
-`Em ấy bắt đầu la lên "uu‐uu".`
+` Uu-uu-uu!!`
+` Uu-uu-uu!!"`
+`Em ấy bắt đầu la lên "uu-uu".`
 `{n}...Trông giống như em đang giận vì chẳng ai hiểu được điều mà em ấy muốn nói.`
 `Không biết rốt cuộc Maria đang cố cảnh báo tụi tôi điều gì đây?`
 `Vì không hiểu nổi em ấy, nên tụi tôi chỉ có thể cảm thấy một nỗi bất an mơ hồ...`
@@ -534,7 +534,7 @@
 `Tôi cũng muốn gặng hỏi thêm, chỉ vì tò mò thôi,`
 ` nhưng nhìn cách chị ấy cư xử, không khó để đoán rằng việc đó sẽ chỉ khiến bé Maria thêm lo lắng.`
 `...Nếu tôi thực sự cố gắng hỏi thêm về chuyện đó, thì khả năng cao là nó sẽ không phải là một câu chuyện vui vẻ gì cả.`
-`"......Hoh‐hoh‐ho, cho tôi xin lỗi nhé...`
+`"......Hoh-hoh-ho, cho tôi xin lỗi nhé...`
 ` ...Gió ở đây khiến người già khó chịu quá, nên nếu được thì cho tôi xin phép nghỉ ngơi một chút nhé..."`
 `Mấy người hay buôn chuyện thì chẳng có lý do gì để tiếp tục ở lại sau khi bị nhắc nhở dừng nói.`
 `Khi bà Kumasawa cuối cùng cũng nhận ra mình đã lỡ lời, bà ấy quay vào bên trong thuyền.`
@@ -586,7 +586,7 @@
 `{n}Em ấy lại là Maria thường ngày mà tôi quen.`
 `"Uu.
 ` Giờ không còn gì phải sợ nữa, vì tụi mình ở bên nhau.
-` ...Uu‐uu."`
+` ...Uu-uu."`
 `"Ừ, đúng rồi đó.
 ` ...Giờ trông em ổn hẳn rồi.
 ` Em mạnh mẽ lắm, Maria, ngoan lắm!"`

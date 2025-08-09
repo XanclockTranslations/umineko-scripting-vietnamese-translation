@@ -9,7 +9,7 @@
 ` Chiếc thuyền làm Battler sợ vãi cả linh hồn ra.`
 ` Cho nên tụi tôi phải đi chậm lại vì em ấy đó.`
 ` Thật là phiền phức chết đi được!"`
-`"I‐im đi... Em sẽ nhớ chuyện này nếu lần sau chị gặp chuyện gì đó tương tự đấy... ugghh."`
+`"I-im đi... Em sẽ nhớ chuyện này nếu lần sau chị gặp chuyện gì đó tương tự đấy... ugghh."`
 `Với cái đà này, cả gia đình sẽ đồn ầm lên mất. Tôi sẽ trở thành chủ đề nóng hổi để mọi người bàn khi ăn tối cho mà xem.`
 `Chỉ riêng việc vắng mặt sáu năm đã đủ khiến họ xì xào rồi... mà nay tôi còn tự vẽ ra thêm cái chuyện "hấp dẫn" như vậy nữa...!`
 `Chết tiệt, tại sao nhánh chính của gia tộc Ushiromiya lại phải sống trên cái hòn đảo hẻo lánh này chứ!`
@@ -77,7 +77,7 @@
 `"......Uu?!"`
 `"Cái quái gì thế hả, đừng nói mấy chuyện ghê rợn như vậy chứ!`
 ` Em làm Maria rối tung lên rồi kìa!!"`
-`"Uu‐uu‐uu!`
+`"Uu-uu-uu!`
 ` Chị Jessica xiên tụi nó, xiên tụi nó làm thịt xiên!`
 ` Uu!!"`
 `"Không có nha, chị không có làm vậy!`
@@ -86,7 +86,7 @@
 ` Xiên da, xiên thịt, xiên gan với hành tây~!"`
 `"Xiên dan viên thịt!`
 ` Gan với hành tây!!`
-` Uu‐uu‐uu!`
+` Uu-uu-uu!`
 ` Ahaha, ahaha!`
 ` *cười khúc khích*!"`
 `Khi tôi trêu Jessica, Maria cũng nhập cuộc với vẻ mặt thích thú như thể đang rất vui.`
@@ -129,7 +129,7 @@
 ` Con sẽ đợi thời tiết tốt hơn để bầy chim quay lại.`
 ` Chờ đến ngày mai.`
 ` Chờ thời tiết tốt hơn.`
-` Uu‐uu!"`
+` Uu-uu!"`
 `Tâm trạng của Maria đã phấn chấn trở lại, và con bé bắt đầu háo hức chờ đến ngày mai, khi mà bầy hải âu quay lại và dang rộng đôi cánh, lấp đầy bầu trời.`
 `Dù vậy, anh George đúng là giỏi chăm sóc trẻ con thật.`
 `...Tôi nhớ là anh cũng từng chăm sóc tôi rất tốt, khi tôi còn là một thằng nhóc hồi sáu năm trước.`
@@ -200,7 +200,7 @@
 ` Sau cùng thì anh vẫn là cái loại trăng hoa từ trong máu rồi mà...!"`
 `"Không phải lo nhé cô Rosa.`
 ` Nếu có bông hồng nào làm phiền chị quá, thì chị chỉ cần chặt nó đi ngay phần gốc là được."`
-`"Hoh‐hoh‐hoh‐ho... cuộc trò chuyện này đáng sợ ghê."`
+`"Hoh-hoh-hoh-ho... cuộc trò chuyện này đáng sợ ghê."`
 `"Đàn ông được phụ nữ mê, sinh thời sẽ gặp trăm bề nguy nan."`
 ` Anh chỉ mong kiếp sau mình đẹp trai hơn thôi!"`
 `"Anh Hideyoshi à, em đã nói không biết bao nhiêu lần rồi, mọi chuyện không như anh nghĩ đâu.`
@@ -353,7 +353,7 @@
 ` Nở nụ cười cũng là một phần bổn phận của gia nhân đấy."`
 `"...............Tôi xin lỗi.`
 ` ...Tôi sẽ cố gắng."`
-`"Hoh‐hoh‐ho...`
+`"Hoh-hoh-ho...`
 ` Gohda à, Kanon đã cố hết sức rồi chứ, nhỉ?"`
 `Có vẻ như cậu ấy thường xuyên bị nhắc nhở về chuyện thiếu lễ phép.`
 `{n}Và rõ ràng là cậu vẫn chưa tiến bộ được bao nhiêu.`
@@ -380,7 +380,7 @@
 `"Với lại, anh chúa ghét mấy kẻ mà chuyên bắt bồi bàn phải cúi xuống nhặt nĩa nếu họ lỡ làm rơi đấy."`
 `Tôi cúi xuống nhặt những bao phân còn lại.`
 `{n}Tất nhiên là chúng không nhẹ gì, nhưng với tôi thì chẳng nhằm nhò gì.`
-`Kanon‐kun ngẩng lên nhìn tôi, mắt đầy bất ngờ.`
+`Kanon-kun ngẩng lên nhìn tôi, mắt đầy bất ngờ.`
 `{n}Đó là ánh mắt của một người không ngờ sẽ được khách giúp đỡ.`
 `"............T-thưa cậu Battler...`
 ` Không cần đâu ạ... Tôi sẽ tự làm được..."`
@@ -396,16 +396,16 @@
 ` Xem như bù lại vụ trên thuyền hồi nãy, được không?"`
 `"Ha!`
 ` Mấy trò hề hồi nãy mà xem như xí xóa là xong á!`
-` Ah‐hah‐hah‐ha!`
+` Ah-hah-hah-ha!`
 ` Lát nữa tôi kể hết cho cậu nghe nha, Kanon à. Battler là cây hài chính hiệu luôn!"`
 `"Rơi mất thuiii rơi mất thuiii!!
-` Uu‐uu‐uu!!!"`
+` Uu-uu-uu!!!"`
 `Vừa làm vừa nói khiến mọi thứ có vẻ diễn ra nhanh chóng, và trước khi tôi kịp nhận ra, mọi thứ đã được chất đầy trở lại lên xe rùa.`
 `"............Vì đã để các vị chứng kiến cảnh tượng khó coi này, tôi xin phép được thứ lỗi."`
 `"Tốt lắm, đủ rồi đấy.`
 ` Giờ cậu đi đi."`
 `Việc để khách – những người lẽ ra phải được tiếp đón chu đáo – chứng kiến cảnh tượng xấu hổ như vậy... hẳn là một nỗi nhục lớn đối với một gia nhân.`
-`Bị Gohda thúc giục rời đi, Kanon‐kun đã cất bước.`
+`Bị Gohda thúc giục rời đi, Kanon-kun đã cất bước.`
 `"Anh hơi nặng lời với cậu ấy rồi đó, Gohda à.`
 ` Sao không giúp một tay thay vì bắt nạt, nhỉ?"`
 `"...Bà nói đúng rồi ạ.`
@@ -418,7 +418,7 @@
 ` Cứ đối xử nhẹ nhàng với cậu ấy đi.`
 ` Biết im lặng như vậy lại là đức tính một gia nhân cần có đó.`
 ` Phải vậy không thưa bà Kumasawa?"`
-`"Hoh‐hoh‐hoh‐ho, ngài Rudolf ác quá nha!`
+`"Hoh-hoh-hoh-ho, ngài Rudolf ác quá nha!`
 ` Không có gia nhân nào im lặng được bằng tôi đâu!"`
 `Ai nấy đều cười gượng với lời dối trắng trợn đó.`
 `{n}Ngay cả chính bà ấy cũng không tin được lời mình nói, dù chỉ là trong mơ.`
@@ -559,7 +559,7 @@
 `"Uu!`
 ` Em cũng thích ở đây nhất!`
 ` Ở đây thích hơn là ở cùng với Mama!`
-` Uu‐uu!"`
+` Uu-uu!"`
 `"Ok, Maria cũng thích ở đây hơn ha!`
 ` Vậy thì, phòng này là của anh George với anh, nhưng bọn anh sẽ cho em đặc quyền vào đây nha!`
 ` Đừng nói với mẹ em đấy!"`
@@ -591,7 +591,7 @@
 ` Cháu sẽ trông nhà như một cậu bé ngoan luôn."`
 `"Bà Kumasawa, cháu cũng sẽ ở lại nhé!`
 ` Mấy chuyện còn lại nhờ người lớn lo, tụi cháu sẽ tách đoàn một chút, heheheh!"`
-`"Vậy thì là tốt nhất rồi, hoh‐hoh‐ho.`
+`"Vậy thì là tốt nhất rồi, hoh-hoh-ho.`
 ` Tôi sẽ báo lại với bà chủ..."`
 `"Vậy thì, xin mời các vị, tôi sẽ dẫn đường đến biệt thự.`
 ` Mời đi lối này."`
@@ -624,8 +624,8 @@
 `"Uu!`
 ` Battler với em cũng muốn biết!`
 ` Battler với em cũng muốn biết!"`
-`""Uu‐uu‐uu‐uu!!!""`
-`Tôi bắt chước "uu‐uu" cùng với Maria và đùa giỡn.`
+`""Uu-uu-uu-uu!!!""`
+`Tôi bắt chước "uu-uu" cùng với Maria và đùa giỡn.`
 `"Không, anh nói thật mà... chẳng có gì to tát đâu, ahahaha..."`
 `"Xạo là rõ~!`
 ` Anh dở tệ khoản nói dối luôn đó, mau khai ra đi!`
@@ -637,7 +637,7 @@
 ` Khoan đã mấy đứa...!!`
 ` Ahahaha, dừng lại,`
 ` ahahahahahaha!!"`
-`George‐aniki lăn lộn trên giường cố né, còn tôi với Maria thì đuổi theo để trêu anh ấy.`
+`Anh George lăn lộn trên giường cố né tránh, còn tôi với Maria thì đuổi theo để trêu anh ấy.`
 `Trong đầu tôi có giọng nói nhắc rằng mình là học sinh cấp ba rồi đấy, không còn là con nít nữa đâu, nhưng dù vậy, tôi vẫn nhớ cảm giác vui vẻ kiểu này.`
 `Một niềm vui ấm áp.`
 `"Haahahahaha, chuyện anh George hỏi bà Kumasawa đó, thì...`
@@ -653,7 +653,7 @@
 ` Maria, đừng để bị lừa, anh ấy vẫn còn giấu chuyện gì đó~!`
 ` Tiếp tục tra khảo!!`
 ` Uworyaaa!!"`
-`"D‐dừng lại đi, nghiêm túc đó!`
+`"D-dừng lại đi, nghiêm túc đó!`
 ` Aahahahahaha!`
 ` Bé Maria à, em cũng dừng lại đi!!"`
 `"Aahahahahaha, aahahahahaha!`
@@ -750,7 +750,7 @@
 `......Dĩ nhiên, Shannon hoàn toàn không biết chuyện gì đang xảy ra trong phòng khách.`
 `Khi cô đẩy xe trà chất đầy những chiếc tách vào phòng,`
 ` Natsuhi nhìn cô với một ánh mắt đau đớn mà không rõ lý do, khiến Shannon giật mình mà không hiểu mình làm gì sai.`
-`"......X‐xin thứ lỗi.`
+`"......X-xin thứ lỗi.`
 ` Tôi sẽ chuẩn bị trà ngay."`
 `"Ô kìa, cô Shannon, đã lâu không gặp rồi!`
 ` Mỗi lần gặp lại là tôi lại thấy cô xinh hơn hẳn đấy!"`
@@ -858,7 +858,7 @@
 `Tuy nhiên, Kanon lặng lẽ nhìn Genji, ánh mắt mang theo điều gì đó không thể nói ra bằng lời.`
 `"...............Có chuyện gì sao?`
 ` Có chuyện vừa gì xảy ra à...?"`
-`"...Sha‐`
+`"...Sha-`
 `......Shannon không làm gì sai,`
 ` nhưng mấy người đó–"`
 `"Dừng lại đi mà Kanon..."`
